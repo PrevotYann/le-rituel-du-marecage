@@ -1,0 +1,894 @@
+{
+  "systemVersion": "0.8.0",
+  "revision": "0.1.1",
+  "policy": "Clés natives uniquement. Une valeur vide est explicitement affichée comme non précisée, non répertoriée ou sans objet. Les inférences de résidence ne sont pas présentées comme des naissances établies.",
+  "actors": {
+    "eliora": {
+      "species": "human",
+      "subspecies": "bornMage",
+      "region": "ionia",
+      "appearance": "Humaine muette, télépathe.",
+      "reason": "Humaine née avec sa magie, élevée dans un monastère d’Ionia : texte source explicite.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "joel": {
+      "species": "human",
+      "subspecies": "",
+      "region": "demacia",
+      "appearance": "Ancien menuisier demacien.",
+      "reason": "Demacien sans pouvoir selon le texte source.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "ellen": {
+      "species": "human",
+      "subspecies": "bornMage",
+      "region": "demacia",
+      "appearance": "Fille adoptive de Joël, 13 ans.",
+      "reason": "Née en Demacia et magie manifestée dans l’enfance : source.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "kaelor": {
+      "species": "vastaya",
+      "subspecies": "",
+      "region": "piltover",
+      "appearance": "Vastaya aux traits de loup.",
+      "reason": "Vastaya loup élevé à Piltover : source. Aucune tribu lupine dans les choix natifs du système ; pas d’hybridation inventée.",
+      "subtypeLabel": "Non répertoriée — Vastaya loup",
+      "legacy": {
+        "species": "vastaya",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "klaus": {
+      "species": "human",
+      "subspecies": "",
+      "region": "noxus",
+      "appearance": "Très petite taille ; pilote du Hexotech.",
+      "reason": "Humain selon sa déclaration source, commandant à Noxus ; ambiguïté de son apparence conservée.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "lianne": {
+      "species": "yordle",
+      "subspecies": "common",
+      "region": "bandle",
+      "appearance": "Yordle de Bandle, amis imaginaires.",
+      "reason": "Yordle de Bandle à magie active et tempérament fantasque : commun selon les règles du système.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "yordle",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "regan": {
+      "species": "human",
+      "subspecies": "altered",
+      "region": "zaun",
+      "appearance": "Humain altéré par le Shimmer ; griffe Chemic-O-Spike.",
+      "reason": "Humain enfant du Shimmer : source. Zaun retenue par cohérence avec le Shimmer ; origine géographique non explicitée dans sa biographie, adaptation.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "wako": {
+      "species": "vastaya",
+      "subspecies": "ondrashi",
+      "region": "ionia",
+      "appearance": "Vastaya caprin, disciple d’Onno.",
+      "reason": "Bouc ionien : source ; Wako est explicitement cité comme exemple Ondrashi dans le compendium de création du système.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "vastaya",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "will": {
+      "species": "human",
+      "subspecies": "",
+      "region": "bilgewater",
+      "appearance": "Humain navigateur lié à Huul.",
+      "reason": "Humain de Bilgewater : source. Un lien spirituel ne suffit pas à établir une naissance mage.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "toadrick": {
+      "species": "vastaya",
+      "subspecies": "",
+      "region": "ixtal",
+      "appearance": "Vastaya reptile aux traits de tortue.",
+      "reason": "Vastaya tortue : source. Ixtal retenue comme lieu de vie ; aucune tribu native ne correspond sans supposer de métamorphose.",
+      "subtypeLabel": "Non répertoriée — tortue",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "C’est un Vastaya reptile ressemblant à une tortue. Il est amorti mais semble souriant. Il est très souvent ivre et récupère des choses de valeur dans la jungle pour les dépenser dans l’alcool. Il aime le Rhum de Luis car il est chargé comme il faut selon lui mais quand il boit trop et importune les clients, Luis le met dehors le temps de décuver."
+    },
+    "teekaya": {
+      "species": "vastaya",
+      "subspecies": "",
+      "region": "ixtal",
+      "appearance": "Vastaya d’une tribu côtière, guide des marais.",
+      "reason": "Vastaya de tribu côtière : source. Tribu non nommée ; Ixtal est son territoire de guide, adaptation de résidence.",
+      "subtypeLabel": "Tribu côtière non précisée",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "Surnommée Oma, cette jeune Vastaya originaire d’une tribu côtière est habituée aux humains et à la faculté de voir en eux leurs intentions. Sa magie est très reliée à la pensée et permet de sentir les bonnes et mauvaises intentions des êtres vivants. Elle se propose en tant que guide pour aider les bien intentionnés et piéger les mauvaises personnes en les apportant au Tezqa’Loti (Cobra Envoûtant). Elle est forte de caractère, aime certaines coutumes humaines comme jurer, boire ou encore draguer. Elle est redoutable à la sarbacane et danse formidablement bien. Elle est très sociable et n’hésite pas à se proposer aux nouveaux venus. \n\nMagie : Lit les intentions des gens en regardant dans leurs yeux/ Transmet une émotion à la nature pour accélérer des processus/  Tireuse d’exception (Sarbacane)/"
+    },
+    "riva": {
+      "species": "vastaya",
+      "subspecies": "marai",
+      "region": "ixtal",
+      "appearance": "Vastaya Marai aquatique.",
+      "reason": "Marai explicitement nommée. Marais d’Ixtal retenus comme résidence, naissance non précisée.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "C’est une Vastaya Marai qui aime l’exploration. Elle se guide très facilement dans l’eau et aime beaucoup écouter discrètement les conversations des humains pour savoir ce qu’il se passe autour d’elle. Elle peut entendre sur des centaines de mètres tous les bruits proches de l’eau et peut se focaliser sur un endroit en particulier si elle le souhaite. Elle n’est que gentillesse et pureté, elle est timide mais aime quand on s’intéresse à elle, mais s'enfuit à la moindre tension agressive car elle a peur du conflit."
+    },
+    "azucena": {
+      "species": "vastaya",
+      "subspecies": "nirask",
+      "region": "ixtal",
+      "appearance": "Vastaya porc-épic/hérisson, archère.",
+      "reason": "Traits de rongeur correspondant aux Nirask du système. Ixtal retenue comme territoire, adaptation de résidence.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "C’est une Vastaya porc-épic/hérisson qui peut changer d’aspect à sa guise et varier entre son apparence humaine et sa forme animale. Elle est excellente archère, protectrice de la nature, très impulsive et craintive. Quand elle à peur, des piques vénimeuses sortent de partout de sa peau la rendant intouchable. Les plus grandes au niveau de son crâne lui font une crête particulièrement dangereuse. Elle peut en extraire des longues afin de les tirer avec son arc. Cependant elle apprend à ne pas tuer tous les humains qu’elle croise. Elle cherche à en connaître plus sur le monde extérieur. Ce monde nouveau pour elle. Il est conseillé d’y aller progressivement et sans gestes brusques quand vous la croisez. \n\nMagie : Fait pousser des piqûes venimeuses partout sur son corps qu’elle peut extraire/ Propulse tous ses piques autour d’elle comme une explosion (U)/ Archère d’exception/"
+    },
+    "brik": {
+      "species": "yordle",
+      "subspecies": "common",
+      "region": "bandle",
+      "appearance": "Yordle voyageur, magie Bandle active.",
+      "reason": "Origine Bandle et magie Yordle : source ; catégorie commune selon leurs descriptions.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "Ces deux Yordles sont lassés de Bandle. Ils préfèrent aller piller le monde des humains et tester leurs inventions. Brik à une apparence de putois roux, il est le plus âgé des deux, il est le plus mature, malgré ses enfantillages. Il est celui qui prend les décisions, celui qui exécute les plans que Brak crée. Brak, qui ressemble à un opossum, est plus doux que son ami, plus enfantin. Il est passionné par la découverte, la chasse aux trésors, et aime les breuvages que les humains appellent alcool ou cocktails (qui n’ont que très peu d’effets sur lui). Il est le négociateur, celui qui va réussir à potentiellement convaincre Brik d’être clément.  Les deux peuvent devenir invisibles (sauf leurs yeux s’ils sont ouverts) et peuvent ouvrir un portail Bandle non loin d’ici.\nMais les deux Yordles ont été victimes d’une magie étrange (Malek) et méconnue même pour eux. Ils s’étaient aventurés hors du village pour éviter de se faire chasser par les habitants, et sont tombés sur une maison remplie de babioles et de richesses. Mais ils ne se souviennent de rien et se sont retrouvés dépouillés à plusieurs kilomètres vers les côtes. \n\nMagie : Deviennent invisibles sauf leurs yeux qui luisent (donc doivent fermer les yeux pour ne pas se faire voir)/ Diverses magies Yordle/"
+    },
+    "brak": {
+      "species": "yordle",
+      "subspecies": "common",
+      "region": "bandle",
+      "appearance": "Yordle voyageur, magie Bandle active.",
+      "reason": "Origine Bandle et magie Yordle : source ; catégorie commune selon leurs descriptions.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "Ces deux Yordles sont lassés de Bandle. Ils préfèrent aller piller le monde des humains et tester leurs inventions. Brik à une apparence de putois roux, il est le plus âgé des deux, il est le plus mature, malgré ses enfantillages. Il est celui qui prend les décisions, celui qui exécute les plans que Brak crée. Brak, qui ressemble à un opossum, est plus doux que son ami, plus enfantin. Il est passionné par la découverte, la chasse aux trésors, et aime les breuvages que les humains appellent alcool ou cocktails (qui n’ont que très peu d’effets sur lui). Il est le négociateur, celui qui va réussir à potentiellement convaincre Brik d’être clément.  Les deux peuvent devenir invisibles (sauf leurs yeux s’ils sont ouverts) et peuvent ouvrir un portail Bandle non loin d’ici.\nMais les deux Yordles ont été victimes d’une magie étrange (Malek) et méconnue même pour eux. Ils s’étaient aventurés hors du village pour éviter de se faire chasser par les habitants, et sont tombés sur une maison remplie de babioles et de richesses. Mais ils ne se souviennent de rien et se sont retrouvés dépouillés à plusieurs kilomètres vers les côtes. \n\nMagie : Deviennent invisibles sauf leurs yeux qui luisent (donc doivent fermer les yeux pour ne pas se faire voir)/ Diverses magies Yordle/"
+    },
+    "camille": {
+      "species": "human",
+      "subspecies": "",
+      "region": "zaun",
+      "appearance": "Scientifique zaunienne transférée à Noxus.",
+      "reason": "Origine Zaun explicite : ne pas confondre avec son affectation noxienne.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "Camille est le contact d’Obrill. C’est une jeune scientifique originaire de Zaun qui s’est faite transférer dans l’armée Noxienne pour ses connaissances expertes. Elle sait utiliser un artefact Hextech capable d’analyser et d’extraire différentes formes de magies. Ses compétences lui permettent de comprendre et d’utiliser cet objet unique. Elle est également militante et refuse de s’en prendre à l'environnement dans lequel elle se trouve. Elle cherche à s’échapper de Noxus et souhaite en profiter pour tenter de rejoindre l’équipage du Flot Persistant. Mais durant le transfert avec Obrill, elle perdit connaissance et s’est retrouvée les yeux plongés dans le vide sous un arbre dans les marécages avant que la troupe de Mariane ne l’a retrouve et l’attache pour trahison et vol."
+    },
+    "mariane": {
+      "species": "human",
+      "subspecies": "",
+      "region": "noxus",
+      "appearance": "Membre de l’escouade noxienne.",
+      "reason": "Affiliation noxienne source ; origine Noxus et espèce humaine retenues pour cette escouade, adaptation.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "Elle est la cheffe d’escouade d’explorateur Noxiens venue examiner les lieux et s’aventurer dans les marécages pour rapporter des informations sur ces lieux étranges, lugubres et remplis de magies et de ressources rares. \nQuelque jours plus tôt ils perdirent la trace de Camille, d’une jeune scientifique originaire de Zaun, spécialiste en détection de sources magiques grâce. Elle était en possession d’un artefact Hextech qu’on lui a confié à Noxus pour détecter et comprendre les sources magiques de la région. Elle à disparu durant 48h avant d’être trouvée assise sous un arbre, vaseuse, le regard vide, les poches vides (comme Obrill). Mariane l’a donc enchainée, la tenant comme responsable d’avoir volé et sans doute cacher cet artefact. Ils sont à la recherche de l’objet mais comprennent vite que cette terre hostile cherche à les faire fuir."
+    },
+    "soldat-noxien": {
+      "species": "human",
+      "subspecies": "",
+      "region": "noxus",
+      "appearance": "Membre de l’escouade noxienne.",
+      "reason": "Affiliation noxienne source ; origine Noxus et espèce humaine retenues pour cette escouade, adaptation.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "gobi": {
+      "species": "human",
+      "subspecies": "altered",
+      "region": "piltover",
+      "appearance": "Gabriel, homme transformé progressivement en poisson.",
+      "reason": "Piltovien puis altéré par le contrat de Barry : source.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "Anciennement Gabriel, il fût un temps ou ce petit homme d’affaire Piltovien avait encore toute sa tête. Il était venu à la rencontre de Tahm Kench par navire pour lui demander une faveur contre de quoi se sustenter. Mais il est tombé sur Barry l’Usurpateur qui s’est fait passer pour le Démon. Il lui fit signer un contrat qui l’engage envers lui, mais se sentant trahi, il voulut quitter les marais pour entrer chez lui. Le contrat d’engagement envers Barry l'empêchant de retrouver son chemin et plus le temps passait plus il perdait la raison. Il finit par retourner dans l'antre de Barry et il devient son maître d’accueil.\nLe Gobi pense être un poisson. Il pense que tout le monde est un poisson, et petit à petit son délire devient réalité, car il se transforme (comme ses prédécesseurs autour de lui) en poisson."
+    },
+    "barry": {
+      "species": "human",
+      "subspecies": "altered",
+      "region": "bilgewater",
+      "appearance": "Humain maudit aux traits de crapaud.",
+      "reason": "Humain de Bilgewater transformé par une malédiction : source.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "Barry Hoffman était un homme respectable de Bilgewater. Il payait toujours ses dettes et veillait à subvenir aux besoins de sa femme et de sa fille. Cependant, malgré son intégrité, Barry fréquentait des pirates en tout genre. Bien qu'il se fasse souvent arnaquer, il gardait à l'esprit que cela ne devait pas l'empêcher de rester bon. Un jour, Basile, un pirate avec qui il s’entendait bien lui proposa de l’accompagner pour un voyage d’affaires, prévoyant un échange avec des négociants. Ayant besoin d’un comptable, il invita Barry à se joindre à lui.\nCependant, en pleine mer, leur navire fut attaqué par une créature marine redoutable. Barry fut finalement repêché par un autre bateau, celui-ci dirigé par des pirates cruels. Ces derniers l'enchaînèrent et le réduisirent en esclavage. Un prêtre de la grande barbue à bord lui jeta une malédiction pour le rendre plus laid et plus gros, le destinant ainsi aux tâches les plus ardues.\nUn jour, le navire coula dans une tempête, mais grâce à cette malédiction, Barry survécut : son apparence de crapaud lui permet de respirer sous l’eau. Il nagea pendant trois jours pour atteindre les côtes les plus proches, celles de Harelport. Là-bas, il réalisa que cette malédiction l'avait sauvé et décida de la transformer en une force.\nBarry se construisit une cabane et s’installa dans les marécages. Un jour, un pirate vint frapper à sa porte, pensant qu'il avait affaire à Tahm Kench, une créature légendaire. Voyant une opportunité, Barry créa de toutes pièces un faux contrat magique pour tromper l'homme. Peu à peu, sa réputation grandit : désormais, on raconte que si vous vous perdez dans les marais et que vous trouvez une cabane en bois, vous êtes déjà pris au piège.\nMagie : Rédige des contrats magiques d’engagement envers lui sous peine de malédiction/ Magie liée à sa malédiction/"
+    },
+    "malek": {
+      "species": "human",
+      "subspecies": "bornMage",
+      "region": "shurima",
+      "appearance": "Sorcier, aiguilles et corps marqué par sa captivité.",
+      "reason": "Shurima explicite ; don découvert naturellement, mage né retenu comme interprétation du système.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "Malek est un Sorcier “Vaudou” qui collectionne des babioles et objets de valeur sur les gens qui s’aventurent trop près de sa demeure. Il sait qu’elle devient source de convoitise et s’en sert pour attirer les étrangers à venir s’y aventurer afin de les dépouiller à leur tour. Quand on croise son regard, on perd conscience et Malek peut maîtriser le corps de la personne. Il peut également parler à travers, et ses yeux sont révulsés. Il peut posséder autant de corps que ses aiguilles touchent (Aucune sensation quand elles touchent une personne sauf si réussite critique Perception à l’initiative du joueur). Il peut les envoyer pour les poser méticuleusement dans tous les alentours qui sont infestés d’aiguilles.  Il est impossible de ne pas se faire toucher. Autrement dit, il est impossible de s’en sortir une fois pénétré dans la maison. Une fois dépouillé, il donne un ordre au corps, d’aller marcher jusqu'aux côtés sans s'arrêter, sans se retourner. \n\n(Le seul moyen de réussir à ne pas se faire posséder est de faire une réussite critique en Mental. A ce moment là Malek vous attaquera et tentera de vous tuer).\n\nMagie : Prendre le contrôle du corps de ceux qui sont touchés pas ses aiguilles (yeux révulsés)/ Parler à traver leur voix/ Blesser ou immobiliser quelqu’un de possédé en piquant dans sa poupée/ \n\n\nSon Histoire : \nOriginaire de Shurima, Malek avait grandi dans la pauvreté, mais il s’était découvert un don pour manipuler les gens. Un jour, il fit la rencontre d’un étrange individu doté d’un pouvoir similaire au sien, et les deux hommes se lièrent d’amitié. Cependant, l’autre homme percevait en lui une magie bien plus puissante et dangereuse qui semblait lui murmurer à l’oreille. Malek, conscient du danger, tenta de le raisonner, mais il était déjà trop tard.\nPour s'être opposé à lui et à la volonté de la voix, l’homme l’enferma et utilisa sa magie combinée à la sienne pour manipuler les esprits des autres, suivant les ordres qui lui sont dictés. Pendant des années, Malek fut plongé dans un coma artificiel, des aiguilles plantées dans sa peau immobilisant ses membres. Il était prisonnier dans une faille hors du temps, conscient de ce qui l’entoure et spectateur de son propre corps sans aucun moyen de se libérer.\nUn jour, un homme masqué, armé d’une étrange lame, détruisit l’endroit où Malek était enfermé depuis si longtemps. À peine libéré, il se mit à courir sans s'arrêter, ses yeux opaques aveuglés par des années d'obscurité, son corps rachitique et desséché par le manque d’hydratation. Bien qu’il ne puisse plus voir, il ressentait tout ce qui était autour de lui. Incapable de parler ou de penser clairement, il ne suivait qu’un seul instinct primaire : fuir l’endroit de sa captivité.\nPerdu dans la jungle d’Ixtal, Malek aperçut un groupe d’hommes égarés. Il les traqua silencieusement avant de leur lancer des aiguilles encore plantées dans son propre corps. À peine eurent-ils croisé son regard vide et vitreux qu'ils perdirent connaissance ainsi que le contrôle de leurs mouvements. Leurs yeux révulsés, sous l'emprise de sa magie, Malek les utilisa pour récupérer leurs richesses et se faire porter sur plusieurs kilomètres avant de les abandonner, leurs corps évanouis au sol.\nFinalement, Malek trouva refuge dans les marécages grâce à une maison abandonnée, squattée par des braconniers. Il chassa les habitants grâce à sa magie et s’installa dans ce lieu isolé. Désormais, il traque les voyageurs et les passants, accumulant des babioles précieuses pour attirer les plus curieux à s’aventurer sur son territoire, où ils deviennent ses proies, ainsi de suite, jusqu'à trouver ce qu’il cherche réellement…"
+    },
+    "dorovik": {
+      "species": "human",
+      "subspecies": "",
+      "region": "freljord",
+      "appearance": "Dresseur de bêtes du Freljord.",
+      "reason": "Freljord explicitement indiqué ; humain retenu depuis le portrait, adaptation.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "C’est un dresseur de bêtes, originaire de Freljord qui suit Willburn depuis qu’il l’a sauvé de l’attaque d’une créature géante. Les deux sont très proches et Dorovik se propose afin de capturer des bêtes, les dresser, les revendre et parfois tester certaines armes sur ses bêtes pour les améliorer chimiquement. Il est également l’inventeur du jeu du Bakki.\n"
+    },
+    "willburn": {
+      "species": "human",
+      "subspecies": "altered",
+      "region": "bilgewater",
+      "appearance": "Capitaine malade et marqué par Ga’Hun.",
+      "reason": "Bilgewater est son port d’attache ; altération physique persistante après son combat, adaptation.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "C’est le Capitaine du Flot Persistant, un grand bateau pirate réputé à Bilgewater. Willburn et son équipage se sont spécialisés dans le trafic de Shimmer modifié. Il est plus puissant, plus collant mais également plus instable. Ils modifient surtout des armes avec et le consommer vous assure une mort dans la minute à venir.\nWillburn traque le légendaire Ga’Hun, un pirate maudit qui terrifie les océans à l’aide d’une entité divine qui le rend presque immortel. ( Il sait qu’il est son seul fils à avoir survécu )\n\nDepuis son combat avec Ga’hun, Willburn est tombé malade à la suite d'une blessure à son visage. Il fait une réaction allergique aux rayons du soleil et à perdu toute sa pilosité. Il n’a également jamais cicatrisé de la balafre au visage que lui à infligé Ga’hun de sa lame."
+    },
+    "diz": {
+      "species": "human",
+      "subspecies": "",
+      "region": "bilgewater",
+      "appearance": "Pirate du Flot Persistant.",
+      "reason": "Port d’attache Bilgewater de leur équipage ; humain depuis les portraits. Naissance non explicitée, adaptation.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "Diz est un pirate depuis de nombreuses années et s’est associé à Willburn certes pour s’enrichir mais surtout pour affronter le légendaire Ga’Hun que Willburn traque depuis des années.\nPete est un peu plus béant, ralentit, mais sa force est essentielle pour accomplir des tâches difficiles pour eux. Il est très fidèle à Diz.\n\nTous les deux font partie de l’équipage de Willburn, qui s’est spécialisé dans la création et la vente d’armes au Shimmer Trafiqué que leur fabrique un contact. Il a envoyé Diz et Pete tenter de récupérer un artéfact Pilt (Piltover) très rare et probablement hectech que leur associé et négociateur d’excellence Obrill était censé récupérer. Mais tout ne s’est pas passé comme prévu quand ils l’ont retrouvé bredouille 3 jours après son départ. Il était assis sur les côtes en plein soleil, desséché par la chaleur, le regard vide et vaseux et à moitié conscient, les souvenirs effacés et abstraits de ces derniers jours. Il n’avait avec lui qu’une boussole cassée et une gourde vide. Diz qui pourtant fait confiance à son équipage, à peur qu’Obrill ait tenté de les doubler et qu’il laissé son contact repartir avec la caisse."
+    },
+    "pete": {
+      "species": "human",
+      "subspecies": "",
+      "region": "bilgewater",
+      "appearance": "Pirate du Flot Persistant.",
+      "reason": "Port d’attache Bilgewater de leur équipage ; humain depuis les portraits. Naissance non explicitée, adaptation.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "Diz est un pirate depuis de nombreuses années et s’est associé à Willburn certes pour s’enrichir mais surtout pour affronter le légendaire Ga’Hun que Willburn traque depuis des années.\nPete est un peu plus béant, ralentit, mais sa force est essentielle pour accomplir des tâches difficiles pour eux. Il est très fidèle à Diz.\n\nTous les deux font partie de l’équipage de Willburn, qui s’est spécialisé dans la création et la vente d’armes au Shimmer Trafiqué que leur fabrique un contact. Il a envoyé Diz et Pete tenter de récupérer un artéfact Pilt (Piltover) très rare et probablement hectech que leur associé et négociateur d’excellence Obrill était censé récupérer. Mais tout ne s’est pas passé comme prévu quand ils l’ont retrouvé bredouille 3 jours après son départ. Il était assis sur les côtes en plein soleil, desséché par la chaleur, le regard vide et vaseux et à moitié conscient, les souvenirs effacés et abstraits de ces derniers jours. Il n’avait avec lui qu’une boussole cassée et une gourde vide. Diz qui pourtant fait confiance à son équipage, à peur qu’Obrill ait tenté de les doubler et qu’il laissé son contact repartir avec la caisse."
+    },
+    "obrill": {
+      "species": "human",
+      "subspecies": "",
+      "region": "bilgewater",
+      "appearance": "Pirate du Flot Persistant.",
+      "reason": "Port d’attache Bilgewater de leur équipage ; humain depuis les portraits. Naissance non explicitée, adaptation.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "C’est un pirate de l’équipage de Willburn très réputé pour négocier, troquer et savoir s’entourer. Il connaît beaucoup de monde et trouve souvent de bonnes affaires. Il était en contact avec Camille pour troquer l’Omiliscent contre une caisse de Shimmer trafiqué instable. Mais suite à un souci durant leur échange, ils se retrouvent tous les deux possédés, séparés et complètement amnésiques sur ce qu’il s’est passé (Malek). Il s’est retrouvé au bord de la mer, desséché le regard vide, à moitié présent, et impossible de se souvenir de quoi que ce soit."
+    },
+    "luis": {
+      "species": "human",
+      "subspecies": "",
+      "region": "ixtal",
+      "appearance": "Habitant d’Omatqan.",
+      "reason": "Lieu de vie source à Omatqan ; origine Ixtal et humain retenus, adaptation.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "Luis est le propriétaire de l’Auberge “O bore de lo” du petit village d’Omatqan à Ixtal. Il est sympathique d’apparence mais n’hésite pas à dire ce qu’il pense et remettre les turbulents en place. \nIl sert une bière infâme coupée à l’eau et un Rhum maison beaucoup trop fort. \nIl prépare des recettes locales avec sa cuisinière Tania (voir Menu)"
+    },
+    "tania": {
+      "species": "human",
+      "subspecies": "",
+      "region": "ixtal",
+      "appearance": "Habitant d’Omatqan.",
+      "reason": "Lieu de vie source à Omatqan ; origine Ixtal et humain retenus, adaptation.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "guyamtel": {
+      "species": "human",
+      "subspecies": "",
+      "region": "bilgewater",
+      "appearance": "Habitant ou commerçant d’Harelport.",
+      "reason": "Harelport/Bilgewater retenus comme résidence ; espèce et origine non détaillées, adaptation.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "wern": {
+      "species": "human",
+      "subspecies": "",
+      "region": "bilgewater",
+      "appearance": "Habitant ou commerçant d’Harelport.",
+      "reason": "Harelport/Bilgewater retenus comme résidence ; espèce et origine non détaillées, adaptation.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "xandor": {
+      "species": "human",
+      "subspecies": "",
+      "region": "bilgewater",
+      "appearance": "Habitant ou commerçant d’Harelport.",
+      "reason": "Harelport/Bilgewater retenus comme résidence ; espèce et origine non détaillées, adaptation.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "marchand-ionien": {
+      "species": "human",
+      "subspecies": "",
+      "region": "ionia",
+      "appearance": "Marchand ionien.",
+      "reason": "Appellation source ionienne ; humain retenu pour le marchand, adaptation.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "blake": {
+      "species": "human",
+      "subspecies": "",
+      "region": "",
+      "appearance": "Braconnier venu exploiter Ixtal.",
+      "reason": "Espèce humaine retenue depuis les portraits ; aucune origine explicitée. Ne pas confondre terrain de chasse et origine.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "C’est le capitaine d’une escouade de braconniers venus piller des ressources rares d’Ixtal (des œufs, des peaux, des plantes aux vertues magiques et même des créatures vivantes si possible). Ils sont un total de 5 dans l’auberge et 3 autres ne sont pas là. Il est malin et connaît assez bien la région, mais il laisse sa troupe la découvrir par eux mêmes, quitte à ce qu’ils se fassent tuer par mégarde. Ils sont là pour récupérer des ressources, mais une en particulier attire son attention : Le Bois Gaama. C’est une ressource très rare qui pousse uniquement sur le corps d’une créature qu’ils appellent Gaama (Ooq’axani) et il compte bien la tuer pour récupérer tout son bois. Elle vit dans une zone toxique des marécages.\n\nIl connaît la réputation de Teekaya. Il est apprécié de Luis malgré ça car il est fortuné. C’est lui qui paye énormément de ressources à Luis pour que son auberge marche. Il n’a pas froid aux yeux mais ne se laisse pas facilement provoquer. \n\nTechnologie : Tire des flashball électriques immobilisantes/ possède une Armature Braconnier/"
+    },
+    "braconnier": {
+      "species": "human",
+      "subspecies": "",
+      "region": "",
+      "appearance": "Braconnier venu exploiter Ixtal.",
+      "reason": "Espèce humaine retenue depuis les portraits ; aucune origine explicitée. Ne pas confondre terrain de chasse et origine.",
+      "subtypeLabel": "",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "anna": {
+      "species": "",
+      "subspecies": "",
+      "region": "",
+      "appearance": "Démon Taoxana ou l’une de ses deux apparences humaines.",
+      "reason": "Démon sans catégorie native. Freljord est seulement la couverture annoncée par Anna et Ygritte ; leur véritable origine reste inconnue.",
+      "subtypeLabel": "Démon — hors des sous-espèces jouables",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "Elles sont en réalité les deux parties d’un démon nommé Taoxana.\n\nElles viendraient du Freljord et se sont toutes les deux connues dans un orphelinat à Frostheld. Elles parcourent les Océans depuis des années en charmant des hommes et en volant leur argent."
+    },
+    "ygritte": {
+      "species": "",
+      "subspecies": "",
+      "region": "",
+      "appearance": "Démon Taoxana ou l’une de ses deux apparences humaines.",
+      "reason": "Démon sans catégorie native. Freljord est seulement la couverture annoncée par Anna et Ygritte ; leur véritable origine reste inconnue.",
+      "subtypeLabel": "Démon — hors des sous-espèces jouables",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "Elles sont en réalité les deux parties d’un démon nommé Taoxana.\n\nElles viendraient du Freljord et se sont toutes les deux connues dans un orphelinat à Frostheld. Elles parcourent les Océans depuis des années en charmant des hommes et en volant leur argent."
+    },
+    "taoxana": {
+      "species": "",
+      "subspecies": "",
+      "region": "",
+      "appearance": "Démon Taoxana ou l’une de ses deux apparences humaines.",
+      "reason": "Démon sans catégorie native. Freljord est seulement la couverture annoncée par Anna et Ygritte ; leur véritable origine reste inconnue.",
+      "subtypeLabel": "Démon — hors des sous-espèces jouables",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "Taoxana est un Démon (Tentation indécise). Si elle est battue sans que son nom ne soit prononcé, son âme continuera à vivre. Connaître son nom (Tahm Kench - Toadrick) permet à la fois de lui infliger un coup de grâce avec un bonus de -100 PV, et d’enfermer son esprit dans un masque Azakana. Le combat de cette créature se divise en deux parties : Elle enferme sa proie dans un cocon de matière organique sombre sur le plan physique et l’attaque dans son esprit pour se nourrir de ses émotions (Forme 1) mais elle reste vulnérable aux attaques pendant le drain d’énergie. Puis une fois de retour sur le plan physique, elle initie un combat plus difficile si elle s’est suffisamment nourrit (Forme 2). \n\nMagie : Divise son corps en deux parties/ Projette des visions d’horreur et se nourrit des émotions de sa victime (une seule personne)/ Immobilise avec des extensions de matière de son corps qui se propage au sol/ Plante de longues lianes organiques dans la chair/"
+    },
+    "taoxana-vision": {
+      "species": "",
+      "subspecies": "",
+      "region": "",
+      "appearance": "Démon Taoxana ou l’une de ses deux apparences humaines.",
+      "reason": "Démon sans catégorie native. Freljord est seulement la couverture annoncée par Anna et Ygritte ; leur véritable origine reste inconnue.",
+      "subtypeLabel": "Démon — hors des sous-espèces jouables",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "Taoxana est un Démon (Tentation indécise). Si elle est battue sans que son nom ne soit prononcé, son âme continuera à vivre. Connaître son nom (Tahm Kench - Toadrick) permet à la fois de lui infliger un coup de grâce avec un bonus de -100 PV, et d’enfermer son esprit dans un masque Azakana. Le combat de cette créature se divise en deux parties : Elle enferme sa proie dans un cocon de matière organique sombre sur le plan physique et l’attaque dans son esprit pour se nourrir de ses émotions (Forme 1) mais elle reste vulnérable aux attaques pendant le drain d’énergie. Puis une fois de retour sur le plan physique, elle initie un combat plus difficile si elle s’est suffisamment nourrit (Forme 2). \n\nMagie : Divise son corps en deux parties/ Projette des visions d’horreur et se nourrit des émotions de sa victime (une seule personne)/ Immobilise avec des extensions de matière de son corps qui se propage au sol/ Plante de longues lianes organiques dans la chair/"
+    },
+    "tahm-kench": {
+      "species": "",
+      "subspecies": "",
+      "region": "bilgewater",
+      "appearance": "Démon aquatique.",
+      "reason": "Démon sans catégorie native ; Bilgewater retenue comme lieu d’activité, adaptation.",
+      "subtypeLabel": "Démon — hors des sous-espèces jouables",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      },
+      "biography": "Tahm Kench est un Démon issu de League of Legends (voir Biographie pour plus de détails). Il est ici pour rencontrer quelqu’un qui ne désire pas le voir (Malek). Il sait qu’un “drôle de personnage” (?) ou une “mystérieuse créature” vit dans une maison abandonnée qu’il transforme peu à peu en une antiquaire d’artéfacts précieux. Le démon souhaite rencontrer Malek afin de comprendre ses agissements, sa magie et de lui proposer un marché mais le lieu où il réside semble protégé et Tahm Kench ne peut y entrer sans l’aide de quelqu’un. \n(Voir Mission “Sur la piste du Démon”)\nTahm Kench connaît Barry et bien qu’ils ne se soient jamais croisés, il ne considère pas que son usurpation n’affecte son pouvoir d’une quelconque façon même s’il essaye d’imiter les légendaires pactes de Tahm Kench. Il le laisse agir comme bon lui semble tant qu’il n'interfère en rien dans ses affaires. \n(Petite Histoire et Voix)\n\nMagie : Utilise sa langue comme un fouet pour marquer, goûter ou blesser/ Avale des gens pour les transporter ou les tuer/ Rendre sa carapace aussi solide que de la roche/ Se déplace n'importe où à travers les eaux/"
+    },
+    "gaama": {
+      "species": "",
+      "subspecies": "",
+      "region": "ixtal",
+      "appearance": "Gaama",
+      "reason": "Faune de l’aventure dans les marais d’Ixtal ; catégories jouables inapplicables.",
+      "subtypeLabel": "Sans objet — créature",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "pousse-gaama": {
+      "species": "",
+      "subspecies": "",
+      "region": "ixtal",
+      "appearance": "Pousse de Gaama",
+      "reason": "Faune de l’aventure dans les marais d’Ixtal ; catégories jouables inapplicables.",
+      "subtypeLabel": "Sans objet — créature",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "aurora": {
+      "species": "",
+      "subspecies": "",
+      "region": "ixtal",
+      "appearance": "Aurora Hallucinarius",
+      "reason": "Faune de l’aventure dans les marais d’Ixtal ; catégories jouables inapplicables.",
+      "subtypeLabel": "Sans objet — créature",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "tezqaloti": {
+      "species": "",
+      "subspecies": "",
+      "region": "ixtal",
+      "appearance": "Tezqa’Loti",
+      "reason": "Faune de l’aventure dans les marais d’Ixtal ; catégories jouables inapplicables.",
+      "subtypeLabel": "Sans objet — créature",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "xlamtaroq": {
+      "species": "",
+      "subspecies": "",
+      "region": "ixtal",
+      "appearance": "Xlamtaroq",
+      "reason": "Faune de l’aventure dans les marais d’Ixtal ; catégories jouables inapplicables.",
+      "subtypeLabel": "Sans objet — créature",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "paaka": {
+      "species": "",
+      "subspecies": "",
+      "region": "ixtal",
+      "appearance": "Paaka",
+      "reason": "Faune de l’aventure dans les marais d’Ixtal ; catégories jouables inapplicables.",
+      "subtypeLabel": "Sans objet — créature",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "herisson": {
+      "species": "",
+      "subspecies": "",
+      "region": "ixtal",
+      "appearance": "Hérisson géant",
+      "reason": "Faune de l’aventure dans les marais d’Ixtal ; catégories jouables inapplicables.",
+      "subtypeLabel": "Sans objet — créature",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "guetteur": {
+      "species": "",
+      "subspecies": "",
+      "region": "ixtal",
+      "appearance": "Guetteur Stygien",
+      "reason": "Faune de l’aventure dans les marais d’Ixtal ; catégories jouables inapplicables.",
+      "subtypeLabel": "Sans objet — créature",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "carapateur": {
+      "species": "",
+      "subspecies": "",
+      "region": "ixtal",
+      "appearance": "Carapateur",
+      "reason": "Faune de l’aventure dans les marais d’Ixtal ; catégories jouables inapplicables.",
+      "subtypeLabel": "Sans objet — créature",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "bakki": {
+      "species": "",
+      "subspecies": "",
+      "region": "ixtal",
+      "appearance": "Bakki",
+      "reason": "Faune de l’aventure dans les marais d’Ixtal ; catégories jouables inapplicables.",
+      "subtypeLabel": "Sans objet — créature",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "finisstier": {
+      "species": "",
+      "subspecies": "",
+      "region": "ixtal",
+      "appearance": "Finisstier",
+      "reason": "Faune de l’aventure dans les marais d’Ixtal ; catégories jouables inapplicables.",
+      "subtypeLabel": "Sans objet — créature",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "girondie": {
+      "species": "",
+      "subspecies": "",
+      "region": "ixtal",
+      "appearance": "Girondie moyenne",
+      "reason": "Faune de l’aventure dans les marais d’Ixtal ; catégories jouables inapplicables.",
+      "subtypeLabel": "Sans objet — créature",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "carapateur-compagnon": {
+      "species": "",
+      "subspecies": "",
+      "region": "ixtal",
+      "appearance": "Carapateur de Kaëlor",
+      "reason": "Faune de l’aventure dans les marais d’Ixtal ; catégories jouables inapplicables.",
+      "subtypeLabel": "Sans objet — créature",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "guetteur-compagnon": {
+      "species": "",
+      "subspecies": "",
+      "region": "ixtal",
+      "appearance": "Guetteuse de Kaëlor",
+      "reason": "Faune de l’aventure dans les marais d’Ixtal ; catégories jouables inapplicables.",
+      "subtypeLabel": "Sans objet — créature",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    },
+    "navire": {
+      "species": "",
+      "subspecies": "",
+      "region": "bilgewater",
+      "appearance": "Navire Le Flot Persistant.",
+      "reason": "Port d’attache Bilgewater ; espèces et sous-espèces inapplicables.",
+      "subtypeLabel": "Sans objet — véhicule",
+      "legacy": {
+        "species": "human",
+        "subspecies": "",
+        "region": "Ixtal / Bilgewater",
+        "appearance": "",
+        "morphology": "",
+        "environment": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "source": "PERSONNAGES PRÉTIRÉS — document Drive fourni",
+  "controlCharacters": "Retours verticaux et sauts de page normalisés avant séparation des compétences.",
+  "actors": {
+    "eliora": {
+      "biography": "ELIORA :\n(Soutien - Buff - Social)\nC’est une Humaine née avec un pouvoir beaucoup trop puissant pour les humains donc les prêtres lui ont coupé ses cordes vocales. Elle a grandi à Ionia dans un monastère où elle y apprend la méditation et la télépathie. Elle ignore pourquoi les gens ont souvent peur d’elle, mais cela ne l'empêchera pas de grandir heureuse même si souvent seule. Elle est un peu naïve mais commence à prendre conscience du pouvoir qu’elle a.",
+      "skills": [
+        {
+          "slot": "1",
+          "name": "Renfort Apaisant",
+          "description": "Elle peut booster un Attribut de base à ses alliés pour un tour (Jet de Télépathie) ou elle peut créer une protection magique (10 RM) en méditant (Jet de Méditation) (Effet - Méditation)."
+        },
+        {
+          "slot": "2",
+          "name": "Ressenti Émotionnel",
+          "description": "Elle peut ressentir l’émotion d’une personne (Jet de Télépathie) ou transmettre une émotion qu’elle ressent (Jet de Méditation - Malus si l’émotion n’est pas vécu)."
+        },
+        {
+          "slot": "3",
+          "name": "Pressentiment Vulnérable",
+          "description": "Baisse les dégâts d’un ennemi (Jet de Télépathie) ou rend une zone du corps de l’ennemi plus vulnérable (+10 à la prochaine attaque si ciblée)(Jet de Méditation)."
+        },
+        {
+          "slot": "U",
+          "name": "Voix de l’Amaretsu",
+          "description": "L’amaretsu est un langage interdit qui dicte aux gens de faire des choses (Effet - Possession). Eliora peut alors dire un mot qui forcera tous ceux qui l’entendent à le faire selon la situation."
+        }
+      ],
+      "passive": {
+        "slot": "P",
+        "name": "Muette Télépathe",
+        "description": "Elle peut communiquer par télépathie individuellement ou en groupe avec les gens (Jet de Télépathie / pas besoin de jet pour son équipe car elle est habituée à eux)."
+      }
+    },
+    "joel": {
+      "biography": "JOËL (ET ELLEN) :\n(Dégâts - Soutien - Discrétion)\nJoël était un ancien menuisier Demacien qui était proche de Kaden, un ami d’enfance à lui. Pendant une traque aux mages, Kaden perdit la vie car il était en réalité un mage. Dévasté Joël essayera de sauver sa femme, mais trop tard car déja morte elle aussi. Il trouve sa petite fille de 4 ans cachée dans la maison et décide de la sauver en quittant discrètement Demacia avec elle. Depuis ce jour, il tente d’assurer son nouveau rôle de père adoptif. La jeune Ellen montre très vite une forme de magie puissante et singulière liée à ?\nDes années passent, Ellen à maintenant 13 ans et l’adolescence ne réussit pas à Joël qui est parfois colérique et à beaucoup de mal à communiquer avec les gens. Les deux continuent de vadrouiller dans tout Runeterra pour essayer de trouver quelqu’un capable de comprendre la magie unique de Ellen et d’essayer de lui apprendre à la contrôler.\nSi Joël résiste au Choc Mental de Ellen c’est parce qu’il l’aime comme sa fille et son image le réconforte.",
+      "skills": [
+        {
+          "slot": "1",
+          "name": "Trouver les mots",
+          "description": "Quand il loupe son jet de Paternité, il doit faire un jet de Communication pour redonner confiance en Ellen (+10 Attribut au choix pour un allié selon les mots employés)."
+        },
+        {
+          "slot": "2",
+          "name": "Magie d’Ellen",
+          "description": "Ellen peut éthérer son corps pour passer à travers la matière organique (Vibration) et blesser à travers le corps (15 DB), elle peut également implémenter son visage et le lier au craintes d’une personne (Choc Mental) pour le déstabiliser tant qu’elle le regarde (Jet de Paternité / Effet - Paralysie). \n\nJoël est immunisé à cette compétence."
+        },
+        {
+          "slot": "3",
+          "name": "Lien Paternel",
+          "description": "Vous pouvez utiliser des attributs d’Ellen (Intervertir Force avec Discrétion / Intimidation avec Agilité) pendant la prochaine action (Jet de Communication) ou Joël s’interpose et protéger Ellen d’un danger ou d’une attaque (Effet - Délivrance) en se précipitant devant elle (Jet de Paternité)."
+        },
+        {
+          "slot": "U",
+          "name": "Vibration Mental",
+          "description": "Ellen fait sa magie de Choc Mental en zone (Paralysie) et blesse (Vibration)tous ceux qui sont autour d’elle. Si Joël la rejoint, il peut l’aider à se focaliser sur des cibles avec un jet de Communication. Si le jet réussit, ses alliés sont libérés de Paralysie. S’il échoue, elle perd connaissance (Effet - Inconscient)."
+        }
+      ],
+      "passive": {
+        "slot": "P",
+        "name": "Papa Adoptif",
+        "description": "Joël n’a pas de pouvoir mais il planifie les plans pour Ellen. Il peut commander à Ellen avec un jet de Paternité."
+      }
+    },
+    "kaelor": {
+      "biography": "KAËLOR :\n(Invocateur - Dégâts - Enquête)\nC’est un Vastaya Loup qui à trouvé refuge très jeune à Piltover, et a grandi dans un orphelinat doté d’une bibliothèque. Il est passionné de lecture, et s’est spécialisé dans la recherche et l’étude des créatures de Runeterra. Il possède un Carapateur Mâle nommé (choix joueur) très simple d’esprit et facile à apprivoiser, et d’une Guetteuse Stygienne femelle nommée (choix joueur) au caractère bien plus spécial et difficile à apprivoiser.\nIl les étudies grâce au Vivarium Hextech, une invention unique offerte par Charles Marigniot, un ingénieur de Piltover. C’est une petite boîte qui permet d’y placer plusieurs créatures à l’intérieur, leur offrant un environnement idéal à leurs conditions et leurs besoins. Il peut les étudier grâce à une clé lui permettant de rentrer à l’intérieur ou de les faire sortir quand bon lui semble.",
+      "skills": [
+        {
+          "slot": "1",
+          "name": "Carapateur",
+          "description": "Il étudie et dresse un Carapateur dans son Vivarium Hextech qu’il peut invoquer afin de partir en reconnaissance, de capter l’attention de ce qu’il croise sur son chemin et d’éclairer une piste (Jet de Lien Animal). Il peut également lui extraire un bulbe sur ses antennes aux propriétés revigorantes (+15 PV - Jet d'Étude Animal)."
+        },
+        {
+          "slot": "2",
+          "name": "Guetter Stygien",
+          "description": "Il peut faire appel à une créature agressive volante qui attaque (10 DP) et repousse une attaque magique (+10 RM action unique - Jet de Lien Animal). La nuit, la créature peut effrayer (Effet - Effrayer)."
+        },
+        {
+          "slot": "3",
+          "name": "Vivarium Hextech",
+          "description": "Peut tenter d’apprivoiser ou de capturer une créature sauvage dans son Vivarium Hextech. Si la créature est apaisée (Charisme), faire seulement un jet d'Étude Animal. Sinon, il faudra tenter de l’apprivoiser plus tard dans le Vivarium Hextech avec un jet de Lien Animal."
+        },
+        {
+          "slot": "U",
+          "name": "Appel de la Nature",
+          "description": "Communique avec les créatures environnantes pour qu’elles lui viennent en aide. La créature de base sera normale mais peut augmenter ou baisser sur un jet de Lien Animal."
+        }
+      ],
+      "passive": {
+        "slot": "P",
+        "name": "Dialecte Animal",
+        "description": "Son pouvoir Vastaya et ses connaissances animales lui permettent de comprendre et se faire comprendre par la faune."
+      }
+    },
+    "klaus": {
+      "biography": "KLAUS :\n(Tank - Dégâts - Situationnel)\nBien qu’il en ait l’apparence, Klaus assure qu’il n’est pas un Yordle, mais simplement un Humain de très petite taille. Il en a fait une force, accompagnée de son ingénierie et sa détermination pour devenir un Commandant renommée à Noxus grâce à son Hexotech, une armure Hextech dans laquelle il peut rentrer pour la piloter de l’intérieur. Il est parfois grognon et strict, mais très juste dans son jugement.",
+      "skills": [
+        {
+          "slot": "1",
+          "name": "Fléau-Fist",
+          "description": "Permet de propulser son poing pour faire des dégâts et de l’utiliser comme un Fléau pour se battre avec. Il peut parfois immobiliser la cible s’il faut un bon jet (Jet de Hexotech)"
+        },
+        {
+          "slot": "2",
+          "name": "Bomb-A-Energy",
+          "description": "Il peut fabriquer une bombe instable en quelques secondes (10 DM) mais elle explose rapidement (Jet de Craft Hextech)."
+        },
+        {
+          "slot": "3",
+          "name": "Bricolage Hextech",
+          "description": "Peut améliorer ou réparer des mécanisme comme des armes ou des items afin de leur donner un buff de dégâts (+10 DM) sur la prochaine utilisation (Jet de Craft Hextech) ou améliore son Hexotech de l’intérieur pour améliorer sa résistance (+10 RM) pour la prochaine attaque (Jet de Hexotech)."
+        },
+        {
+          "slot": "U",
+          "name": "I.E.M Hextech",
+          "description": "Klaus peut sortir de son Hexotech et lui programmer une décharge Hextech sous forme d’explosion en dégâts de zone (60 DM).Faites attention à ne pas être trop proche pour ne pas prendre de dégâts."
+        }
+      ],
+      "passive": {
+        "slot": "P",
+        "name": "Hexotech",
+        "description": "Dans son armure, il gagne +35 ARM / +60 Force / +40 Intimidation / -50 Discrétion. Mais il ne peut pas aller partout avec. Il doit descendre de son Hexotech dans certains cas de figure (Habitation, Monture,"
+      }
+    },
+    "lianne": {
+      "biography": "LIANNE :\n(Contrôle - Discrétion - Sociale)\nC’est une Yordle de Bandle City qui a grandi entourée de ses semblables. Mais elle est convaincue de ne pas avoir de magie Yordle donc elle exploite sa magie a travers des amis imaginaires qu’elle s’imagine réaliser des choses pour elles afin de rendre crédible sa magie. Parfois sa démence l'empêche d’utiliser sa magie car elle panique à l’idée de croire qu’elle pourrait en avoir.",
+      "skills": [
+        {
+          "slot": "1",
+          "name": "Chatouille",
+          "description": "Elle s’imagine son ami imaginaire aller faire des chatouilles avec ses nombreux bras aux gens pour les faire rire. En réalité c’est simplement une magie de fou rire incontrôlé (Jet de Magie Yordle) Elle devra faire des jets de Démence par la suite pour ne pas perdre le contrôle."
+        },
+        {
+          "slot": "2",
+          "name": "Chapardeur",
+          "description": "Elle s’imagine son ami imaginaire fourbe et discret qui part voler un objet pour elle. En réalité, elle peut faire téléporter proche qu’elle voit dans sa main (Jet de Magie Yordle)."
+        },
+        {
+          "slot": "3",
+          "name": "Chamallow",
+          "description": "Elle s’imagine son ami imaginaire très imposant l'envelopper elle et ses alliés proches comme dans un très gros chamallow. En réalité elle crée une bulle protectrice qui confère un bouclier magique (+10 RM) La bulle tient sous des jets de Démence. Si le jet loupe, non seulement son passif s’active, mais en plus ça la blesse (20 DM)."
+        },
+        {
+          "slot": "U",
+          "name": "Chal’aide",
+          "description": "Elle se fait un tout nouvel ami imaginaire qui peut prendre la forme qu’elle veut selon son besoin. En réalité, elle adapte sa magie selon un désir ou un besoin. Si l’action est importante, elle doit faire un jet de Démence. Si le jet loupe, son ami se retourne contre elle et son passif s’active."
+        }
+      ],
+      "passive": {
+        "slot": "P",
+        "name": "Compagnons Dissidents",
+        "description": "Quand elle loupe un jet de Démence, elle commence à devenir lucide et à paniquer. Pour reprendre le contrôle, il faut qu’elle fasse un jet de Mental loupé pour redevenir folle et retrouver ses amis (Pouvoirs)."
+      }
+    },
+    "regan": {
+      "biography": "REGAN :\n(Dégâts - Buff - Intimidant)\nC’est un Humain, enfant du Shimmer, qui est né avec une maladie, et qui s’est construit tout autour de ça. Il est pragmatique, n’est ni bon ni mauvais, il est simplement scientifique. Très intimidant mais très neutre, avec un léger air sociopathe, il sait faire preuve de ruse dans sa façon de menacer, ou de convaincre. Il a à sa main droite une griffe nommée Chemic-O-Spike qui griffe et injecte un poison spécial : L’Hématoxine. Un mélange de toxines et de son sang infecté par le Shimmer.",
+      "skills": [
+        {
+          "slot": "1",
+          "name": "Synthexine",
+          "description": "C’est une drogue qu’il a inventée qui lui permet de booster sa Force (Jet d’Hématoxine) ou ses Réflexes (Jet de Métabolisme)."
+        },
+        {
+          "slot": "2",
+          "name": "Métaniphénédream",
+          "description": "Métaniphénédream est un médicament qu’il a également inventé qui annule les troubles de l'attention. Elle lui augmente sa Perception et son Intelligence (+10 et +10) le nombre de tours dépend du jet. (Jet de Métabolisme)"
+        },
+        {
+          "slot": "3",
+          "name": "Hématoxine",
+          "description": "C’est un mélange de produits chimiques et de son sang pour infecter une personne (Jet d’Hématoxine)"
+        },
+        {
+          "slot": "U",
+          "name": "Substance Expérimentale",
+          "description": "Il mélange plusieurs de ses fioles dans son corps ce qui passe tous ses attributs de base à 100 (Le nombre de tour peut varier jet de Métabolisme mais peut échouer son Ultime si le jet est loupé)."
+        }
+      ],
+      "passive": {
+        "slot": "P",
+        "name": "Enfant du Shimmer",
+        "description": "Il est obligé de consommer des substances pour ne pas perdre de points de vie (ses fioles peuvent en contenir (voir compétences) mais augmente les effets des substances qu’il consomme (potions, drogues, alcool, etc)."
+      }
+    },
+    "wako": {
+      "biography": "WAKO :\n(Tactique - Soin - Discret)\nC’est un Vastaya à l’apparence de bouc qui vient de Ionia. Son père était un chef de guerre et sa mère une prêtresse spirituelle. Wako est très craintif et peureux qu’il en a développé une capacité spéciale : Quand il a peur, il devient invisible. Suite au décès de ses parents, il est parti en quête de spiritualité dans la nature Ionienne et à rencontré Onno, un être spirituel lié à la fluidité de l’eau. Onno à des adorateurs qui pratique une danse unique en harmonie avec l’eau permettant de rendre le corps presque aussi fluide qu’un liquide.",
+      "skills": [
+        {
+          "slot": "1",
+          "name": "Danse Fluide",
+          "description": "Il utilise sa danse lui permettant d’esquiver une attaque physique ou magique (Jet de Danse de l’Eau) et peut la retourner contre son lanceur si le jet est ≤ la moitié.\n\nEx : Si 80 en Danse de l’Eau - revoit l’attaque si 40 ou moins."
+        },
+        {
+          "slot": "2",
+          "name": "L’Offrande d’Onno",
+          "description": "Il peut récupérer de l’eau dans un récipient et la transformer en Potion (Jet de Danse de l’Eau / +10 PV) ou la transformer en poison (Jet de Craintivitée / Poison Niveau 2)."
+        },
+        {
+          "slot": "3",
+          "name": "Instinct de Survie",
+          "description": "Il peut reconnaître et déjouer des petits et moyens pièges (Jet de Danse de l’Eau) ou anticiper des mauvaises intentions (attaques, effets de surprise, etc) pour lui et ses alliés (Jet de Craintivitée / +10 Réflexes)."
+        },
+        {
+          "slot": "U",
+          "name": "L'acrobatie d’Onno",
+          "description": "Il utilise une danse spéciale qui fait appelle à une petite pluie locale. Il peut utiliser Offrande d’Onno pour choisir s’il fait pleuvoir du soin (Jet de Danse de l’Eau / +20 PV de zone) ou du poison (Jet de Craintivité / Poison Niveau 2 de zone). Si le jet loupe, il ne se passe rien."
+        }
+      ],
+      "passive": {
+        "slot": "P",
+        "name": "Disparition Craintive",
+        "description": "Wako devient invisible quand il a peur (Jet de Craintivitée). Il entend, voit, peut parler et se déplacer mais ne peut pas interagir avec le monde matériel. Pour redevenir visible il doit se détendre grâce à sa pelote de laine (Jet de Mental / +10 si loupé / x2 pour chaques échecs)."
+      }
+    },
+    "will": {
+      "biography": "WILL :\n(Soutien - Tank - Social)\nHumain de Bilgewater (Voir Histoire TikTok ou Instagram).",
+      "skills": [
+        {
+          "slot": "1",
+          "name": "Faiblesse de l’Ennemi",
+          "description": "Peut ressentir une faiblesse physique ou psychologique chez une personne (Jet de Présomption)."
+        },
+        {
+          "slot": "2",
+          "name": "Regard de Huul",
+          "description": "Will peut captiver une personne et l’attirer vers lui (Jet de Présomption / Effet - Provocation) ou faire passer la terreur de Huul par son regard (Jet de Lien des Océans / Effet - Peur)."
+        },
+        {
+          "slot": "3",
+          "name": "Prédiction de Huul",
+          "description": "Will peut communiquer avec Huul pour qu’il lui communique une action qui pourrait arriver (Jet de Lien des Océans)."
+        },
+        {
+          "slot": "U",
+          "name": "Connaissance de Huul",
+          "description": "Will peut demander à Huul d’aller puiser dans ses connaissances pour trouver un secret très précieux d’une personne.\n\n\nPERSONNAGES PRÉTIRÉS"
+        }
+      ],
+      "passive": {
+        "slot": "P",
+        "name": "Réseau de Connaissance",
+        "description": "Will peut demander à Huul des informations sur les gens ayant déjà pris la mer (Jet de Lien des Océans). La communication avec Huul met Will dans un état de Méditation (Effet - Méditation)."
+      }
+    }
+  }
+}

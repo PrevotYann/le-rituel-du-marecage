@@ -26,9 +26,9 @@
           "name": "Eliora",
           "description": "<p>A mute human telepath raised in Ionia.</p>",
           "items": {
-            "38de27c39cdb710b": {
-              "name": "Telepathic voice",
-              "description": "<p>Eliora communicates telepathically. Her team needs no roll.</p>"
+            "b6de9817a8299a0d": {
+              "name": "1 — Calming reinforcement",
+              "description": "<p>Eliora reinforces an ally through Telepathy, or protects allies through Meditation. Choose the variant before rolling.</p>"
             }
           }
         }

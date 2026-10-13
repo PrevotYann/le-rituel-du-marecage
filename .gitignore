@@ -4,5 +4,6 @@ node_modules/
 dist/
 test-results/
 *.log
+!packs/**/*.log
 packs/**/LOCK
 packs/**/LOG*

@@ -1,0 +1,17 @@
+{
+  "checks": [
+    "Capture : individu distinct, modèle conservé",
+    "Capture : compagnon associé au Vivarium",
+    "Apprivoisement après capture",
+    "Vulnérabilité : bonus sur le bénéficiaire choisi",
+    "Bonus natif de +10 sur le jet choisi",
+    "Bonus consommé après un seul jet",
+    "Échange : valeurs natives permutées",
+    "Échange retiré après la prochaine action",
+    "Dose unique : un seul débit et une seule carte malgré deux clics",
+    "Poison appliqué par la carte native : niveau 2",
+    "Même carte : seconde application refusée",
+    "Compte joueur propriétaire : jet et fabrication dans son inventaire, sans soin immédiat"
+  ],
+  "errors": []
+}

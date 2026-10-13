@@ -1,0 +1,789 @@
+{
+  "actors": [
+    {
+      "name": "Anna",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Aurora Hallucinarius",
+      "abilities": 1,
+      "variants": 1,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Chasse hypnotique / action : profil complet",
+        "1 — Chasse hypnotique / action : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":50,\"quantity\":1}",
+        "1 — Chasse hypnotique / action : dégâts de la variante",
+        "1 — Chasse hypnotique / action : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":50,\"quantity\":1}",
+        "1 — Chasse hypnotique / action : aucun dégât/soin/poison de cible sur échec"
+      ]
+    },
+    {
+      "name": "Azucena",
+      "abilities": 1,
+      "variants": 1,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Flèche venimeuse / action : profil complet",
+        "1 — Flèche venimeuse / action : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":50,\"quantity\":1}",
+        "1 — Flèche venimeuse / action : dégâts de la variante",
+        "1 — Flèche venimeuse / action : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":50,\"quantity\":1}",
+        "1 — Flèche venimeuse / action : aucun dégât/soin/poison de cible sur échec"
+      ]
+    },
+    {
+      "name": "Bakki",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Barry l’Usurpateur",
+      "abilities": 1,
+      "variants": 1,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Canne du charlatan / action : profil complet",
+        "1 — Canne du charlatan / action : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":50,\"quantity\":1}",
+        "1 — Canne du charlatan / action : dégâts de la variante",
+        "1 — Canne du charlatan / action : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":50,\"quantity\":1}",
+        "1 — Canne du charlatan / action : aucun dégât/soin/poison de cible sur échec"
+      ]
+    },
+    {
+      "name": "Blake",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Braconnier des marais",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Brak",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Brik",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Camille",
+      "abilities": 1,
+      "variants": 1,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Bombe de gaz chimique / action : profil complet",
+        "1 — Bombe de gaz chimique / action : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":50,\"quantity\":1}",
+        "1 — Bombe de gaz chimique / action : dégâts de la variante",
+        "1 — Bombe de gaz chimique / action : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":50,\"quantity\":1}",
+        "1 — Bombe de gaz chimique / action : aucun dégât/soin/poison de cible sur échec"
+      ]
+    },
+    {
+      "name": "Carapateur",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Carapateur de Kaëlor",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Diz Torenno",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Dorovik",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Eliora",
+      "abilities": 4,
+      "variants": 7,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Renfort Apaisant / boost : profil complet",
+        "1 — Renfort Apaisant / boost : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "1 — Renfort Apaisant / boost : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "1 — Renfort Apaisant / boost : aucun dégât/soin/poison de cible sur échec",
+        "1 — Renfort Apaisant / rm : profil complet",
+        "1 — Renfort Apaisant / rm : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":70,\"quantity\":1}",
+        "1 — Renfort Apaisant / rm : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":70,\"quantity\":1}",
+        "1 — Renfort Apaisant / rm : aucun dégât/soin/poison de cible sur échec",
+        "2 — Ressenti Émotionnel / read : profil complet",
+        "2 — Ressenti Émotionnel / read : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "2 — Ressenti Émotionnel / read : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "2 — Ressenti Émotionnel / read : aucun dégât/soin/poison de cible sur échec",
+        "2 — Ressenti Émotionnel / send : profil complet",
+        "2 — Ressenti Émotionnel / send : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":70,\"quantity\":1}",
+        "2 — Ressenti Émotionnel / send : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":70,\"quantity\":1}",
+        "2 — Ressenti Émotionnel / send : aucun dégât/soin/poison de cible sur échec",
+        "3 — Pressentiment Vulnérable / weaken : profil complet",
+        "3 — Pressentiment Vulnérable / weaken : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "3 — Pressentiment Vulnérable / weaken : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "3 — Pressentiment Vulnérable / weaken : aucun dégât/soin/poison de cible sur échec",
+        "3 — Pressentiment Vulnérable / vulnerability : profil complet",
+        "3 — Pressentiment Vulnérable / vulnerability : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":70,\"quantity\":1}",
+        "3 — Pressentiment Vulnérable / vulnerability : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":70,\"quantity\":1}",
+        "3 — Pressentiment Vulnérable / vulnerability : aucun dégât/soin/poison de cible sur échec",
+        "U — Voix de l’Amaretsu / command : profil complet",
+        "U — Voix de l’Amaretsu / command : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "U — Voix de l’Amaretsu / command : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "U — Voix de l’Amaretsu / command : aucun dégât/soin/poison de cible sur échec",
+        "Quatre compétences après les récompenses"
+      ]
+    },
+    {
+      "name": "Ellen",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Finisstier",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Gaama",
+      "abilities": 2,
+      "variants": 2,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Mandibules / action : profil complet",
+        "1 — Mandibules / action : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":50,\"quantity\":1}",
+        "1 — Mandibules / action : dégâts de la variante",
+        "1 — Mandibules / action : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":50,\"quantity\":1}",
+        "1 — Mandibules / action : aucun dégât/soin/poison de cible sur échec",
+        "2 — Venin d’écharde / action : profil complet",
+        "2 — Venin d’écharde / action : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":50,\"quantity\":1}",
+        "2 — Venin d’écharde / action : dégâts de la variante",
+        "2 — Venin d’écharde / action : poison/état de la variante",
+        "2 — Venin d’écharde / action : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":50,\"quantity\":1}",
+        "2 — Venin d’écharde / action : aucun dégât/soin/poison de cible sur échec"
+      ]
+    },
+    {
+      "name": "Girondie moyenne",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Guetteur Stygien",
+      "abilities": 1,
+      "variants": 1,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Serres / action : profil complet",
+        "1 — Serres / action : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":50,\"quantity\":1}",
+        "1 — Serres / action : dégâts de la variante",
+        "1 — Serres / action : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":50,\"quantity\":1}",
+        "1 — Serres / action : aucun dégât/soin/poison de cible sur échec"
+      ]
+    },
+    {
+      "name": "Guetteuse de Kaëlor",
+      "abilities": 1,
+      "variants": 1,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Serres / action : profil complet",
+        "1 — Serres / action : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":50,\"quantity\":1}",
+        "1 — Serres / action : dégâts de la variante",
+        "1 — Serres / action : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":50,\"quantity\":1}",
+        "1 — Serres / action : aucun dégât/soin/poison de cible sur échec"
+      ]
+    },
+    {
+      "name": "Guyamtel",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Hérisson géant",
+      "abilities": 1,
+      "variants": 1,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Piques défensives / action : profil complet",
+        "1 — Piques défensives / action : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":50,\"quantity\":1}",
+        "1 — Piques défensives / action : dégâts de la variante",
+        "1 — Piques défensives / action : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":50,\"quantity\":1}",
+        "1 — Piques défensives / action : aucun dégât/soin/poison de cible sur échec"
+      ]
+    },
+    {
+      "name": "Joël",
+      "abilities": 4,
+      "variants": 6,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Trouver les mots / encourage : profil complet",
+        "1 — Trouver les mots / encourage : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "1 — Trouver les mots / encourage : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "1 — Trouver les mots / encourage : aucun dégât/soin/poison de cible sur échec",
+        "2 — Magie d’Ellen / vibration : profil complet",
+        "2 — Magie d’Ellen / vibration : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "2 — Magie d’Ellen / vibration : dégâts de la variante",
+        "2 — Magie d’Ellen / vibration : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "2 — Magie d’Ellen / vibration : aucun dégât/soin/poison de cible sur échec",
+        "2 — Magie d’Ellen / mental : profil complet",
+        "2 — Magie d’Ellen / mental : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "2 — Magie d’Ellen / mental : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "2 — Magie d’Ellen / mental : aucun dégât/soin/poison de cible sur échec",
+        "3 — Lien Paternel / exchange : profil complet",
+        "3 — Lien Paternel / exchange : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":70,\"quantity\":1}",
+        "3 — Lien Paternel / exchange : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":70,\"quantity\":1}",
+        "3 — Lien Paternel / exchange : aucun dégât/soin/poison de cible sur échec",
+        "3 — Lien Paternel / protect : profil complet",
+        "3 — Lien Paternel / protect : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "3 — Lien Paternel / protect : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "3 — Lien Paternel / protect : aucun dégât/soin/poison de cible sur échec",
+        "U — Vibration Mental / zone : profil complet",
+        "U — Vibration Mental / zone : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "U — Vibration Mental / zone : dégâts de la variante",
+        "U — Vibration Mental / zone : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "U — Vibration Mental / zone : aucun dégât/soin/poison de cible sur échec",
+        "Quatre compétences après les récompenses"
+      ]
+    },
+    {
+      "name": "Kaëlor",
+      "abilities": 4,
+      "variants": 8,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Carapateur / scout : profil complet",
+        "1 — Carapateur / scout : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "1 — Carapateur / scout : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "1 — Carapateur / scout : aucun dégât/soin/poison de cible sur échec",
+        "1 — Carapateur / bulb : profil complet",
+        "1 — Carapateur / bulb : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":70,\"quantity\":1}",
+        "1 — Carapateur / bulb : récompense seulement après réussite",
+        "1 — Carapateur / bulb : fabrication ne soigne pas",
+        "1 — Carapateur / bulb : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":70,\"quantity\":1}",
+        "1 — Carapateur / bulb : aucun dégât/soin/poison de cible sur échec",
+        "1 — Carapateur / bulb : récompense seulement après réussite",
+        "1 — Carapateur / bulb : fabrication ne soigne pas",
+        "2 — Guetter Stygien / attack : profil complet",
+        "2 — Guetter Stygien / attack : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "2 — Guetter Stygien / attack : dégâts de la variante",
+        "2 — Guetter Stygien / attack : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "2 — Guetter Stygien / attack : aucun dégât/soin/poison de cible sur échec",
+        "2 — Guetter Stygien / protect : profil complet",
+        "2 — Guetter Stygien / protect : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "2 — Guetter Stygien / protect : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "2 — Guetter Stygien / protect : aucun dégât/soin/poison de cible sur échec",
+        "2 — Guetter Stygien / fear : profil complet",
+        "2 — Guetter Stygien / fear : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "2 — Guetter Stygien / fear : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "2 — Guetter Stygien / fear : aucun dégât/soin/poison de cible sur échec",
+        "3 — Vivarium Hextech / capture : profil complet",
+        "3 — Vivarium Hextech / capture : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":70,\"quantity\":1}",
+        "3 — Vivarium Hextech / capture : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":70,\"quantity\":1}",
+        "3 — Vivarium Hextech / capture : aucun dégât/soin/poison de cible sur échec",
+        "3 — Vivarium Hextech / tame : profil complet",
+        "3 — Vivarium Hextech / tame : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "3 — Vivarium Hextech / tame : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "3 — Vivarium Hextech / tame : aucun dégât/soin/poison de cible sur échec",
+        "U — Appel de la Nature / call : profil complet",
+        "U — Appel de la Nature / call : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "U — Appel de la Nature / call : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "U — Appel de la Nature / call : aucun dégât/soin/poison de cible sur échec",
+        "Quatre compétences après les récompenses"
+      ]
+    },
+    {
+      "name": "Klaus",
+      "abilities": 4,
+      "variants": 7,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Fléau-Fist / strike : profil complet",
+        "1 — Fléau-Fist / strike : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "1 — Fléau-Fist / strike : dégâts de la variante",
+        "1 — Fléau-Fist / strike : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "1 — Fléau-Fist / strike : aucun dégât/soin/poison de cible sur échec",
+        "1 — Fléau-Fist / restrain : profil complet",
+        "1 — Fléau-Fist / restrain : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "1 — Fléau-Fist / restrain : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "1 — Fléau-Fist / restrain : aucun dégât/soin/poison de cible sur échec",
+        "2 — Bomb-A-Energy / bomb : profil complet",
+        "2 — Bomb-A-Energy / bomb : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":70,\"quantity\":1}",
+        "2 — Bomb-A-Energy / bomb : récompense seulement après réussite",
+        "2 — Bomb-A-Energy / bomb : fabrication ne soigne pas",
+        "2 — Bomb-A-Energy / bomb : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":70,\"quantity\":1}",
+        "2 — Bomb-A-Energy / bomb : aucun dégât/soin/poison de cible sur échec",
+        "2 — Bomb-A-Energy / bomb : récompense seulement après réussite",
+        "2 — Bomb-A-Energy / bomb : fabrication ne soigne pas",
+        "3 — Bricolage Hextech / craft : profil complet",
+        "3 — Bricolage Hextech / craft : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":70,\"quantity\":1}",
+        "Bonus de dégâts sur arme",
+        "Bonus retiré après la prochaine utilisation",
+        "3 — Bricolage Hextech / craft : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":70,\"quantity\":1}",
+        "3 — Bricolage Hextech / craft : aucun dégât/soin/poison de cible sur échec",
+        "3 — Bricolage Hextech / repair : profil complet",
+        "3 — Bricolage Hextech / repair : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":70,\"quantity\":1}",
+        "3 — Bricolage Hextech / repair : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":70,\"quantity\":1}",
+        "3 — Bricolage Hextech / repair : aucun dégât/soin/poison de cible sur échec",
+        "3 — Bricolage Hextech / rm : profil complet",
+        "3 — Bricolage Hextech / rm : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "3 — Bricolage Hextech / rm : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "3 — Bricolage Hextech / rm : aucun dégât/soin/poison de cible sur échec",
+        "U — I.E.M Hextech / iem : profil complet",
+        "U — I.E.M Hextech / iem : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "U — I.E.M Hextech / iem : dégâts de la variante",
+        "U — I.E.M Hextech / iem : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "U — I.E.M Hextech / iem : aucun dégât/soin/poison de cible sur échec",
+        "Quatre compétences après les récompenses"
+      ]
+    },
+    {
+      "name": "Le Flot Persistant",
+      "abilities": 1,
+      "variants": 1,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Canons de bord / action : profil complet",
+        "1 — Canons de bord / action : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":50,\"quantity\":1}",
+        "1 — Canons de bord / action : dégâts de la variante",
+        "1 — Canons de bord / action : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":50,\"quantity\":1}",
+        "1 — Canons de bord / action : aucun dégât/soin/poison de cible sur échec"
+      ]
+    },
+    {
+      "name": "Le Gobi",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Lianne",
+      "abilities": 4,
+      "variants": 5,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Chatouille / laugh : profil complet",
+        "1 — Chatouille / laugh : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":70,\"quantity\":1}",
+        "1 — Chatouille / laugh : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":70,\"quantity\":1}",
+        "1 — Chatouille / laugh : aucun dégât/soin/poison de cible sur échec",
+        "2 — Chapardeur / steal : profil complet",
+        "2 — Chapardeur / steal : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":70,\"quantity\":1}",
+        "2 — Chapardeur / steal : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":70,\"quantity\":1}",
+        "2 — Chapardeur / steal : aucun dégât/soin/poison de cible sur échec",
+        "3 — Chamallow / bubble : profil complet",
+        "3 — Chamallow / bubble : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":70,\"quantity\":1}",
+        "3 — Chamallow / bubble : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":70,\"quantity\":1}",
+        "3 — Chamallow / bubble : aucun dégât/soin/poison de cible sur échec",
+        "3 — Chamallow / maintain : profil complet",
+        "3 — Chamallow / maintain : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "3 — Chamallow / maintain : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "3 — Chamallow / maintain : aucun dégât/soin/poison de cible sur échec",
+        "U — Chal’aide / imagine : profil complet",
+        "U — Chal’aide / imagine : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":70,\"quantity\":1}",
+        "U — Chal’aide / imagine : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":70,\"quantity\":1}",
+        "U — Chal’aide / imagine : aucun dégât/soin/poison de cible sur échec",
+        "Quatre compétences après les récompenses"
+      ]
+    },
+    {
+      "name": "Luis",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Malek",
+      "abilities": 1,
+      "variants": 1,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Luabè — aiguilles / action : profil complet",
+        "1 — Luabè — aiguilles / action : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":50,\"quantity\":1}",
+        "1 — Luabè — aiguilles / action : dégâts de la variante",
+        "1 — Luabè — aiguilles / action : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":50,\"quantity\":1}",
+        "1 — Luabè — aiguilles / action : aucun dégât/soin/poison de cible sur échec"
+      ]
+    },
+    {
+      "name": "Marchand ionien",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Mariane",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Obrill",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Paaka",
+      "abilities": 1,
+      "variants": 1,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Griffes / action : profil complet",
+        "1 — Griffes / action : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":50,\"quantity\":1}",
+        "1 — Griffes / action : dégâts de la variante",
+        "1 — Griffes / action : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":50,\"quantity\":1}",
+        "1 — Griffes / action : aucun dégât/soin/poison de cible sur échec"
+      ]
+    },
+    {
+      "name": "Pete",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Pousse de Gaama",
+      "abilities": 1,
+      "variants": 1,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Morsure / action : profil complet",
+        "1 — Morsure / action : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":50,\"quantity\":1}",
+        "1 — Morsure / action : dégâts de la variante",
+        "1 — Morsure / action : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":50,\"quantity\":1}",
+        "1 — Morsure / action : aucun dégât/soin/poison de cible sur échec"
+      ]
+    },
+    {
+      "name": "Regan",
+      "abilities": 4,
+      "variants": 5,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Synthexine / force : profil complet",
+        "1 — Synthexine / force : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":70,\"quantity\":1}",
+        "1 — Synthexine : bonus natif force",
+        "1 — Synthexine / force : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":70,\"quantity\":1}",
+        "1 — Synthexine / force : aucun dégât/soin/poison de cible sur échec",
+        "1 — Synthexine / reflexes : profil complet",
+        "1 — Synthexine / reflexes : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "1 — Synthexine : bonus natif reflexes",
+        "1 — Synthexine / reflexes : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "1 — Synthexine / reflexes : aucun dégât/soin/poison de cible sur échec",
+        "2 — Métaniphénédream / focus : profil complet",
+        "2 — Métaniphénédream / focus : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "2 — Métaniphénédream : bonus natif perception",
+        "2 — Métaniphénédream : bonus natif concentration",
+        "2 — Métaniphénédream / focus : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "2 — Métaniphénédream / focus : aucun dégât/soin/poison de cible sur échec",
+        "3 — Hématoxine / poison : profil complet",
+        "3 — Hématoxine / poison : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":70,\"quantity\":1}",
+        "3 — Hématoxine / poison : poison/état de la variante",
+        "3 — Hématoxine / poison : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":70,\"quantity\":1}",
+        "3 — Hématoxine / poison : aucun dégât/soin/poison de cible sur échec",
+        "U — Substance Expérimentale / experiment : profil complet",
+        "U — Substance Expérimentale / experiment : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "Regan : tous les attributs à 100, malus inclus",
+        "U — Substance Expérimentale / experiment : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "U — Substance Expérimentale / experiment : aucun dégât/soin/poison de cible sur échec",
+        "Quatre compétences après les récompenses"
+      ]
+    },
+    {
+      "name": "Riva",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Soldat noxien",
+      "abilities": 1,
+      "variants": 1,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Arme de service / action : profil complet",
+        "1 — Arme de service / action : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":50,\"quantity\":1}",
+        "1 — Arme de service / action : dégâts de la variante",
+        "1 — Arme de service / action : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":50,\"quantity\":1}",
+        "1 — Arme de service / action : aucun dégât/soin/poison de cible sur échec"
+      ]
+    },
+    {
+      "name": "Tahm Kench",
+      "abilities": 1,
+      "variants": 1,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Fouet de langue / action : profil complet",
+        "1 — Fouet de langue / action : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":50,\"quantity\":1}",
+        "1 — Fouet de langue / action : dégâts de la variante",
+        "1 — Fouet de langue / action : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":50,\"quantity\":1}",
+        "1 — Fouet de langue / action : aucun dégât/soin/poison de cible sur échec"
+      ]
+    },
+    {
+      "name": "Tania",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Taoxana — forme mentale",
+      "abilities": 1,
+      "variants": 1,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Murmure du passé / action : profil complet",
+        "1 — Murmure du passé / action : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":50,\"quantity\":1}",
+        "1 — Murmure du passé / action : dégâts de la variante",
+        "1 — Murmure du passé / action : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":50,\"quantity\":1}",
+        "1 — Murmure du passé / action : aucun dégât/soin/poison de cible sur échec"
+      ]
+    },
+    {
+      "name": "Taoxana — forme physique",
+      "abilities": 1,
+      "variants": 1,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Absorption de chair / action : profil complet",
+        "1 — Absorption de chair / action : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":50,\"quantity\":1}",
+        "1 — Absorption de chair / action : dégâts de la variante",
+        "1 — Absorption de chair / action : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":50,\"quantity\":1}",
+        "1 — Absorption de chair / action : aucun dégât/soin/poison de cible sur échec"
+      ]
+    },
+    {
+      "name": "Teekaya / Oma",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Tezqa’Loti",
+      "abilities": 1,
+      "variants": 1,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Morsure envoûtante / action : profil complet",
+        "1 — Morsure envoûtante / action : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":50,\"quantity\":1}",
+        "1 — Morsure envoûtante / action : dégâts de la variante",
+        "1 — Morsure envoûtante / action : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":50,\"quantity\":1}",
+        "1 — Morsure envoûtante / action : aucun dégât/soin/poison de cible sur échec"
+      ]
+    },
+    {
+      "name": "Toadrick",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Wako",
+      "abilities": 4,
+      "variants": 8,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Danse Fluide / physical : profil complet",
+        "1 — Danse Fluide / physical : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "Danse Fluide sans soin ni création",
+        "1 — Danse Fluide / physical : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "1 — Danse Fluide / physical : aucun dégât/soin/poison de cible sur échec",
+        "Danse Fluide sans soin ni création",
+        "1 — Danse Fluide / magic : profil complet",
+        "1 — Danse Fluide / magic : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "Danse Fluide sans soin ni création",
+        "1 — Danse Fluide / magic : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "1 — Danse Fluide / magic : aucun dégât/soin/poison de cible sur échec",
+        "Danse Fluide sans soin ni création",
+        "2 — L’Offrande d’Onno / heal : profil complet",
+        "2 — L’Offrande d’Onno / heal : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "2 — L’Offrande d’Onno / heal : récompense seulement après réussite",
+        "2 — L’Offrande d’Onno / heal : fabrication ne soigne pas",
+        "2 — L’Offrande d’Onno / heal : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "2 — L’Offrande d’Onno / heal : aucun dégât/soin/poison de cible sur échec",
+        "2 — L’Offrande d’Onno / heal : récompense seulement après réussite",
+        "2 — L’Offrande d’Onno / heal : fabrication ne soigne pas",
+        "2 — L’Offrande d’Onno / poison : profil complet",
+        "2 — L’Offrande d’Onno / poison : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":70,\"quantity\":1}",
+        "2 — L’Offrande d’Onno / poison : récompense seulement après réussite",
+        "2 — L’Offrande d’Onno / poison : fabrication ne soigne pas",
+        "2 — L’Offrande d’Onno / poison : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":70,\"quantity\":1}",
+        "2 — L’Offrande d’Onno / poison : aucun dégât/soin/poison de cible sur échec",
+        "2 — L’Offrande d’Onno / poison : récompense seulement après réussite",
+        "2 — L’Offrande d’Onno / poison : fabrication ne soigne pas",
+        "3 — Instinct de Survie / traps : profil complet",
+        "3 — Instinct de Survie / traps : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "3 — Instinct de Survie / traps : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "3 — Instinct de Survie / traps : aucun dégât/soin/poison de cible sur échec",
+        "3 — Instinct de Survie / reflexes : profil complet",
+        "3 — Instinct de Survie / reflexes : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":70,\"quantity\":1}",
+        "3 — Instinct de Survie : bonus natif reflexes",
+        "3 — Instinct de Survie / reflexes : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":70,\"quantity\":1}",
+        "3 — Instinct de Survie / reflexes : aucun dégât/soin/poison de cible sur échec",
+        "U — L'acrobatie d’Onno / rain-heal : profil complet",
+        "U — L'acrobatie d’Onno / rain-heal : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "U — L'acrobatie d’Onno / rain-heal : soin de la variante",
+        "U — L'acrobatie d’Onno / rain-heal : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "U — L'acrobatie d’Onno / rain-heal : aucun dégât/soin/poison de cible sur échec",
+        "U — L'acrobatie d’Onno / rain-poison : profil complet",
+        "U — L'acrobatie d’Onno / rain-poison : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":70,\"quantity\":1}",
+        "U — L'acrobatie d’Onno / rain-poison : poison/état de la variante",
+        "U — L'acrobatie d’Onno / rain-poison : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":70,\"quantity\":1}",
+        "U — L'acrobatie d’Onno / rain-poison : aucun dégât/soin/poison de cible sur échec",
+        "Quatre compétences après les récompenses"
+      ]
+    },
+    {
+      "name": "Wern",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Will",
+      "abilities": 4,
+      "variants": 6,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Faiblesse de l’Ennemi / physical : profil complet",
+        "1 — Faiblesse de l’Ennemi / physical : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":70,\"quantity\":1}",
+        "1 — Faiblesse de l’Ennemi / physical : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":70,\"quantity\":1}",
+        "1 — Faiblesse de l’Ennemi / physical : aucun dégât/soin/poison de cible sur échec",
+        "1 — Faiblesse de l’Ennemi / mental : profil complet",
+        "1 — Faiblesse de l’Ennemi / mental : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":70,\"quantity\":1}",
+        "1 — Faiblesse de l’Ennemi / mental : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":70,\"quantity\":1}",
+        "1 — Faiblesse de l’Ennemi / mental : aucun dégât/soin/poison de cible sur échec",
+        "2 — Regard de Huul / taunt : profil complet",
+        "2 — Regard de Huul / taunt : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":70,\"quantity\":1}",
+        "2 — Regard de Huul / taunt : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":70,\"quantity\":1}",
+        "2 — Regard de Huul / taunt : aucun dégât/soin/poison de cible sur échec",
+        "2 — Regard de Huul / fear : profil complet",
+        "2 — Regard de Huul / fear : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "2 — Regard de Huul / fear : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "2 — Regard de Huul / fear : aucun dégât/soin/poison de cible sur échec",
+        "3 — Prédiction de Huul / predict : profil complet",
+        "3 — Prédiction de Huul / predict : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "3 — Prédiction de Huul / predict : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "3 — Prédiction de Huul / predict : aucun dégât/soin/poison de cible sur échec",
+        "U — Connaissance de Huul / secret : profil complet",
+        "U — Connaissance de Huul / secret : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":80,\"quantity\":1}",
+        "U — Connaissance de Huul / secret : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":80,\"quantity\":1}",
+        "U — Connaissance de Huul / secret : aucun dégât/soin/poison de cible sur échec",
+        "Quatre compétences après les récompenses"
+      ]
+    },
+    {
+      "name": "Willburn",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Xandor",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    },
+    {
+      "name": "Xlamtaroq",
+      "abilities": 1,
+      "variants": 1,
+      "checks": [
+        "Générateur D100 contrôlable",
+        "1 — Défense du troupeau / action : profil complet",
+        "1 — Défense du troupeau / action : D100 réussite {\"die\":20,\"total\":20,\"outcome\":\"success\",\"value\":50,\"quantity\":1}",
+        "1 — Défense du troupeau / action : dégâts de la variante",
+        "1 — Défense du troupeau / action : D100 échec {\"die\":90,\"total\":90,\"outcome\":\"failure\",\"value\":50,\"quantity\":1}",
+        "1 — Défense du troupeau / action : aucun dégât/soin/poison de cible sur échec"
+      ]
+    },
+    {
+      "name": "Ygritte",
+      "abilities": 0,
+      "variants": 0,
+      "checks": [
+        "Générateur D100 contrôlable"
+      ]
+    }
+  ],
+  "inventory": {
+    "potionHP": 50,
+    "poisonLevel": 2
+  },
+  "errors": []
+}

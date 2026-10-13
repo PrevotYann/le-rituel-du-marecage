@@ -1,557 +1,2369 @@
 {
+  "taoxana-vision:ability:murmure du passe": [
+    {
+      "id": "action",
+      "label": "Utiliser Murmure du passé",
+      "attribute": "concentration",
+      "alternateAttribute": "concentration",
+      "damageFormula": "10",
+      "damageType": "magic",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "10",
+          "type": "magic",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Action native du système. Proposition locale : dégâts absents de la source, ajustables par le MJ. Décisions de possession et hypnose à confirmer séparément.</p>"
+    }
+  ],
+  "taoxana:ability:absorption de chair": [
+    {
+      "id": "action",
+      "label": "Utiliser Absorption de chair",
+      "attribute": "concentration",
+      "alternateAttribute": "concentration",
+      "damageFormula": "20",
+      "damageType": "magic",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "20",
+          "type": "magic",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Action native du système. Valeur chiffrée du scénario.</p>"
+    }
+  ],
+  "camille:ability:bombe": [
+    {
+      "id": "action",
+      "label": "Utiliser Bombe de gaz chimique",
+      "attribute": "concentration",
+      "alternateAttribute": "concentration",
+      "damageFormula": "10",
+      "damageType": "magic",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "10",
+          "type": "magic",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 2,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Valeur de la copie du scénario : trois bombes, 10 DM de zone. Zone de 2 m proposée localement.</p>"
+    }
+  ],
+  "soldat-noxien:ability:arme de service": [
+    {
+      "id": "action",
+      "label": "Utiliser Arme de service",
+      "attribute": "force",
+      "alternateAttribute": "force",
+      "damageFormula": "10",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "10",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Action native du système. Proposition locale : dégâts absents de la source, ajustables par le MJ. Décisions de possession et hypnose à confirmer séparément.</p>"
+    }
+  ],
+  "malek:ability:luabe aiguilles": [
+    {
+      "id": "action",
+      "label": "Utiliser Luabè — aiguilles",
+      "attribute": "concentration",
+      "alternateAttribute": "concentration",
+      "damageFormula": "20",
+      "damageType": "magic",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "20",
+          "type": "magic",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Action native du système. Proposition locale : dégâts absents de la source, ajustables par le MJ. Décisions de possession et hypnose à confirmer séparément.</p>"
+    }
+  ],
+  "tahm-kench:ability:fouet de langue": [
+    {
+      "id": "action",
+      "label": "Utiliser Fouet de langue",
+      "attribute": "force",
+      "alternateAttribute": "force",
+      "damageFormula": "30",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "30",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Action native du système. Proposition locale : dégâts absents de la source, ajustables par le MJ. Décisions de possession et hypnose à confirmer séparément.</p>"
+    }
+  ],
+  "barry:ability:canne du charlatan": [
+    {
+      "id": "action",
+      "label": "Utiliser Canne du charlatan",
+      "attribute": "force",
+      "alternateAttribute": "force",
+      "damageFormula": "10",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "10",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Action native du système. Proposition locale : dégâts absents de la source, ajustables par le MJ. Décisions de possession et hypnose à confirmer séparément.</p>"
+    }
+  ],
+  "azucena:ability:fleche venimeuse": [
+    {
+      "id": "action",
+      "label": "Utiliser Flèche venimeuse",
+      "attribute": "force",
+      "alternateAttribute": "force",
+      "damageFormula": "15",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "15",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Action native du système. Proposition locale : dégâts absents de la source, ajustables par le MJ. Décisions de possession et hypnose à confirmer séparément.</p>"
+    }
+  ],
+  "gaama:ability:mandibules": [
+    {
+      "id": "action",
+      "label": "Utiliser Mandibules",
+      "attribute": "force",
+      "alternateAttribute": "force",
+      "damageFormula": "15",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "15",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Action native du système. Valeur chiffrée du scénario.</p>"
+    }
+  ],
+  "gaama:ability:venin d echarde": [
+    {
+      "id": "action",
+      "label": "Utiliser Venin d’écharde",
+      "attribute": "concentration",
+      "alternateAttribute": "concentration",
+      "damageFormula": "10",
+      "damageType": "magic",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "10",
+          "type": "magic",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "poison",
+        "level": 1
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Action native du système. Valeur chiffrée du scénario.</p>"
+    }
+  ],
+  "pousse-gaama:ability:morsure": [
+    {
+      "id": "action",
+      "label": "Utiliser Morsure",
+      "attribute": "force",
+      "alternateAttribute": "force",
+      "damageFormula": "10",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "10",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Action native du système. Valeur chiffrée du scénario.</p>"
+    }
+  ],
+  "aurora:ability:chasse hypnotique": [
+    {
+      "id": "action",
+      "label": "Utiliser Chasse hypnotique",
+      "attribute": "concentration",
+      "alternateAttribute": "concentration",
+      "damageFormula": "10",
+      "damageType": "magic",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "10",
+          "type": "magic",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Action native du système. Proposition locale : dégâts absents de la source, ajustables par le MJ. Décisions de possession et hypnose à confirmer séparément.</p>"
+    }
+  ],
+  "tezqaloti:ability:morsure envoutante": [
+    {
+      "id": "action",
+      "label": "Utiliser Morsure envoûtante",
+      "attribute": "force",
+      "alternateAttribute": "force",
+      "damageFormula": "20",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "20",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Action native du système. Proposition locale : dégâts absents de la source, ajustables par le MJ. Décisions de possession et hypnose à confirmer séparément.</p>"
+    }
+  ],
+  "xlamtaroq:ability:defense du troupeau": [
+    {
+      "id": "action",
+      "label": "Utiliser Défense du troupeau",
+      "attribute": "force",
+      "alternateAttribute": "force",
+      "damageFormula": "20",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "20",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Action native du système. Proposition locale : dégâts absents de la source, ajustables par le MJ. Décisions de possession et hypnose à confirmer séparément.</p>"
+    }
+  ],
+  "paaka:ability:griffes": [
+    {
+      "id": "action",
+      "label": "Utiliser Griffes",
+      "attribute": "force",
+      "alternateAttribute": "force",
+      "damageFormula": "10",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "10",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Action native du système. Proposition locale : dégâts absents de la source, ajustables par le MJ. Décisions de possession et hypnose à confirmer séparément.</p>"
+    }
+  ],
+  "herisson:ability:piques defensives": [
+    {
+      "id": "action",
+      "label": "Utiliser Piques défensives",
+      "attribute": "force",
+      "alternateAttribute": "force",
+      "damageFormula": "10",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "10",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Action native du système. Proposition locale : dégâts absents de la source, ajustables par le MJ. Décisions de possession et hypnose à confirmer séparément.</p>"
+    }
+  ],
+  "guetteur:ability:serres": [
+    {
+      "id": "action",
+      "label": "Utiliser Serres",
+      "attribute": "force",
+      "alternateAttribute": "force",
+      "damageFormula": "10",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "10",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Action native du système. Valeur chiffrée du scénario.</p>"
+    }
+  ],
+  "navire:ability:canons de bord": [
+    {
+      "id": "action",
+      "label": "Utiliser Canons de bord",
+      "attribute": "force",
+      "alternateAttribute": "force",
+      "damageFormula": "30",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "30",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Action native du système. Proposition locale : dégâts absents de la source, ajustables par le MJ. Décisions de possession et hypnose à confirmer séparément.</p>"
+    }
+  ],
   "eliora:ability:1": [
     {
-      "id": "rm",
-      "label": "Protection en méditation",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "id": "boost",
+      "label": "Renforcer un attribut allié (+10)",
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
       "duration": 30,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "rituel": {
+        "kind": "targetBonus",
+        "choice": true,
+        "amount": 10
+      },
+      "description": "<p>Renfort Apaisant — Renforcer un attribut allié (+10)<br>Choisir cette action, vérifier ses conditions et les cibles avant le jet.</p>"
+    },
+    {
+      "id": "rm",
+      "label": "Protection en méditation (+10 RM)",
+      "attribute": "second",
       "alternateAttribute": "second",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
       "associatedEffects": [
         {
           "resistance": "magicResistance",
-          "value": 10
+          "value": 10,
+          "condition": "Bouclier local ; durée proposée : un round du système (30 s), à confirmer."
         }
-      ]
+      ],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 30,
+      "area": 0,
+      "conditions": "Eliora médite ; choisir les alliés protégés.",
+      "description": "<p>Renfort Apaisant — Protection en méditation (+10 RM)<br>Eliora médite ; choisir les alliés protégés.</p>"
+    }
+  ],
+  "eliora:ability:2": [
+    {
+      "id": "read",
+      "label": "Ressentir une émotion",
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Ressenti Émotionnel — Ressentir une émotion<br>Choisir cette action, vérifier ses conditions et les cibles avant le jet.</p>"
     },
     {
-      "id": "force",
-      "label": "Renfort : force",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "modifications": [
+      "id": "send",
+      "label": "Transmettre une émotion vécue",
+      "attribute": "second",
+      "alternateAttribute": "second",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
         {
-          "attribute": "force",
-          "value": 10
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
         }
-      ]
-    },
-    {
-      "id": "agility",
-      "label": "Renfort : agility",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "modifications": [
-        {
-          "attribute": "agility",
-          "value": 10
-        }
-      ]
-    },
-    {
-      "id": "endurance",
-      "label": "Renfort : endurance",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "modifications": [
-        {
-          "attribute": "endurance",
-          "value": 10
-        }
-      ]
-    },
-    {
-      "id": "concentration",
-      "label": "Renfort : concentration",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "modifications": [
-        {
-          "attribute": "concentration",
-          "value": 10
-        }
-      ]
-    },
-    {
-      "id": "perception",
-      "label": "Renfort : perception",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "modifications": [
-        {
-          "attribute": "perception",
-          "value": 10
-        }
-      ]
-    },
-    {
-      "id": "reflexes",
-      "label": "Renfort : reflexes",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "modifications": [
-        {
-          "attribute": "reflexes",
-          "value": 10
-        }
-      ]
-    },
-    {
-      "id": "dexterity",
-      "label": "Renfort : dexterity",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "modifications": [
-        {
-          "attribute": "dexterity",
-          "value": 10
-        }
-      ]
-    },
-    {
-      "id": "stealth",
-      "label": "Renfort : stealth",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "modifications": [
-        {
-          "attribute": "stealth",
-          "value": 10
-        }
-      ]
-    },
-    {
-      "id": "charisma",
-      "label": "Renfort : charisma",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "modifications": [
-        {
-          "attribute": "charisma",
-          "value": 10
-        }
-      ]
-    },
-    {
-      "id": "persuasion",
-      "label": "Renfort : persuasion",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "modifications": [
-        {
-          "attribute": "persuasion",
-          "value": 10
-        }
-      ]
-    },
-    {
-      "id": "intimidation",
-      "label": "Renfort : intimidation",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "modifications": [
-        {
-          "attribute": "intimidation",
-          "value": 10
-        }
-      ]
-    },
-    {
-      "id": "mental",
-      "label": "Renfort : mental",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "modifications": [
-        {
-          "attribute": "mental",
-          "value": 10
-        }
-      ]
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir une émotion réellement vécue ; le MJ fixe le malus si elle ne l’est pas.",
+      "description": "<p>Ressenti Émotionnel — Transmettre une émotion vécue<br>Choisir une émotion réellement vécue ; le MJ fixe le malus si elle ne l’est pas.</p>"
     }
   ],
   "eliora:ability:3": [
     {
+      "id": "weaken",
+      "label": "Affaiblir l’attaque d’un ennemi",
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Le montant de réduction n’est pas chiffré dans la source ; décision MJ après le jet, pas de réduction automatique inventée.",
+      "description": "<p>Pressentiment Vulnérable — Affaiblir l’attaque d’un ennemi<br>Le montant de réduction n’est pas chiffré dans la source ; décision MJ après le jet, pas de réduction automatique inventée.</p>"
+    },
+    {
       "id": "vulnerability",
-      "label": "Vulnérabilité : prochaine attaque +10 (choix de la zone)",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "description": "<p>Appliquer +10 comme modificateur à la prochaine attaque contre la zone choisie, puis retirer l’indice. Le jet et les dégâts restent ceux du système.</p>"
+      "label": "Repérer une zone vulnérable (+10 au prochain jet)",
+      "attribute": "second",
+      "alternateAttribute": "second",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Le MJ confirme la zone vulnérable ; +10 au prochain jet visant cette zone, pas +10 dégâts automatiques.",
+      "rituel": {
+        "kind": "contextReward",
+        "amount": 10
+      },
+      "description": "<p>Pressentiment Vulnérable — Repérer une zone vulnérable (+10 au prochain jet)<br>Le MJ confirme la zone vulnérable ; +10 au prochain jet visant cette zone, pas +10 dégâts automatiques.</p>"
+    }
+  ],
+  "eliora:ability:U": [
+    {
+      "id": "command",
+      "label": "Prononcer un ordre en Amaretsu",
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [
+        {
+          "status": "charmed",
+          "condition": "Effet à confirmer sur les cibles choisies."
+        }
+      ],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Préciser le mot et les auditeurs. Le MJ décide de la possession narrative ; Charmé est le marqueur natif retirable.",
+      "description": "<p>Voix de l’Amaretsu — Prononcer un ordre en Amaretsu<br>Préciser le mot et les auditeurs. Le MJ décide de la possession narrative ; Charmé est le marqueur natif retirable.</p>"
     }
   ],
   "joel:ability:1": [
     {
-      "id": "force",
-      "label": "Trouver les mots : force",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "modifications": [
+      "id": "encourage",
+      "label": "Planifier avec Paternité ; Communication si échec",
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
         {
-          "attribute": "force",
-          "value": 10
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
         }
-      ]
-    },
-    {
-      "id": "agility",
-      "label": "Trouver les mots : agility",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
       "duration": 30,
-      "modifications": [
-        {
-          "attribute": "agility",
-          "value": 10
-        }
-      ]
-    },
-    {
-      "id": "endurance",
-      "label": "Trouver les mots : endurance",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "modifications": [
-        {
-          "attribute": "endurance",
-          "value": 10
-        }
-      ]
-    },
-    {
-      "id": "reflexes",
-      "label": "Trouver les mots : reflexes",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "modifications": [
-        {
-          "attribute": "reflexes",
-          "value": 10
-        }
-      ]
+      "area": 0,
+      "conditions": "Si Paternité échoue, lancer Communication ; seul ce second jet réussi donne +10 à un attribut allié.",
+      "rituel": {
+        "kind": "retryBonus",
+        "attribute": "second",
+        "choice": true,
+        "amount": 10
+      },
+      "description": "<p>Trouver les mots — Planifier avec Paternité ; Communication si échec<br>Si Paternité échoue, lancer Communication ; seul ce second jet réussi donne +10 à un attribut allié.</p>"
     }
   ],
   "joel:ability:2": [
     {
       "id": "vibration",
-      "label": "Vibration : 15 DB",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
+      "label": "Vibration : traverser la matière et infliger 15 DB",
+      "attribute": "first",
+      "alternateAttribute": "first",
       "damageFormula": "15",
-      "damageType": "brut"
+      "damageType": "brut",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "15",
+          "type": "brut",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Ellen agit sous la direction de Joël ; choisir la cible.",
+      "description": "<p>Magie d’Ellen — Vibration : traverser la matière et infliger 15 DB<br>Ellen agit sous la direction de Joël ; choisir la cible.</p>"
     },
     {
       "id": "mental",
-      "label": "Choc mental : paralysie",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
+      "label": "Choc mental : déstabiliser / paralyser",
+      "attribute": "first",
+      "alternateAttribute": "first",
       "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
       "associatedEffects": [
         {
           "status": "paralyzed",
-          "condition": "La cible voit Ellen ; Joël est immunisé."
+          "condition": "Effet à confirmer sur les cibles choisies."
         }
-      ]
+      ],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "La cible voit Ellen. Joël est immunisé à son Choc mental ; ne pas le choisir comme cible.",
+      "description": "<p>Magie d’Ellen — Choc mental : déstabiliser / paralyser<br>La cible voit Ellen. Joël est immunisé à son Choc mental ; ne pas le choisir comme cible.</p>"
+    }
+  ],
+  "joel:ability:3": [
+    {
+      "id": "exchange",
+      "label": "Intervertir deux attributs pour la prochaine action",
+      "attribute": "second",
+      "alternateAttribute": "second",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir Force/Discrétion ou Intimidation/Agilité. Effet local pendant la prochaine action seulement.",
+      "rituel": {
+        "kind": "exchange"
+      },
+      "description": "<p>Lien Paternel — Intervertir deux attributs pour la prochaine action<br>Choisir Force/Discrétion ou Intimidation/Agilité. Effet local pendant la prochaine action seulement.</p>"
+    },
+    {
+      "id": "protect",
+      "label": "S’interposer pour protéger Ellen",
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Effet Délivrance narratif : Joël se précipite auprès d’Ellen. Le MJ résout l’attaque selon le système, sans réduction chiffrée inventée.",
+      "description": "<p>Lien Paternel — S’interposer pour protéger Ellen<br>Effet Délivrance narratif : Joël se précipite auprès d’Ellen. Le MJ résout l’attaque selon le système, sans réduction chiffrée inventée.</p>"
     }
   ],
   "joel:ability:U": [
     {
       "id": "zone",
-      "label": "Vibrations mentales de zone",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
+      "label": "Vibration mentale : 15 DB et paralysie de zone",
+      "attribute": "first",
+      "alternateAttribute": "first",
       "damageFormula": "15",
       "damageType": "brut",
-      "area": 3,
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "15",
+          "type": "brut",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
       "associatedEffects": [
         {
           "status": "paralyzed",
-          "condition": "Cible choisie ; Joël peut libérer les alliés par Communication."
+          "condition": "Effet à confirmer sur les cibles choisies."
         }
-      ]
+      ],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 3,
+      "conditions": "Choisir les victimes ; Joël peut libérer ses alliés avec Communication. Un échec de son contrôle rend Ellen inconsciente.",
+      "rituel": {
+        "kind": "joelUltimate"
+      },
+      "description": "<p>Vibration Mental — Vibration mentale : 15 DB et paralysie de zone<br>Choisir les victimes ; Joël peut libérer ses alliés avec Communication. Un échec de son contrôle rend Ellen inconsciente.</p>"
     }
   ],
   "kaelor:ability:1": [
     {
-      "id": "heal",
-      "label": "Bulbe revigorant : +15 PV",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "attribute": "second",
-      "healFormula": "15"
+      "id": "scout",
+      "label": "Invoquer le Carapateur en reconnaissance",
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "rituel": {
+        "kind": "companion",
+        "key": "carapateur-compagnon"
+      },
+      "description": "<p>Carapateur — Invoquer le Carapateur en reconnaissance<br>Choisir cette action, vérifier ses conditions et les cibles avant le jet.</p>"
     },
     {
-      "id": "scout",
-      "label": "Reconnaissance du Carapateur",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
+      "id": "bulb",
+      "label": "Extraire un bulbe de soin (+15 PV)",
+      "attribute": "second",
+      "alternateAttribute": "second",
+      "damageFormula": "0",
+      "damageType": "physical",
       "healFormula": "0",
-      "attribute": "first"
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Le Carapateur est disponible. Une réussite crée un bulbe à consommer dans l’inventaire ; aucun soin au moment de l’extraction.",
+      "rituel": {
+        "kind": "rewardItem",
+        "reward": "bulb"
+      },
+      "description": "<p>Carapateur — Extraire un bulbe de soin (+15 PV)<br>Le Carapateur est disponible. Une réussite crée un bulbe à consommer dans l’inventaire ; aucun soin au moment de l’extraction.</p>"
     }
   ],
   "kaelor:ability:2": [
     {
       "id": "attack",
-      "label": "Serres : 10 DP",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
+      "label": "Guetteuse : serres, 10 DP",
+      "attribute": "first",
+      "alternateAttribute": "first",
       "damageFormula": "10",
-      "damageType": "physical"
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "10",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Guetter Stygien — Guetteuse : serres, 10 DP<br>Choisir cette action, vérifier ses conditions et les cibles avant le jet.</p>"
     },
     {
       "id": "protect",
-      "label": "Parade magique : +10 RM",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
+      "label": "Guetteuse : parade magique, +10 RM",
+      "attribute": "first",
+      "alternateAttribute": "first",
       "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
       "associatedEffects": [
         {
           "resistance": "magicResistance",
-          "value": 10
+          "value": 10,
+          "condition": "Bouclier local ; durée proposée : un round du système (30 s), à confirmer."
         }
-      ]
+      ],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 30,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Guetter Stygien — Guetteuse : parade magique, +10 RM<br>Choisir cette action, vérifier ses conditions et les cibles avant le jet.</p>"
     },
     {
       "id": "fear",
-      "label": "Effrayer la nuit",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
+      "label": "Guetteuse : effrayer pendant la nuit",
+      "attribute": "first",
+      "alternateAttribute": "first",
       "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
       "associatedEffects": [
         {
           "status": "fear",
-          "condition": "Seulement la nuit."
+          "condition": "Effet à confirmer sur les cibles choisies."
         }
-      ]
+      ],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Nuit seulement ; cible capable de percevoir la Guetteuse.",
+      "description": "<p>Guetter Stygien — Guetteuse : effrayer pendant la nuit<br>Nuit seulement ; cible capable de percevoir la Guetteuse.</p>"
+    }
+  ],
+  "kaelor:ability:3": [
+    {
+      "id": "capture",
+      "label": "Capturer une créature apaisée dans le Vivarium",
+      "attribute": "second",
+      "alternateAttribute": "second",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Cibler une créature apaisée et capturable ; le MJ confirme cette condition.",
+      "rituel": {
+        "kind": "capture"
+      },
+      "description": "<p>Vivarium Hextech — Capturer une créature apaisée dans le Vivarium<br>Cibler une créature apaisée et capturable ; le MJ confirme cette condition.</p>"
+    },
+    {
+      "id": "tame",
+      "label": "Apprivoiser une créature du Vivarium",
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Créature déjà dans le Vivarium ; dressage décidé avec le MJ.",
+      "rituel": {
+        "kind": "tame"
+      },
+      "description": "<p>Vivarium Hextech — Apprivoiser une créature du Vivarium<br>Créature déjà dans le Vivarium ; dressage décidé avec le MJ.</p>"
+    }
+  ],
+  "kaelor:ability:U": [
+    {
+      "id": "call",
+      "label": "Appeler la faune environnante",
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "La présence, le nombre et les actions des créatures sont décidés par le MJ selon le résultat ; aucune armée créée automatiquement.",
+      "description": "<p>Appel de la Nature — Appeler la faune environnante<br>La présence, le nombre et les actions des créatures sont décidés par le MJ selon le résultat ; aucune armée créée automatiquement.</p>"
     }
   ],
   "klaus:ability:1": [
     {
       "id": "strike",
-      "label": "Fléau-Fist : 20 DP (adaptation)",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
+      "label": "Fléau-Fist : frapper, 20 DP",
+      "attribute": "first",
+      "alternateAttribute": "first",
       "damageFormula": "20",
-      "damageType": "physical"
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "20",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Klaus pilote le Hexotech. Dégâts 20 DP : adaptation chiffrée, absente de la source.",
+      "description": "<p>Fléau-Fist — Fléau-Fist : frapper, 20 DP<br>Klaus pilote le Hexotech. Dégâts 20 DP : adaptation chiffrée, absente de la source.</p>"
     },
     {
       "id": "restrain",
-      "label": "Immobiliser",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
+      "label": "Fléau-Fist : immobiliser une cible",
+      "attribute": "first",
+      "alternateAttribute": "first",
       "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
       "associatedEffects": [
         {
           "status": "restrained",
-          "condition": "Bonne réussite et contexte validés."
+          "condition": "Effet à confirmer sur les cibles choisies."
         }
-      ]
+      ],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Klaus pilote le Hexotech ; bonne réussite et prise possible à confirmer par le MJ.",
+      "description": "<p>Fléau-Fist — Fléau-Fist : immobiliser une cible<br>Klaus pilote le Hexotech ; bonne réussite et prise possible à confirmer par le MJ.</p>"
     }
   ],
   "klaus:ability:2": [
     {
       "id": "bomb",
-      "label": "Bombe instable : 10 DM",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
+      "label": "Fabriquer une bombe instable de 10 DM",
       "attribute": "second",
-      "damageFormula": "10",
-      "damageType": "magic",
-      "area": 2
+      "alternateAttribute": "second",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Une réussite crée une bombe à usage unique dans l’inventaire ; sa détonation est une action distincte.",
+      "rituel": {
+        "kind": "rewardItem",
+        "reward": "bomb"
+      },
+      "description": "<p>Bomb-A-Energy — Fabriquer une bombe instable de 10 DM<br>Une réussite crée une bombe à usage unique dans l’inventaire ; sa détonation est une action distincte.</p>"
     }
   ],
   "klaus:ability:3": [
     {
+      "id": "craft",
+      "label": "Renforcer une arme : +10 DM à sa prochaine utilisation",
+      "attribute": "second",
+      "alternateAttribute": "second",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir une arme embarquée ; bonus temporaire retiré après sa prochaine utilisation.",
+      "rituel": {
+        "kind": "weaponBonus",
+        "amount": 10
+      },
+      "description": "<p>Bricolage Hextech — Renforcer une arme : +10 DM à sa prochaine utilisation<br>Choisir une arme embarquée ; bonus temporaire retiré après sa prochaine utilisation.</p>"
+    },
+    {
+      "id": "repair",
+      "label": "Réparer un mécanisme ou équipement",
+      "attribute": "second",
+      "alternateAttribute": "second",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir l’équipement endommagé ; réparation native sans restauration de pertes permanentes.",
+      "rituel": {
+        "kind": "repair"
+      },
+      "description": "<p>Bricolage Hextech — Réparer un mécanisme ou équipement<br>Choisir l’équipement endommagé ; réparation native sans restauration de pertes permanentes.</p>"
+    },
+    {
       "id": "rm",
-      "label": "Blindage : +10 RM",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
+      "label": "Renforcer le Hexotech : +10 RM",
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
       "associatedEffects": [
         {
           "resistance": "magicResistance",
-          "value": 10
+          "value": 10,
+          "condition": "Bouclier local ; durée proposée : un round du système (30 s), à confirmer."
         }
-      ]
-    },
-    {
-      "id": "craft",
-      "label": "Amélioration de l’arme (prochaine utilisation)",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      ],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
       "duration": 30,
-      "attribute": "second",
-      "description": "<p>Après réussite, le MJ choisit l’arme et utilise le bonus temporaire d’arme +10 DM via le pupitre ; la fiche native garde son intégrité.</p>"
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Bricolage Hextech — Renforcer le Hexotech : +10 RM<br>Choisir cette action, vérifier ses conditions et les cibles avant le jet.</p>"
     }
   ],
   "klaus:ability:U": [
     {
       "id": "iem",
-      "label": "I.E.M. : 60 DM de zone",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
+      "label": "Sortir du Hexotech puis décharge I.E.M. : 60 DM",
+      "attribute": "first",
+      "alternateAttribute": "first",
       "damageFormula": "60",
       "damageType": "magic",
-      "area": 3
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "60",
+          "type": "magic",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 3,
+      "conditions": "Klaus sort de l’armure ; choisir les cibles dans la zone, y compris les alliés exposés.",
+      "description": "<p>I.E.M Hextech — Sortir du Hexotech puis décharge I.E.M. : 60 DM<br>Klaus sort de l’armure ; choisir les cibles dans la zone, y compris les alliés exposés.</p>"
     }
   ],
   "lianne:ability:1": [
     {
       "id": "laugh",
-      "label": "Chatouille : fou rire",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
+      "label": "Chatouille : provoquer un fou rire",
+      "attribute": "second",
+      "alternateAttribute": "second",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
       "associatedEffects": [
         {
           "status": "restrained",
-          "condition": "Fou rire ; état proposé pendant un round, Démence ensuite."
+          "condition": "Effet à confirmer sur les cibles choisies."
         }
-      ]
+      ],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Fou rire contrôlé par Magie Yordle ; poursuivre les contrôles de Démence avec le MJ. Entravé est le marqueur natif adapté.",
+      "description": "<p>Chatouille — Chatouille : provoquer un fou rire<br>Fou rire contrôlé par Magie Yordle ; poursuivre les contrôles de Démence avec le MJ. Entravé est le marqueur natif adapté.</p>"
+    }
+  ],
+  "lianne:ability:2": [
+    {
+      "id": "steal",
+      "label": "Chapardeur : téléporter un petit objet visible",
+      "attribute": "second",
+      "alternateAttribute": "second",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Objet proche, visible et transportable ; choisir l’objet et son propriétaire, avec permission MJ pour un transfert.",
+      "rituel": {
+        "kind": "steal"
+      },
+      "description": "<p>Chapardeur — Chapardeur : téléporter un petit objet visible<br>Objet proche, visible et transportable ; choisir l’objet et son propriétaire, avec permission MJ pour un transfert.</p>"
     }
   ],
   "lianne:ability:3": [
     {
       "id": "bubble",
-      "label": "Chamallow : +10 RM",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "associatedEffects": [
+      "label": "Créer Chamallow : Magie Yordle puis Démence",
+      "attribute": "second",
+      "alternateAttribute": "second",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
         {
-          "resistance": "magicResistance",
-          "value": 10
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
         }
-      ]
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "La création est suivie d’un contrôle de Démence. Si ce contrôle échoue : passif et 20 DM contre Lianne ; aucun bouclier attribué.",
+      "rituel": {
+        "kind": "lianneShield",
+        "followup": "first"
+      },
+      "description": "<p>Chamallow — Créer Chamallow : Magie Yordle puis Démence<br>La création est suivie d’un contrôle de Démence. Si ce contrôle échoue : passif et 20 DM contre Lianne ; aucun bouclier attribué.</p>"
     },
     {
-      "id": "collapse",
-      "label": "Retour de magie : 20 DM à Lianne (confirmation)",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "damageFormula": "20",
-      "damageType": "magic",
-      "description": "<p>Échec du contrôle : appliquer à Lianne après confirmation, jamais à un ennemi.</p>"
+      "id": "maintain",
+      "label": "Maintenir Chamallow avec Démence",
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Bulle déjà active ; échec : perte du bouclier, passif et 20 DM contre Lianne.",
+      "rituel": {
+        "kind": "lianneShield"
+      },
+      "description": "<p>Chamallow — Maintenir Chamallow avec Démence<br>Bulle déjà active ; échec : perte du bouclier, passif et 20 DM contre Lianne.</p>"
+    }
+  ],
+  "lianne:ability:U": [
+    {
+      "id": "imagine",
+      "label": "Créer un compagnon imaginaire selon le besoin",
+      "attribute": "second",
+      "alternateAttribute": "second",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Préciser le désir et l’action. Une action importante appelle un contrôle de Démence (attribut spécial 1) ; l’effet reste une décision MJ.",
+      "description": "<p>Chal’aide — Créer un compagnon imaginaire selon le besoin<br>Préciser le désir et l’action. Une action importante appelle un contrôle de Démence (attribut spécial 1) ; l’effet reste une décision MJ.</p>"
     }
   ],
   "regan:ability:1": [
     {
       "id": "force",
-      "label": "Synthexine : Force +10 (adaptation)",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
+      "label": "Synthexine : Force +10",
       "attribute": "second",
-      "modifications": [
+      "alternateAttribute": "second",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
         {
-          "attribute": "force",
-          "value": 10
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
         }
-      ]
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 30,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "rituel": {
+        "kind": "selfBonus",
+        "modifications": [
+          {
+            "attribute": "force",
+            "value": 10
+          }
+        ]
+      },
+      "description": "<p>Synthexine — Synthexine : Force +10<br>Choisir cette action, vérifier ses conditions et les cibles avant le jet.</p>"
     },
     {
       "id": "reflexes",
-      "label": "Synthexine : Réflexes +10 (adaptation)",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "modifications": [
+      "label": "Synthexine : Réflexes +10",
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
         {
-          "attribute": "reflexes",
-          "value": 10
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
         }
-      ]
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 30,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "rituel": {
+        "kind": "selfBonus",
+        "modifications": [
+          {
+            "attribute": "reflexes",
+            "value": 10
+          }
+        ]
+      },
+      "description": "<p>Synthexine — Synthexine : Réflexes +10<br>Choisir cette action, vérifier ses conditions et les cibles avant le jet.</p>"
     }
   ],
   "regan:ability:2": [
     {
       "id": "focus",
       "label": "Métaniphénédream : Perception et Concentration +10",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "modifications": [
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
         {
-          "attribute": "perception",
-          "value": 10
-        },
-        {
-          "attribute": "concentration",
-          "value": 10
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
         }
-      ]
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 30,
+      "area": 0,
+      "conditions": "La source ne chiffre pas la durée : un round de 30 s est proposé, réglable par le MJ.",
+      "rituel": {
+        "kind": "selfBonus",
+        "modifications": [
+          {
+            "attribute": "perception",
+            "value": 10
+          },
+          {
+            "attribute": "concentration",
+            "value": 10
+          }
+        ]
+      },
+      "description": "<p>Métaniphénédream — Métaniphénédream : Perception et Concentration +10<br>La source ne chiffre pas la durée : un round de 30 s est proposé, réglable par le MJ.</p>"
     }
   ],
   "regan:ability:3": [
     {
       "id": "poison",
-      "label": "Hématoxine : poison niveau 1 (adaptation)",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
+      "label": "Hématoxine : infecter une cible",
       "attribute": "second",
+      "alternateAttribute": "second",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
       "dot": {
         "kind": "poison",
-        "level": 1
-      }
+        "level": 1,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Contact avec le mélange infecté ; niveau 1 de poison proposé, la source ne chiffre pas son niveau.",
+      "description": "<p>Hématoxine — Hématoxine : infecter une cible<br>Contact avec le mélange infecté ; niveau 1 de poison proposé, la source ne chiffre pas son niveau.</p>"
+    }
+  ],
+  "regan:ability:U": [
+    {
+      "id": "experiment",
+      "label": "Substance expérimentale : attributs à 100",
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 30,
+      "area": 0,
+      "conditions": "Un round de 30 s proposé ; l’ultime peut échouer au jet de Métabolisme. Les bases permanentes ne sont pas modifiées.",
+      "rituel": {
+        "kind": "selfOverride",
+        "value": 100
+      },
+      "description": "<p>Substance Expérimentale — Substance expérimentale : attributs à 100<br>Un round de 30 s proposé ; l’ultime peut échouer au jet de Métabolisme. Les bases permanentes ne sont pas modifiées.</p>"
+    }
+  ],
+  "wako:ability:1": [
+    {
+      "id": "physical",
+      "label": "Danse Fluide : esquiver une attaque physique",
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Une attaque physique arrive ; réussite = esquive, jet ≤ moitié du seuil = renvoi à son lanceur. Aucun soin.",
+      "rituel": {
+        "kind": "defense",
+        "type": "physical"
+      },
+      "description": "<p>Danse Fluide — Danse Fluide : esquiver une attaque physique<br>Une attaque physique arrive ; réussite = esquive, jet ≤ moitié du seuil = renvoi à son lanceur. Aucun soin.</p>"
+    },
+    {
+      "id": "magic",
+      "label": "Danse Fluide : esquiver une attaque magique",
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Une attaque magique arrive ; réussite = esquive, jet ≤ moitié du seuil = renvoi à son lanceur. Aucun soin.",
+      "rituel": {
+        "kind": "defense",
+        "type": "magic"
+      },
+      "description": "<p>Danse Fluide — Danse Fluide : esquiver une attaque magique<br>Une attaque magique arrive ; réussite = esquive, jet ≤ moitié du seuil = renvoi à son lanceur. Aucun soin.</p>"
     }
   ],
   "wako:ability:2": [
     {
       "id": "heal",
-      "label": "Offrande : +10 PV",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "healFormula": "10"
+      "label": "Transformer l’eau en une potion de +10 PV",
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Eau et récipient disponibles. Une réussite crée une potion dans l’inventaire ; elle soigne seulement lorsqu’elle est consommée.",
+      "rituel": {
+        "kind": "rewardItem",
+        "reward": "onno-potion"
+      },
+      "description": "<p>L’Offrande d’Onno — Transformer l’eau en une potion de +10 PV<br>Eau et récipient disponibles. Une réussite crée une potion dans l’inventaire ; elle soigne seulement lorsqu’elle est consommée.</p>"
     },
     {
       "id": "poison",
-      "label": "Offrande : poison niveau 2",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
+      "label": "Transformer l’eau en une dose de poison niveau 2",
       "attribute": "second",
+      "alternateAttribute": "second",
+      "damageFormula": "0",
+      "damageType": "physical",
       "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
       "dot": {
-        "kind": "poison",
-        "level": 2
-      }
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Eau et récipient disponibles. Une réussite ajoute une dose dans l’inventaire ; elle n’empoisonne pas une cible pendant sa création.",
+      "rituel": {
+        "kind": "rewardItem",
+        "reward": "onno-poison"
+      },
+      "description": "<p>L’Offrande d’Onno — Transformer l’eau en une dose de poison niveau 2<br>Eau et récipient disponibles. Une réussite ajoute une dose dans l’inventaire ; elle n’empoisonne pas une cible pendant sa création.</p>"
     }
   ],
   "wako:ability:3": [
     {
-      "id": "reflexes",
-      "label": "Instinct : Réflexes +10",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "attribute": "second",
-      "modifications": [
+      "id": "traps",
+      "label": "Reconnaître et déjouer un petit ou moyen piège",
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
         {
-          "attribute": "reflexes",
-          "value": 10
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
         }
-      ]
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Piège accessible ; le MJ confirme sa difficulté et les conséquences du jet.",
+      "description": "<p>Instinct de Survie — Reconnaître et déjouer un petit ou moyen piège<br>Piège accessible ; le MJ confirme sa difficulté et les conséquences du jet.</p>"
+    },
+    {
+      "id": "reflexes",
+      "label": "Anticiper une intention hostile : Réflexes +10",
+      "attribute": "second",
+      "alternateAttribute": "second",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 30,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "rituel": {
+        "kind": "selfBonus",
+        "modifications": [
+          {
+            "attribute": "reflexes",
+            "value": 10
+          }
+        ]
+      },
+      "description": "<p>Instinct de Survie — Anticiper une intention hostile : Réflexes +10<br>Choisir cette action, vérifier ses conditions et les cibles avant le jet.</p>"
     }
   ],
   "wako:ability:U": [
     {
       "id": "rain-heal",
-      "label": "Pluie de soins : +20 PV",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
+      "label": "Pluie de soins : +20 PV aux cibles",
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "20",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
       "area": 3,
-      "healFormula": "20"
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>L'acrobatie d’Onno — Pluie de soins : +20 PV aux cibles<br>Choisir cette action, vérifier ses conditions et les cibles avant le jet.</p>"
     },
     {
       "id": "rain-poison",
       "label": "Pluie de poison niveau 2",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
       "attribute": "second",
-      "area": 3,
+      "alternateAttribute": "second",
+      "damageFormula": "0",
+      "damageType": "physical",
       "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
       "dot": {
         "kind": "poison",
-        "level": 2
-      }
+        "level": 2,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 3,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>L'acrobatie d’Onno — Pluie de poison niveau 2<br>Choisir cette action, vérifier ses conditions et les cibles avant le jet.</p>"
+    }
+  ],
+  "will:ability:1": [
+    {
+      "id": "physical",
+      "label": "Ressentir une faiblesse physique",
+      "attribute": "second",
+      "alternateAttribute": "second",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Faiblesse de l’Ennemi — Ressentir une faiblesse physique<br>Choisir cette action, vérifier ses conditions et les cibles avant le jet.</p>"
+    },
+    {
+      "id": "mental",
+      "label": "Ressentir une faiblesse psychologique",
+      "attribute": "second",
+      "alternateAttribute": "second",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Faiblesse de l’Ennemi — Ressentir une faiblesse psychologique<br>Choisir cette action, vérifier ses conditions et les cibles avant le jet.</p>"
     }
   ],
   "will:ability:2": [
     {
       "id": "taunt",
-      "label": "Provocation (décision narrative)",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
-      "description": "<p>La cible est attirée vers Will selon le choix MJ ; aucune action sociale imposée par un algorithme.</p>"
+      "label": "Attirer l’attention vers Will",
+      "attribute": "second",
+      "alternateAttribute": "second",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Provocation narrative décidée avec le MJ, sans imposer une action sociale par algorithme.",
+      "description": "<p>Regard de Huul — Attirer l’attention vers Will<br>Provocation narrative décidée avec le MJ, sans imposer une action sociale par algorithme.</p>"
     },
     {
       "id": "fear",
-      "label": "Regard terrifiant",
-      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
-      "duration": 30,
+      "label": "Transmettre la terreur de Huul",
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
       "associatedEffects": [
         {
           "status": "fear",
-          "condition": "La cible soutient le regard de Will."
+          "condition": "Effet à confirmer sur les cibles choisies."
         }
-      ]
+      ],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Choisir cette action, vérifier ses conditions et les cibles avant le jet.",
+      "description": "<p>Regard de Huul — Transmettre la terreur de Huul<br>Choisir cette action, vérifier ses conditions et les cibles avant le jet.</p>"
+    }
+  ],
+  "will:ability:3": [
+    {
+      "id": "predict",
+      "label": "Demander à Huul une action future possible",
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Le MJ révèle une prémonition adaptée au résultat ; aucune lecture automatique de journaux secrets.",
+      "description": "<p>Prédiction de Huul — Demander à Huul une action future possible<br>Le MJ révèle une prémonition adaptée au résultat ; aucune lecture automatique de journaux secrets.</p>"
+    }
+  ],
+  "will:ability:U": [
+    {
+      "id": "secret",
+      "label": "Demander à Huul un secret précieux",
+      "attribute": "first",
+      "alternateAttribute": "first",
+      "damageFormula": "0",
+      "damageType": "physical",
+      "healFormula": "0",
+      "components": [
+        {
+          "formula": "0",
+          "type": "physical",
+          "penetration": 0,
+          "penetrating": false
+        }
+      ],
+      "modifications": [],
+      "associatedEffects": [],
+      "dot": {
+        "kind": "bleeding",
+        "level": 0,
+        "elapsed": 0,
+        "lost": 0
+      },
+      "targetMode": "targets",
+      "duration": 0,
+      "area": 0,
+      "conditions": "Le MJ choisit l’information révélée sur la personne désignée selon le résultat.",
+      "description": "<p>Connaissance de Huul — Demander à Huul un secret précieux<br>Le MJ choisit l’information révélée sur la personne désignée selon le résultat.</p>"
     }
   ]
 }

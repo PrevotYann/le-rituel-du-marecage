@@ -73,6 +73,29 @@
       "ending": "Issue de Malek",
       "undo": "Annuler une opération intacte",
       "rearm": "Réarmer une opération partielle"
-    }
+    },
+    "ActorReviewUpdated": "Origines et compétences corrigées sur {count} fiches du Rituel.",
+    "HumanDefault": "Humain — sans sous-espèce",
+    "SubtypeUnknown": "Sous-espèce non précisée",
+    "RegionUnknown": "Origine non précisée",
+    "SpeciesUnclassified": "Espèce hors des catégories jouables",
+    "PassiveTrait": "Trait passif",
+    "RollAttribute": "Jet",
+    "AbilityOwner": "Il faut posséder cette fiche pour utiliser sa compétence.",
+    "Variant": "Variante",
+    "Modifier": "Modificateur du jet",
+    "BonusAttribute": "Attribut à renforcer",
+    "SelectWeapon": "Arme à renforcer",
+    "SelectEquipment": "Équipement à réparer",
+    "NoWeapon": "Aucune arme embarquée",
+    "NoEquipment": "Aucun équipement embarqué",
+    "ExchangePair": "Attributs à intervertir",
+    "SelectCreature": "Créature choisie (accessible et apprivoisable)",
+    "SelectObject": "Objet proche et visible à récupérer (accord MJ)",
+    "AbilityContext": "Lancer le jet confirme les conditions affichées. Pour les dégâts et effets ciblés, utiliser ensuite la carte native du chat.",
+    "RollChosenVariant": "Lancer la variante choisie",
+    "AddedInventory": "ajouté à l’inventaire",
+    "InvalidVariant": "Variante de compétence inconnue.",
+    "PoisonDoseConfirm": "Consommer une dose pour préparer son application à une cible ? Le MJ confirmera les cibles sur la carte native du chat."
   }
 }

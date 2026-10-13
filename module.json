@@ -1,12 +1,76 @@
 {
- "id":"le-rituel-du-marecage", "title":"Le Rituel du Marécage", "description":"Une aventure française pour JDR Runeterra : Omatqan, les marais d’Oqlan, Le Chemin de l’Oubli et Harelport.", "version":"0.1.0",
- "authors":[{"name":"Adaptation Foundry pour le dépôt PrevotYann"}],
- "compatibility":{"minimum":"14.368","verified":"14.368","maximum":"14"},
- "relationships":{"systems":[{"id":"jdr-runeterra","type":"system","compatibility":{"minimum":"0.8.0","verified":"0.8.0","maximum":"0.8.0"}}],"recommends":[{"id":"babele","type":"module","compatibility":{"minimum":"2.8.0"}}]},
- "esmodules":["scripts/main.mjs"],"styles":["styles/rituel.css"],"languages":[{"lang":"fr","name":"Français","path":"lang/fr.json"}],
- "packs":[{"name":"adventure","label":"Le Rituel du Marécage — aventure","path":"packs/adventure","type":"Adventure","system":"jdr-runeterra","ownership":{"PLAYER":"NONE","ASSISTANT":"OWNER"}}],
- "packFolders":[{"name":"Le Rituel du Marécage","packs":["adventure"],"color":"#66856a"}],
- "url":"https://github.com/PrevotYann/le-rituel-du-marecage",
- "manifest":"https://github.com/PrevotYann/le-rituel-du-marecage/releases/latest/download/module.json",
- "download":"https://github.com/PrevotYann/le-rituel-du-marecage/releases/download/v0.1.0/le-rituel-du-marecage-0.1.0.zip"
+  "id": "le-rituel-du-marecage",
+  "title": "Le Rituel du Marécage",
+  "description": "Une aventure française pour JDR Runeterra : Omatqan, les marais d’Oqlan, Le Chemin de l’Oubli et Harelport.",
+  "version": "0.1.1",
+  "authors": [
+    {
+      "name": "Adaptation Foundry pour le dépôt PrevotYann"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14.368",
+    "verified": "14.368",
+    "maximum": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "jdr-runeterra",
+        "type": "system",
+        "compatibility": {
+          "minimum": "0.8.0",
+          "verified": "0.8.0",
+          "maximum": "0.8.0"
+        }
+      }
+    ],
+    "recommends": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {
+          "minimum": "2.8.0"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/main.mjs"
+  ],
+  "styles": [
+    "styles/rituel.css"
+  ],
+  "languages": [
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "lang/fr.json"
+    }
+  ],
+  "packs": [
+    {
+      "name": "adventure",
+      "label": "Le Rituel du Marécage — aventure",
+      "path": "packs/adventure",
+      "type": "Adventure",
+      "system": "jdr-runeterra",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Le Rituel du Marécage",
+      "packs": [
+        "adventure"
+      ],
+      "color": "#66856a"
+    }
+  ],
+  "url": "https://github.com/PrevotYann/le-rituel-du-marecage",
+  "manifest": "https://github.com/PrevotYann/le-rituel-du-marecage/releases/latest/download/module.json",
+  "download": "https://github.com/PrevotYann/le-rituel-du-marecage/releases/download/v0.1.1/le-rituel-du-marecage-0.1.1.zip"
 }

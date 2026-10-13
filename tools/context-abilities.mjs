@@ -1,30 +1,32 @@
 import fs from 'node:fs';
-const M='le-rituel-du-marecage',p='content/adventure.json',data=JSON.parse(fs.readFileSync(p)),a=data.documents[0];
-for(const [actorKey,slot,name,description]of [['joel','P','Papa adoptif','Joël planifie les actions d’Ellen et la guide avec Paternité. Ellen ne reçoit ni tour supplémentaire ni réserve d’ultime distincte.'],['regan','2','Métaniphénédream','Médicament de Regan : +10 Perception et +10 Concentration (Intelligence dans l’ancienne source). La durée absente est proposée à 30 secondes, à confirmer par le MJ.'],['wako','2','L’Offrande d’Onno','Transformer l’eau en soin (+10 PV, Danse de l’Eau) ou en poison de niveau 2 (Craintivité). Utiliser les variantes natives.']]){const actor=a.actors.find(a=>a.flags[M].key===actorKey),key=actorKey+':ability:'+slot;if(!actor.items.some(i=>i.flags?.[M]?.key===key))actor.items.push({_id:(await import('node:crypto')).default.createHash('sha256').update(key).digest('hex').slice(0,16),name,type:'ability',img:actor.img,flags:{[M]:{key,contentVersion:'0.1.0'}},system:{description:'<p>'+description+'</p>',attribute:'first',alternateAttribute:'second',damageFormula:'0',healFormula:'0',targetMode:'targets',duration:30,abilityKind:slot==='P'?'passive':'skill',originalRarity:'blue'}});}
-const v=(id,name,s={})=>({id,label:name,conditions:'Choix du MJ requis ; durée adaptée : un round du système (30 secondes).',duration:30,...s});
-const bonus=(attribute,value)=>({attribute,value});
-const variants={
- 'eliora:ability:1':[v('rm','Protection en méditation',{alternateAttribute:'second',associatedEffects:[{resistance:'magicResistance',value:10}]}),...['force','agility','endurance','concentration','perception','reflexes','dexterity','stealth','charisma','persuasion','intimidation','mental'].map(k=>v(k,'Renfort : '+k,{modifications:[bonus(k,10)]}))],
- 'eliora:ability:3':[v('vulnerability','Vulnérabilité : prochaine attaque +10 (choix de la zone)',{description:'<p>Appliquer +10 comme modificateur à la prochaine attaque contre la zone choisie, puis retirer l’indice. Le jet et les dégâts restent ceux du système.</p>'})],
- 'joel:ability:1': ['force','agility','endurance','reflexes'].map(k=>v(k,'Trouver les mots : '+k,{modifications:[bonus(k,10)]})),
- 'joel:ability:2':[v('vibration','Vibration : 15 DB',{damageFormula:'15',damageType:'brut'}),v('mental','Choc mental : paralysie',{damageFormula:'0',associatedEffects:[{status:'paralyzed',condition:'La cible voit Ellen ; Joël est immunisé.'}]})],
- 'joel:ability:U':[v('zone','Vibrations mentales de zone',{damageFormula:'15',damageType:'brut',area:3,associatedEffects:[{status:'paralyzed',condition:'Cible choisie ; Joël peut libérer les alliés par Communication.'}]})],
- 'kaelor:ability:1':[v('heal','Bulbe revigorant : +15 PV',{attribute:'second',healFormula:'15'}),v('scout','Reconnaissance du Carapateur',{healFormula:'0',attribute:'first'})],
- 'kaelor:ability:2':[v('attack','Serres : 10 DP',{damageFormula:'10',damageType:'physical'}),v('protect','Parade magique : +10 RM',{damageFormula:'0',associatedEffects:[{resistance:'magicResistance',value:10}]}),v('fear','Effrayer la nuit',{damageFormula:'0',associatedEffects:[{status:'fear',condition:'Seulement la nuit.'}]})],
- 'klaus:ability:1':[v('strike','Fléau-Fist : 20 DP (adaptation)',{damageFormula:'20',damageType:'physical'}),v('restrain','Immobiliser',{damageFormula:'0',associatedEffects:[{status:'restrained',condition:'Bonne réussite et contexte validés.'}]})],
- 'klaus:ability:2':[v('bomb','Bombe instable : 10 DM',{attribute:'second',damageFormula:'10',damageType:'magic',area:2})],
- 'klaus:ability:3':[v('rm','Blindage : +10 RM',{associatedEffects:[{resistance:'magicResistance',value:10}]}),v('craft','Amélioration de l’arme (prochaine utilisation)',{attribute:'second',description:'<p>Après réussite, le MJ choisit l’arme et utilise le bonus temporaire d’arme +10 DM via le pupitre ; la fiche native garde son intégrité.</p>'})],
- 'klaus:ability:U':[v('iem','I.E.M. : 60 DM de zone',{damageFormula:'60',damageType:'magic',area:3})],
- 'lianne:ability:1':[v('laugh','Chatouille : fou rire',{associatedEffects:[{status:'restrained',condition:'Fou rire ; état proposé pendant un round, Démence ensuite.'}]})],
- 'lianne:ability:3':[v('bubble','Chamallow : +10 RM',{associatedEffects:[{resistance:'magicResistance',value:10}]}),v('collapse','Retour de magie : 20 DM à Lianne (confirmation)',{damageFormula:'20',damageType:'magic',description:'<p>Échec du contrôle : appliquer à Lianne après confirmation, jamais à un ennemi.</p>'})],
- 'regan:ability:1':[v('force','Synthexine : Force +10 (adaptation)',{attribute:'second',modifications:[bonus('force',10)]}),v('reflexes','Synthexine : Réflexes +10 (adaptation)',{modifications:[bonus('reflexes',10)]})],
- 'regan:ability:2':[v('focus','Métaniphénédream : Perception et Concentration +10',{modifications:[bonus('perception',10),bonus('concentration',10)]})],
- 'regan:ability:3':[v('poison','Hématoxine : poison niveau 1 (adaptation)',{attribute:'second',dot:{kind:'poison',level:1}})],
- 'wako:ability:2':[v('heal','Offrande : +10 PV',{healFormula:'10'}),v('poison','Offrande : poison niveau 2',{attribute:'second',healFormula:'0',dot:{kind:'poison',level:2}})],
- 'wako:ability:3':[v('reflexes','Instinct : Réflexes +10',{attribute:'second',modifications:[bonus('reflexes',10)]})],
- 'wako:ability:U':[v('rain-heal','Pluie de soins : +20 PV',{area:3,healFormula:'20'}),v('rain-poison','Pluie de poison niveau 2',{attribute:'second',area:3,healFormula:'0',dot:{kind:'poison',level:2}})],
- 'will:ability:2':[v('taunt','Provocation (décision narrative)',{description:'<p>La cible est attirée vers Will selon le choix MJ ; aucune action sociale imposée par un algorithme.</p>'}),v('fear','Regard terrifiant',{associatedEffects:[{status:'fear',condition:'La cible soutient le regard de Will.'}]})]
-};
-for(const actor of a.actors){for(const item of actor.items||[]){item.system.originalRarity||='blue';const key=item.flags?.[M]?.key;if(variants[key])item.system.variants=variants[key];if(key==='regan:ability:U'){item.system.modifications=Object.entries(actor.system.attributes).map(([attribute,s])=>({attribute,value:100-s.base}));item.system.duration=30;}if(key==='camille:ability:bombe')item.system.uses={limited:true,value:3,max:3};}}
+import crypto from 'node:crypto';
+import {catalog,variant} from './ability-catalog.mjs';
+const M='le-rituel-du-marecage',REV='0.1.1',p='content/adventure.json',data=JSON.parse(fs.readFileSync(p)),a=data.documents[0],definitions=JSON.parse(fs.readFileSync('content/ability-definitions.json')).actors,origins=JSON.parse(fs.readFileSync('content/actor-origins.json')).actors;
+const esc=s=>String(s).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;'),html=s=>'<p>'+esc(s).replaceAll('\n','<br>')+'</p>',id=s=>crypto.createHash('sha256').update(s).digest('hex').slice(0,16),neutral={damageFormula:'0',damageType:'physical',healFormula:'0',components:[{formula:'0',type:'physical',penetration:0,penetrating:false}],modifications:[],associatedEffects:[],dot:{kind:'bleeding',level:0,elapsed:0,lost:0},duration:0,area:0,targetMode:'targets',attribute:'first',alternateAttribute:'first',slots:0,originalRarity:'blue',conditions:'Choisir la variante et vérifier son contexte avant le jet.'};
+const contexts={};
+for(const actor of a.actors){
+ const key=actor.flags[M].key,origin=origins[key];if(!origin)throw Error('Origine absente : '+key);
+ actor.flags[M].reviewLegacy??={biography:actor.system.biography};actor.flags[M].originLegacy=origin.legacy;actor.flags[M].originDefaults=Object.fromEntries(['species','subspecies','region','appearance'].map(k=>[k,origin[k]]));actor.flags[M].originNote=origin.reason;actor.flags[M].subtypeLabel=origin.subtypeLabel;actor.flags[M].reviewVersion=REV;actor.flags[M].contentVersion=REV;
+ Object.assign(actor.system,actor.flags[M].originDefaults);actor.system.morphology=origin.appearance;actor.system.environment=origin.region||'Origine non précisée';
+ if(origin.biography)actor.system.biography=html(origin.biography);
+ const definition=definitions[key];
+ if(definition){
+  const oldItems=actor.items;actor.flags[M].passive={name:definition.passive.name,description:html(definition.passive.description)};
+  actor.system.biography=html(definition.biography)+'<aside class="rituel-passive"><h3>Trait passif — '+esc(definition.passive.name)+'</h3>'+html(definition.passive.description)+'</aside>';
+  const skills=definition.skills.map((source,index)=>{const semantic=key+':ability:'+source.slot,old=oldItems.find(i=>i.flags?.[M]?.key===semantic),legacy=old?.flags?.[M]?.abilityLegacy??(old?{name:old.name,system:structuredClone(old.system)}:null),variants=catalog[key]?.[source.slot];if(!variants?.length)throw Error('Variantes absentes : '+semantic);
+   return {...old,_id:old?._id||id(semantic),name:source.slot+' — '+source.name,type:'ability',sort:(index+1)*100000,img:actor.img,flags:{...old?.flags,[M]:{...old?.flags?.[M],key:semantic,contentVersion:REV,abilityRevision:REV,slot:source.slot,abilityLegacy:legacy}},system:{...old?.system,...neutral,abilityKind:source.slot==='U'?'ultimate':'skill',description:html(source.description)+'<p>Choisir une variante avant le jet. Intelligence → Concentration ; ultimes : trois charges natives. Les durées absentes et marqueurs d’état adaptés sont indiqués dans les variantes.</p>',variants:variants.map(v=>({...v,description:html(source.name+' — '+v.label+'\n'+v.conditions)}))},effects:old?.effects||[]};
+  });
+  actor.items=[...oldItems.filter(i=>i.type!=='ability'||!/^.+:ability:(?:P|[123]|U)$/.test(i.flags?.[M]?.key||'')),...skills];
+ }else{
+  let index=0;for(const item of actor.items.filter(i=>i.type==='ability')){
+   const semantic=item.flags?.[M]?.key;if(!semantic)continue;item.flags[M].abilityLegacy??={name:item.name,system:structuredClone(item.system)};item.flags[M].abilityRevision=REV;item.flags[M].contentVersion=REV;item.flags[M].slot=String(++index);item.sort=index*100000;item.name=item.name.replace(/^\d+ — /,'');item.name=index+' — '+item.name;
+   // Non-PC attacks remain their native, source-specific actions, not invented four-skill lists.
+   if(!item.system.variants?.length)item.system.variants=[variant('action','Utiliser '+item.name.replace(/^\d+ — /,''),item.system.attribute||'first',{...Object.fromEntries(['damageFormula','damageType','healFormula','components','modifications','associatedEffects','dot','duration','targetMode','area'].filter(k=>item.system[k]!==undefined).map(k=>[k,item.system[k]])),description:item.system.description})];
+   for(const v of item.system.variants){if(!v.components?.length)v.components=[{formula:v.damageFormula??item.system.damageFormula??'0',type:v.damageType??item.system.damageType??'physical',penetration:0,penetrating:false}];v.alternateAttribute=v.attribute;}
+  }
+ }
+ for(const item of actor.items){item.system.originalRarity||='blue';if(item.type==='ability')contexts[item.flags[M].key]=item.system.variants;}
+}
 for(const item of a.items)item.system.originalRarity||='blue';
-fs.writeFileSync(p,JSON.stringify(data,null,2));fs.writeFileSync('content/actors.json',JSON.stringify(a.actors,null,2));fs.writeFileSync('content/items.json',JSON.stringify(a.items,null,2));fs.writeFileSync('content/context-abilities.json',JSON.stringify(variants,null,2));
+fs.writeFileSync(p,JSON.stringify(data,null,2));fs.writeFileSync('content/actors.json',JSON.stringify(a.actors,null,2));fs.writeFileSync('content/items.json',JSON.stringify(a.items,null,2));fs.writeFileSync('content/context-abilities.json',JSON.stringify(contexts,null,2));
+console.log('Acteurs audités : '+a.actors.length+' ; 32 compétences PJ, variantes isolées, traits passifs en biographie.');

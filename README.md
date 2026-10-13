@@ -26,7 +26,13 @@ Parcours conseillé : 3–4 heures pour cinq joueurs et un MJ, avec minuterie et
 
 Le système actuel fait référence : budget de création 600, trois charges d’ultime, Concentration à la place d’Intelligence, monnaie/soins/poison/résistance et round de 30 secondes natifs. Les différences et allocations originales sont dans `content/adaptations.json`. Les valeurs manquantes proposées sont étiquetées comme adaptations.
 
-Les variantes de capacité apparaissent dans le dialogue natif de la fiche ; les cartes de chat appliquent les dégâts, soins et états aux cibles choisies. Une réussite sociale ne décide pas de l’attitude d’un PNJ. Le nom de Barry est masqué sur son token public. Les portraits de groupe sont recadrés séparément, notamment Anna/Ygritte, Diz/Pete et Brik/Brak.
+Chaque prétiré possède exactement quatre compétences actives, dans l’ordre **1 / 2 / 3 / U**. Le trait passif apparaît séparément. Utiliser une compétence ouvre le choix de sa variante, montre l’attribut et les conditions, puis lance le jet avec le moteur du système. Les profils sont isolés : dégâts, soin, poison et récompenses d’une variante ne débordent pas sur les autres. Les cartes natives de chat appliquent les conséquences aux cibles confirmées.
+
+Pour Wako, **Danse Fluide** résout l’esquive et le renvoi, sans soin. **Offrande d’Onno** propose la fabrication d’une potion de +10 PV après un jet réussi dans l’eau, ou d’une dose de poison niveau 2 après un jet réussi de Craintivité. Ces objets rejoignent son inventaire ; la potion soigne à sa consommation et le poison s’applique ensuite depuis sa carte native. Un échec ne crée aucun objet.
+
+Les espèces, sous-espèces et régions utilisent les clés natives du système, avec sélections visibles sur les PJ et les PNJ. Wako est Vastaya / Ondrashi / Ionia ; Eliora est Humaine / Mage né / Ionia. Les origines inconnues et sous-espèces absentes du catalogue sont signalées explicitement. Une réussite sociale ne décide pas de l’attitude d’un PNJ. Le nom de Barry est masqué sur son token public. Les portraits de groupe sont recadrés séparément, notamment Anna/Ygritte, Diz/Pete et Brik/Brak.
+
+**Mise à jour depuis 0.1.0 :** installer 0.1.1 puis ouvrir le monde avec un MJ actif. La correction des fiches importées s’exécute au chargement : anciennes origines et profils de compétences sont remplacés lorsqu’ils correspondent encore aux valeurs du module. Les valeurs personnalisées, PV, XP, niveaux, charges, inventaires, notes et état de l’aventure sont conservés. L’API `await game.rituel.refreshActors({notify:true})` permet de relancer cette vérification. Les PJ conservent leurs quatre emplacements ; les PNJ gardent les actions prévues par leurs sources.
 
 Ethnil suit le soin du système et ne peut être cumulé pendant une heure. Shimmer instable passe par la commande MJ dédiée pour distinguer ingestion (poison 4) et modification d’arme (poison 1). Sortir d’une zone toxique met fin à l’exposition, sans supprimer le poison. Aucune mort, possession ou perte permanente n’est déclenchée par un déplacement.
 
@@ -57,6 +63,6 @@ Les sources documentaires adaptées, lisibles, sont dans `content/`. La compilat
 
 ## Publication
 
-Le dépôt public est [PrevotYann/le-rituel-du-marecage](https://github.com/PrevotYann/le-rituel-du-marecage). La première release porte le tag **v0.1.0**. La [page des releases](https://github.com/PrevotYann/le-rituel-du-marecage/releases) fournit le ZIP installable, `module.json` et `SHA256SUMS`.
+Le dépôt public est [PrevotYann/le-rituel-du-marecage](https://github.com/PrevotYann/le-rituel-du-marecage). La release **v0.1.1** corrige les fiches et les compétences de la première version. La [page des releases](https://github.com/PrevotYann/le-rituel-du-marecage/releases) fournit le ZIP installable, `module.json` et `SHA256SUMS`.
 
 Le workflow GitHub Actions compile le pack et publie ces fichiers lorsqu’un tag `v<version>` correspondant au manifeste est poussé. La diffusion a été demandée par le propriétaire du dépôt ; la licence MIT du code ne confère aucune licence générale sur les ressources tierces (voir `CONTENT-LICENSE.md`). Aucun secret, monde QA, moteur Foundry ou dépendance de développement n’est empaqueté.

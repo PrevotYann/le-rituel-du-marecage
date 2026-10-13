@@ -58,7 +58,7 @@
     "moduleInstallation": "Dossier extrait indépendant du dépôt",
     "core": "14.368",
     "system": "0.8.0",
-    "filesCompared": 227,
+    "filesCompared": 229,
     "nativeAdventure": {
       "actors": 54,
       "items": 49,
@@ -69,5 +69,27 @@
     "distinctAnnaYgrittePortraitsAndTokens": true,
     "errors": []
   },
-  "verifiedOn": "2026-10-13"
+  "verifiedOn": "2026-10-13",
+  "moduleVersion": "0.1.1",
+  "actorReview": {
+    "migrationChecks": 8,
+    "sheets": 39,
+    "errors": []
+  },
+  "abilityVariants": {
+    "actors": 54,
+    "abilities": 51,
+    "variants": 71,
+    "checks": 402,
+    "successAndFailureForEveryVariant": true,
+    "inventory": {
+      "potionHP": 50,
+      "poisonLevel": 2
+    },
+    "errors": []
+  },
+  "abilityConsequences": {
+    "checks": 12,
+    "errors": []
+  }
 }

@@ -11,6 +11,9 @@ const db=new ClassicLevel(root+'/packs/adventure',{valueEncoding:'json'});await 
 const key='!adventures!'+JSON.parse(fs.readFileSync('content/adventure.json')).documents[0]._id,data=await db.get(key);await db.close();
 assert(data.actors.length===54&&data.scenes.length===23&&data.journal.length===28,'Adventure intégrale dans le ZIP');
 const actor=k=>data.actors.find(a=>a.flags['le-rituel-du-marecage'].key===k);
+assert.equal(actor('wako').system.region,'ionia');assert.equal(actor('wako').system.subspecies,'ondrashi');assert.equal(actor('eliora').system.region,'ionia');assert.equal(actor('eliora').system.subspecies,'bornMage');
+for(const a of data.actors.filter(a=>a.type==='character'))assert.deepEqual(a.items.filter(i=>i.type==='ability').map(i=>i.flags['le-rituel-du-marecage'].slot),['1','2','3','U']);
+assert.equal(actor('wako').items.find(i=>i.flags['le-rituel-du-marecage']?.slot==='1').system.healFormula,'0');
 assert.notEqual(actor('anna').img,actor('ygritte').img);assert.notEqual(actor('anna').prototypeToken.texture.src,actor('ygritte').prototypeToken.texture.src);
 assert.notEqual(hash(root+'/assets/portraits/anna.webp'),hash(root+'/assets/portraits/ygritte.webp'));
 assert.notEqual(hash(root+'/assets/tokens/anna.png'),hash(root+'/assets/tokens/ygritte.png'));

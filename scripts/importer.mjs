@@ -1,4 +1,5 @@
-﻿export const MID='le-rituel-du-marecage',ROOT=`modules/${MID}/`;
+import {refreshActors} from './actor-review.mjs';
+export const MID='le-rituel-du-marecage',ROOT=`modules/${MID}/`;
 export const collections={Actor:'actors',Item:'items',JournalEntry:'journal',Scene:'scenes',RollTable:'tables',Macro:'macros',Folder:'folders'};
 export const authority=()=>{if(!game.user.isGM||game.users.activeGM?.id!==game.user.id)throw Error(game.i18n.localize('RITUEL.Authority'));};
 const clone=v=>foundry.utils.deepClone(v),getKey=d=>d.flags?.[MID]?.key;
@@ -27,6 +28,7 @@ export async function importAdventure({pregens=['eliora','joel','kaelor','klaus'
   const diag=await diagnostic();if(!diag.ok)throw Error(diag.problems.map(p=>p.uuid+' — '+p.message).join('\n'));
   const pack=game.packs.get(MID+'.adventure');if(!pack)throw Error('Compendium aventure absent.');const index=await pack.getIndex(),adventure=await pack.getDocument(index.contents[0]._id);
   if(!adventure)throw Error('Adventure absent.');const data=adventure.toObject(),plan=await json('content/import-plan.json');
+  await refreshActors();
   const lang=await localization(language);if(lang)applyLocalization(data,lang);
   const selected=new Set(pregens);for(const key of pregens){if(!plan.pregens.includes(key))throw Error('Prétiré inconnu : '+key);for(const k of plan.companions[key]||[])selected.add(k);}
   data.actors=data.actors.filter(a=>a.type!=='character'||selected.has(getKey(a))).filter(a=>!a.flags[MID].parent||selected.has(a.flags[MID].parent));
