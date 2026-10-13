@@ -1,0 +1,14 @@
+{
+  "release": "v0.1.1",
+  "repository": "PrevotYann/le-rituel-du-marecage",
+  "publicManifest": "https://github.com/PrevotYann/le-rituel-du-marecage/releases/latest/download/module.json",
+  "publicDownload": "https://github.com/PrevotYann/le-rituel-du-marecage/releases/download/v0.1.1/le-rituel-du-marecage-0.1.1.zip",
+  "publicDownloadSHA256": "2e9db450524c906347db11e76c651c019540341fb97f42d2de514b23c082dd89",
+  "adventureMatchesSource": true,
+  "assetsCompared": 218,
+  "actors": 54,
+  "items": 49,
+  "journals": 28,
+  "scenes": 23,
+  "status": "passed"
+}
