@@ -1,0 +1,12 @@
+{
+  "start": {
+    "name": "Start here",
+    "pages": {
+      "6b30371273d167e1": "<h1>Start here</h1><p>Choose five heroes. Begin at Omatqan, follow the clues to the antique dealer, then reach Harelport. The current Runeterra system rules take priority over the original one-shot. This is a minimal translation example; unlisted content stays French.</p>"
+    }
+  },
+  "tom": {
+    "name": "Tom, the talking watch",
+    "description": "<p>A talking Yordle pocket watch that cannot tell the time. It warns visitors about Malek and wants to find Brik and Brak.</p>"
+  }
+}

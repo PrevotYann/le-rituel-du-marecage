@@ -1,0 +1,14 @@
+{
+  "key": "gaama",
+  "name": "Oqlan — clairière de Gaama",
+  "width": 2400,
+  "height": 1800,
+  "walls": [],
+  "lights": [],
+  "links": [],
+  "spawn": {
+    "x": 1020,
+    "y": 1560
+  },
+  "path": "modules/le-rituel-du-marecage/assets/maps/gaama.webp"
+}

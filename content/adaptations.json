@@ -1,0 +1,534 @@
+[
+  {
+    "source": "Armature : -10 RM",
+    "adaptation": "Pénalité via ActiveEffect local lorsque équipée (le champ de résistance équipement est non négatif).",
+    "reason": "Respect du modèle du système."
+  },
+  {
+    "source": "guyamtel : aucun portrait individuel identifié",
+    "adaptation": "Portrait original individuel généré avec image_gen, sans attribution à un artiste source.",
+    "reason": "Le portrait source individuel manque ; création explicitement distinguée des illustrations existantes."
+  },
+  {
+    "source": "wern : aucun portrait individuel identifié",
+    "adaptation": "Portrait original individuel généré avec image_gen, sans attribution à un artiste source.",
+    "reason": "Le portrait source individuel manque ; création explicitement distinguée des illustrations existantes."
+  },
+  {
+    "source": "marchand-ionien : aucun portrait individuel identifié",
+    "adaptation": "Portrait original individuel généré avec image_gen, sans attribution à un artiste source.",
+    "reason": "Le portrait source individuel manque ; création explicitement distinguée des illustrations existantes."
+  },
+  {
+    "source": "xandor : aucun portrait individuel identifié",
+    "adaptation": "Portrait original individuel généré avec image_gen, sans attribution à un artiste source.",
+    "reason": "Le portrait source individuel manque ; création explicitement distinguée des illustrations existantes."
+  },
+  {
+    "source": "tania : aucun portrait individuel identifié",
+    "adaptation": "Portrait original individuel généré avec image_gen, sans attribution à un artiste source.",
+    "reason": "Le portrait source individuel manque ; création explicitement distinguée des illustrations existantes."
+  },
+  {
+    "source": "azucena : aucun portrait individuel identifié",
+    "adaptation": "Portrait original individuel généré avec image_gen, sans attribution à un artiste source.",
+    "reason": "Le portrait source individuel manque ; création explicitement distinguée des illustrations existantes."
+  },
+  {
+    "source": "finisstier : aucun portrait individuel identifié",
+    "adaptation": "Portrait original individuel généré avec image_gen, sans attribution à un artiste source.",
+    "reason": "Le portrait source individuel manque ; création explicitement distinguée des illustrations existantes."
+  },
+  {
+    "source": "girondie : aucun portrait individuel identifié",
+    "adaptation": "Portrait original individuel généré avec image_gen, sans attribution à un artiste source.",
+    "reason": "Le portrait source individuel manque ; création explicitement distinguée des illustrations existantes."
+  },
+  {
+    "source": "tahm-kench",
+    "adaptation": "Profil source complété : attaques natives, attributs non fournis à 50, états par API du système et confirmation MJ.",
+    "reason": "Pas de second moteur ni de résultat social automatique."
+  },
+  {
+    "source": "malek",
+    "adaptation": "Profil source complété : attaques natives, attributs non fournis à 50, états par API du système et confirmation MJ.",
+    "reason": "Pas de second moteur ni de résultat social automatique."
+  },
+  {
+    "source": "barry",
+    "adaptation": "Profil source complété : attaques natives, attributs non fournis à 50, états par API du système et confirmation MJ.",
+    "reason": "Pas de second moteur ni de résultat social automatique."
+  },
+  {
+    "source": "taoxana",
+    "adaptation": "Profil source complété : attaques natives, attributs non fournis à 50, états par API du système et confirmation MJ.",
+    "reason": "Pas de second moteur ni de résultat social automatique."
+  },
+  {
+    "source": "taoxana-vision",
+    "adaptation": "Profil source complété : attaques natives, attributs non fournis à 50, états par API du système et confirmation MJ.",
+    "reason": "Pas de second moteur ni de résultat social automatique."
+  },
+  {
+    "source": "Eliora PNG inspecté visuellement",
+    "original": {
+      "hp": 60,
+      "attributes": [
+        10,
+        20,
+        20,
+        70,
+        70,
+        30,
+        30,
+        60,
+        60,
+        70,
+        10,
+        80
+      ]
+    },
+    "adaptation": {
+      "hp": 60,
+      "attributes": [
+        10,
+        20,
+        20,
+        70,
+        70,
+        30,
+        30,
+        60,
+        60,
+        70,
+        20,
+        80
+      ],
+      "specials": {
+        "first": {
+          "name": "Télépathie",
+          "value": 80
+        },
+        "second": {
+          "name": "Méditation",
+          "value": 70
+        }
+      },
+      "ultimate": 3
+    },
+    "reason": "Budget 600, un maximum 80 et un malus 10 uniques ; Concentration remplace Intelligence. 20 Or de départ proposés pour les achats."
+  },
+  {
+    "source": "Joël PNG inspecté visuellement",
+    "original": {
+      "hp": 90,
+      "attributes": [
+        70,
+        30,
+        50,
+        40,
+        20,
+        60,
+        10,
+        20,
+        40,
+        50,
+        70,
+        40
+      ]
+    },
+    "adaptation": {
+      "hp": 90,
+      "attributes": [
+        70,
+        30,
+        50,
+        40,
+        25,
+        60,
+        10,
+        25,
+        40,
+        50,
+        70,
+        40
+      ],
+      "specials": {
+        "first": {
+          "name": "Paternité",
+          "value": 80
+        },
+        "second": {
+          "name": "Communication",
+          "value": 70
+        }
+      },
+      "ultimate": 3
+    },
+    "reason": "Budget 600, un maximum 80 et un malus 10 uniques ; Concentration remplace Intelligence. 20 Or de départ proposés pour les achats."
+  },
+  {
+    "source": "Kaëlor PNG inspecté visuellement",
+    "original": {
+      "hp": 80,
+      "attributes": [
+        30,
+        40,
+        10,
+        70,
+        50,
+        50,
+        80,
+        20,
+        60,
+        30,
+        10,
+        60
+      ]
+    },
+    "adaptation": {
+      "hp": 80,
+      "attributes": [
+        30,
+        40,
+        10,
+        70,
+        50,
+        50,
+        80,
+        20,
+        60,
+        30,
+        20,
+        60
+      ],
+      "specials": {
+        "first": {
+          "name": "Lien Animal (magie Vastaya)",
+          "value": 80
+        },
+        "second": {
+          "name": "Étude Animal",
+          "value": 70
+        }
+      },
+      "ultimate": 3
+    },
+    "reason": "Budget 600, un maximum 80 et un malus 10 uniques ; Concentration remplace Intelligence. 20 Or de départ proposés pour les achats."
+  },
+  {
+    "source": "Klaus PNG inspecté visuellement",
+    "original": {
+      "hp": 50,
+      "attributes": [
+        20,
+        10,
+        30,
+        70,
+        30,
+        60,
+        80,
+        70,
+        30,
+        50,
+        30,
+        50
+      ]
+    },
+    "adaptation": {
+      "hp": 60,
+      "attributes": [
+        30,
+        10,
+        30,
+        70,
+        30,
+        60,
+        80,
+        70,
+        30,
+        50,
+        30,
+        50
+      ],
+      "specials": {
+        "first": {
+          "name": "Hexotech",
+          "value": 80
+        },
+        "second": {
+          "name": "Craft Hextech",
+          "value": 70
+        }
+      },
+      "ultimate": 3
+    },
+    "reason": "Budget 600, un maximum 80 et un malus 10 uniques ; Concentration remplace Intelligence. 20 Or de départ proposés pour les achats."
+  },
+  {
+    "source": "Lianne PNG inspecté visuellement",
+    "original": {
+      "hp": 60,
+      "attributes": [
+        20,
+        30,
+        20,
+        60,
+        70,
+        50,
+        40,
+        70,
+        60,
+        80,
+        10,
+        10
+      ]
+    },
+    "adaptation": {
+      "hp": 60,
+      "attributes": [
+        25,
+        30,
+        25,
+        60,
+        70,
+        50,
+        40,
+        70,
+        60,
+        80,
+        10,
+        20
+      ],
+      "specials": {
+        "first": {
+          "name": "Démence",
+          "value": 80
+        },
+        "second": {
+          "name": "Magie Yordle",
+          "value": 70
+        }
+      },
+      "ultimate": 3
+    },
+    "reason": "Budget 600, un maximum 80 et un malus 10 uniques ; Concentration remplace Intelligence. 20 Or de départ proposés pour les achats."
+  },
+  {
+    "source": "Regan PNG inspecté visuellement",
+    "original": {
+      "hp": 80,
+      "attributes": [
+        40,
+        50,
+        20,
+        60,
+        50,
+        60,
+        30,
+        10,
+        10,
+        40,
+        80,
+        60
+      ]
+    },
+    "adaptation": {
+      "hp": 80,
+      "attributes": [
+        40,
+        50,
+        20,
+        60,
+        50,
+        60,
+        30,
+        10,
+        20,
+        40,
+        80,
+        60
+      ],
+      "specials": {
+        "first": {
+          "name": "Métabolisme",
+          "value": 80
+        },
+        "second": {
+          "name": "Hématoxine",
+          "value": 70
+        }
+      },
+      "ultimate": 3
+    },
+    "reason": "Budget 600, un maximum 80 et un malus 10 uniques ; Concentration remplace Intelligence. 20 Or de départ proposés pour les achats."
+  },
+  {
+    "source": "Wako PNG inspecté visuellement",
+    "original": {
+      "hp": 70,
+      "attributes": [
+        10,
+        80,
+        40,
+        50,
+        60,
+        70,
+        20,
+        60,
+        50,
+        20,
+        10,
+        50
+      ]
+    },
+    "adaptation": {
+      "hp": 70,
+      "attributes": [
+        10,
+        80,
+        40,
+        50,
+        60,
+        70,
+        20,
+        60,
+        50,
+        20,
+        20,
+        50
+      ],
+      "specials": {
+        "first": {
+          "name": "Danse de l’Eau (magie Vastaya)",
+          "value": 80
+        },
+        "second": {
+          "name": "Craintivité",
+          "value": 70
+        }
+      },
+      "ultimate": 3
+    },
+    "reason": "Budget 600, un maximum 80 et un malus 10 uniques ; Concentration remplace Intelligence. 20 Or de départ proposés pour les achats."
+  },
+  {
+    "source": "Will PNG inspecté visuellement",
+    "original": {
+      "hp": 90,
+      "attributes": [
+        60,
+        20,
+        10,
+        50,
+        30,
+        20,
+        20,
+        30,
+        50,
+        80,
+        70,
+        60
+      ]
+    },
+    "adaptation": {
+      "hp": 90,
+      "attributes": [
+        60,
+        25,
+        10,
+        50,
+        30,
+        25,
+        20,
+        30,
+        50,
+        80,
+        70,
+        60
+      ],
+      "specials": {
+        "first": {
+          "name": "Lien des Océans",
+          "value": 80
+        },
+        "second": {
+          "name": "Présomption",
+          "value": 70
+        }
+      },
+      "ultimate": 3
+    },
+    "reason": "Budget 600, un maximum 80 et un malus 10 uniques ; Concentration remplace Intelligence. 20 Or de départ proposés pour les achats."
+  },
+  {
+    "source": "Omatqan — arrivée",
+    "adaptation": "Consolidation : accueil maritime de la copie ; entretien du navire de l’original compatible avec l’attaque ; offrande d’un rhum de la copie et indice des trois rhums de l’original.",
+    "reason": "Consolidation et mise en jeu avec le système actuel."
+  },
+  {
+    "source": "O bore de lo — le carrefour des pistes",
+    "adaptation": "La copie mentionne 10 Or + 80 % pour Oma sans base du pourcentage : proposition locale de 10 Or et 80 % du butin naturel vendu par son intermédiaire, hors reliques et biens personnels. Négocier avant de partir.",
+    "reason": "Consolidation et mise en jeu avec le système actuel."
+  },
+  {
+    "source": "Une nuit agitée",
+    "adaptation": "Pas de jet obligatoire pour entendre le témoignage ; le jet règle la confiance et les détails.",
+    "reason": "Consolidation et mise en jeu avec le système actuel."
+  },
+  {
+    "source": "Petites fouines",
+    "adaptation": "Le texte répète Brak dans le cas de capture ; normalisation : Brik gronde Brak. Ils indiquent le chemin, sans entrer chez Malek.",
+    "reason": "Consolidation et mise en jeu avec le système actuel."
+  },
+  {
+    "source": "Bonsoir mes demoiselles",
+    "adaptation": "Avertissement source : intention érotique, possession. Les scènes intimes peuvent passer au fondu. Issue vide de la forme 1 : réveil après intervention d’un allié, ou pacte proposé. La perte de 20 PV maximum doit être choisie et confirmée ; rejet = possession locale retirable. Deux formes partagent le même individu narratif, pas un cumul de récompenses.",
+    "reason": "Consolidation et mise en jeu avec le système actuel."
+  },
+  {
+    "source": "Marécage d’Oqlan — intersections",
+    "adaptation": "Seuil source : 4. Le seuil propose la cabane, sans téléporter ni signer un contrat. Un compagnon rappelé ne guide plus.",
+    "reason": "Consolidation et mise en jeu avec le système actuel."
+  },
+  {
+    "source": "Renfoncement dense",
+    "adaptation": "Résultat 1 : Azucena observe le groupe (présente au bestiaire narratif). Résultat 6 : silhouette +1 Chemin Perdu, fusion des deux lignes de la source. Choix documentés dans la table.",
+    "reason": "Consolidation et mise en jeu avec le système actuel."
+  },
+  {
+    "source": "Rencontre noxienne",
+    "adaptation": "Quatorze membres de troupe : Mariane, Camille et douze soldats. La version positive présente une créature imposante blessée ; Xlamtaroq est la proposition locale, avec possibilité de la calmer plutôt que l’achever.",
+    "reason": "Consolidation et mise en jeu avec le système actuel."
+  },
+  {
+    "source": "Sur la piste du démon",
+    "adaptation": "Avertissement source : arachnophobie. Cadence absente : proposition une pousse par round, au plus trois actives, sur bouton MJ ; aucune génération cachée. Retraite ou offrande de nourriture possible ; rendement ne crée pas de monnaie automatiquement.",
+    "reason": "Consolidation et mise en jeu avec le système actuel."
+  },
+  {
+    "source": "L’Entretien de l’Imposteur",
+    "adaptation": "Passage interrompu complété : Barry demande le Chapeau du Roi Démon. Signature proposée au MJ ; échéance persistée, avertissement à 48 h, malédiction uniquement après choix explicite. Une preuve d’usurpation ou un objet de valeur peut acheter l’annulation. Ce ne sont pas des règles globales.",
+    "reason": "Consolidation et mise en jeu avec le système actuel."
+  },
+  {
+    "source": "L’Eau qui dort",
+    "adaptation": "Les seuils source (>90 à l’aller, >50 au retour) sont conservés comme choix narratif dangereux facultatif, jamais comme un jet de résistance remplaçant le système. Par défaut, incident non fatal et décision MJ ; aucune mort automatique.",
+    "reason": "Consolidation et mise en jeu avec le système actuel."
+  },
+  {
+    "source": "Le Chemin de l’Oubli",
+    "adaptation": "Avertissements : lame sous la gorge, manipulation physique, possession, perte de mémoire. Version fidèle : Malek dépouille puis ordonne la marche vers la côte et efface les souvenirs (choix MJ). Variante facultative : mêmes événements, souvenirs conservés. Autres issues jouables proposées : négocier une relique contre une information, briser les aiguilles/poupée durant un combat, battre en retraite avec Tom. Ce sont des ajouts locaux étiquetés, pas un rituel final.",
+    "reason": "Consolidation et mise en jeu avec le système actuel."
+  },
+  {
+    "source": "Harelport — une autre fin",
+    "adaptation": "Guyamtel/Gyaumtel réunis en Guyamtel. Les listes de prix à variantes deviennent des offres séparées ; les Bakkis utilisent la règle illustrée consolidée, avec tirage secret.",
+    "reason": "Consolidation et mise en jeu avec le système actuel."
+  },
+  {
+    "source": "La Légende de Ga’Hun — ouverture de suite",
+    "adaptation": "Avertissements source : sacrifice d’enfant et séquestration. Texte intégral conservé dans l’annexe source ; Ga’Hun II reste un élément de cette ouverture, pas une rencontre obligatoire inventée.",
+    "reason": "Consolidation et mise en jeu avec le système actuel."
+  }
+]

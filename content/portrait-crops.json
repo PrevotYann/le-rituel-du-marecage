@@ -1,0 +1,274 @@
+{
+  "anna": {
+    "source": "1r4VFvhsl8NsiSBF6KgRZ5ANonEXMLRv5",
+    "center": [
+      0.405,
+      0.375
+    ],
+    "size": 0.3
+  },
+  "ygritte": {
+    "source": "1r4VFvhsl8NsiSBF6KgRZ5ANonEXMLRv5",
+    "center": [
+      0.6,
+      0.435
+    ],
+    "size": 0.28
+  },
+  "diz": {
+    "source": "1qyFh9Ugpjq0Y5YYonDGV3VWjMch-o3DS",
+    "center": [
+      0.28,
+      0.285
+    ],
+    "size": 0.31
+  },
+  "pete": {
+    "source": "1qyFh9Ugpjq0Y5YYonDGV3VWjMch-o3DS",
+    "center": [
+      0.815,
+      0.32
+    ],
+    "size": 0.29
+  },
+  "brik": {
+    "source": "1tufCFSeNa0iZu25_CBLNZIDO45TjyUXa",
+    "center": [
+      0.4,
+      0.36
+    ],
+    "size": 0.26
+  },
+  "brak": {
+    "source": "1tufCFSeNa0iZu25_CBLNZIDO45TjyUXa",
+    "center": [
+      0.575,
+      0.445
+    ],
+    "size": 0.235
+  },
+  "eliora": {
+    "source": "1-ZqJIgSl_xRy9hp1Kgr51JwaT7rHIAFT",
+    "center": [
+      0.22,
+      0.155
+    ],
+    "size": 0.31
+  },
+  "joel": {
+    "source": "13L2QHZReLb5hYVSsHtKxN0FBkNTmp_Qu",
+    "center": [
+      0.19,
+      0.165
+    ],
+    "size": 0.3
+  },
+  "ellen": {
+    "source": "13L2QHZReLb5hYVSsHtKxN0FBkNTmp_Qu",
+    "center": [
+      0.195,
+      0.35
+    ],
+    "size": 0.28
+  },
+  "kaelor": {
+    "source": "115102FJ6SgiVQ419CvelsMAKKKWyqrcr",
+    "center": [
+      0.21,
+      0.18
+    ],
+    "size": 0.31
+  },
+  "klaus": {
+    "source": "10kFL0ocm0MkoTApaSyJOTAbfP2giTORs",
+    "center": [
+      0.2,
+      0.425
+    ],
+    "size": 0.245
+  },
+  "lianne": {
+    "source": "102-VZMTKlusOmBmvxF03ahM15O4cqGTO",
+    "center": [
+      0.215,
+      0.278
+    ],
+    "size": 0.35
+  },
+  "regan": {
+    "source": "1-nAuXEDRsz3jxA11aneQFXTih-eNXvhs",
+    "center": [
+      0.235,
+      0.175
+    ],
+    "size": 0.31
+  },
+  "wako": {
+    "source": "10YCd15k00f6aIsOQGb3QI3gqkcqQ6XlC",
+    "center": [
+      0.22,
+      0.2
+    ],
+    "size": 0.34
+  },
+  "will": {
+    "source": "1-tqipwSpJOcHdYwdp_44hgwR671xe3NR",
+    "center": [
+      0.235,
+      0.29
+    ],
+    "size": 0.3
+  },
+  "teekaya": {
+    "source": "1rm8IJGTwdgFf_1BZda9iLE-MW9hxcKSQ",
+    "center": [
+      0.545,
+      0.33
+    ],
+    "size": 0.31
+  },
+  "riva": {
+    "source": "1rk6J1UIomxA0oK04z79p52ThK3_-8k-c",
+    "center": [
+      0.54,
+      0.29
+    ],
+    "size": 0.24
+  },
+  "mariane": {
+    "source": "1tQYwSUi7N4NOWXRW-3rU_sOHMtI6zRD-",
+    "center": [
+      0.59,
+      0.185
+    ],
+    "size": 0.17
+  },
+  "soldat-noxien": {
+    "source": "1tQYwSUi7N4NOWXRW-3rU_sOHMtI6zRD-",
+    "center": [
+      0.87,
+      0.525
+    ],
+    "size": 0.13
+  },
+  "camille": {
+    "source": "1t5-EmWPosw3x6O0RkYWICg9Sljn-h3_E",
+    "center": [
+      0.5,
+      0.32
+    ],
+    "size": 0.3
+  },
+  "toadrick": {
+    "source": "1qqgxqh8E-utgDqQNIQP7iaQfIGF5T7Tk",
+    "center": [
+      0.57,
+      0.29
+    ],
+    "size": 0.32
+  },
+  "luis": {
+    "source": "1qufaN0vzuiAYNkC86_87sZiY13v2FSM3",
+    "center": [
+      0.495,
+      0.33
+    ],
+    "size": 0.31
+  },
+  "blake": {
+    "source": "1r1W1nAjGvrGMxolPl4IrO0w4CQfpESLU",
+    "center": [
+      0.43,
+      0.35
+    ],
+    "size": 0.3
+  },
+  "braconnier": {
+    "source": "1aodHd9VMKNvMbopiEN4_M3kalRCZ_MoM",
+    "center": [
+      0.71,
+      0.275
+    ],
+    "size": 0.29
+  },
+  "malek": {
+    "source": "15V0oDxiBmf-zrte1KAEfp_OSK9AokJ1Q",
+    "center": [
+      0.49,
+      0.405
+    ],
+    "size": 0.34
+  },
+  "willburn": {
+    "source": "1s_ryvuNnpWkDq372tGqg-VVNTU0sFZYs",
+    "center": [
+      0.47,
+      0.25
+    ],
+    "size": 0.34
+  },
+  "dorovik": {
+    "source": "1r-72_-haiq9TS8_XWA6XWqLFChp8i-MY",
+    "center": [
+      0.47,
+      0.29
+    ],
+    "size": 0.29
+  },
+  "obrill": {
+    "source": "1ug5tV8RantTC-se2kNPjQWMUzvvokeVy",
+    "center": [
+      0.535,
+      0.35
+    ],
+    "size": 0.34
+  },
+  "navire": {
+    "source": "1t0TYseAC5HReDkq7bgsQjDhDY1teZJJo",
+    "center": [
+      0.52,
+      0.45
+    ],
+    "size": 0.53
+  },
+  "herisson": {
+    "source": "1tptFRhpNT7-vU_g5Ov1GdwjjjRr6rY5S",
+    "center": [
+      0.235,
+      0.6
+    ],
+    "size": 0.3
+  },
+  "paaka": {
+    "source": "1tkylrRVox0eTZDpg-n_-2Es4iPjosoTP",
+    "center": [
+      0.695,
+      0.355
+    ],
+    "size": 0.29
+  },
+  "guetteur": {
+    "source": "112C51iogrth2tTreZ1F-IwAUyuH6aIp1",
+    "center": [
+      0.445,
+      0.295
+    ],
+    "size": 0.34
+  },
+  "tezqaloti": {
+    "source": "1sSz4B39oxoXCY5CzJqpk3B-LrapyK6d3",
+    "center": [
+      0.37,
+      0.465
+    ],
+    "size": 0.38
+  },
+  "xlamtaroq": {
+    "source": "1ttAjEHlzjA9EpZBPiR1zZ_pln0NqKq1P",
+    "center": [
+      0.41,
+      0.33
+    ],
+    "size": 0.37
+  }
+}

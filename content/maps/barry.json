@@ -1,0 +1,147 @@
+{
+  "key": "barry",
+  "name": "Barry — salle inférieure",
+  "width": 2400,
+  "height": 1800,
+  "walls": [
+    {
+      "_id": "68e003e90b4e6d4b",
+      "c": [
+        360,
+        240,
+        2040,
+        240
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "87eb2c7e57ed90ae",
+      "c": [
+        360,
+        240,
+        360,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "e8b6cd41b1a621c4",
+      "c": [
+        2040,
+        240,
+        2040,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "482a4892a17201dd",
+      "c": [
+        360,
+        1500,
+        1155,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "ff42feaa5bbffda1",
+      "c": [
+        1155,
+        1500,
+        1245,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 1,
+      "ds": 0
+    },
+    {
+      "_id": "a0e5c0c04f298243",
+      "c": [
+        1245,
+        1500,
+        2040,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    }
+  ],
+  "lights": [
+    {
+      "_id": "fe92c4ecb9100f89",
+      "x": 1100,
+      "y": 700,
+      "config": {
+        "dim": 8,
+        "bright": 3,
+        "color": "#ffc276",
+        "alpha": 0.3,
+        "animation": {
+          "type": "torch",
+          "speed": 2,
+          "intensity": 3
+        }
+      }
+    },
+    {
+      "_id": "6342e91e0ebd64ad",
+      "x": 1850,
+      "y": 1370,
+      "config": {
+        "dim": 8,
+        "bright": 3,
+        "color": "#ffc276",
+        "alpha": 0.3,
+        "animation": {
+          "type": "torch",
+          "speed": 2,
+          "intensity": 3
+        }
+      }
+    }
+  ],
+  "links": [
+    {
+      "x": 1200,
+      "y": 1200,
+      "target": "cabane",
+      "tx": 1700,
+      "ty": 900,
+      "label": "Escalier / passage"
+    }
+  ],
+  "spawn": {
+    "x": 1020,
+    "y": 1560
+  },
+  "path": "modules/le-rituel-du-marecage/assets/maps/barry.webp"
+}

@@ -1,0 +1,160 @@
+[
+  {
+    "_id": "947b9f5f4ab5dcce",
+    "name": "Oqlan — intersections 1d6",
+    "formula": "1d6",
+    "replacement": true,
+    "displayRoll": true,
+    "folder": "570f552d69faa592",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "swamp-encounters",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "results": [
+      {
+        "_id": "da7995bc249ba0a9",
+        "type": "text",
+        "range": [
+          1,
+          1
+        ],
+        "weight": 1,
+        "description": "Riva donne des nouvelles du marais."
+      },
+      {
+        "_id": "d650dc55d7ac948d",
+        "type": "text",
+        "range": [
+          2,
+          2
+        ],
+        "weight": 1,
+        "description": "Carapateur femelle : guide vers L’Eau qui dort."
+      },
+      {
+        "_id": "b33094825d7fbe5d",
+        "type": "text",
+        "range": [
+          3,
+          3
+        ],
+        "weight": 1,
+        "description": "Carapateur femelle : guide vers L’Eau qui dort."
+      },
+      {
+        "_id": "9acebcfd53b1ad4b",
+        "type": "text",
+        "range": [
+          4,
+          4
+        ],
+        "weight": 1,
+        "description": "Rien : laisser les joueurs choisir."
+      },
+      {
+        "_id": "1364170f27b15168",
+        "type": "text",
+        "range": [
+          5,
+          5
+        ],
+        "weight": 1,
+        "description": "Chemin Perdu +1 ; intersection 1 : tout droit vers l’eau, gauche vers intersection 2."
+      },
+      {
+        "_id": "f4383a9f19d1f9f6",
+        "type": "text",
+        "range": [
+          6,
+          6
+        ],
+        "weight": 1,
+        "description": "Chemin Perdu +2 ; intersection 2 : droite revient, tout droit vers la cabane au seuil 4."
+      }
+    ]
+  },
+  {
+    "_id": "644db9515bee8417",
+    "name": "Oqlan — renfoncement 1d6",
+    "formula": "1d6",
+    "replacement": true,
+    "displayRoll": true,
+    "folder": "570f552d69faa592",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "dense-encounters",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "results": [
+      {
+        "_id": "e58f882b2f6560e3",
+        "type": "text",
+        "range": [
+          1,
+          1
+        ],
+        "weight": 1,
+        "description": "Azucena observe les voyageurs (adaptation du résultat vide)."
+      },
+      {
+        "_id": "75ea1db0f894b39a",
+        "type": "text",
+        "range": [
+          2,
+          2
+        ],
+        "weight": 1,
+        "description": "Troupe noxienne en difficulté contre une créature imposante."
+      },
+      {
+        "_id": "e33324a038472076",
+        "type": "text",
+        "range": [
+          3,
+          3
+        ],
+        "weight": 1,
+        "description": "Troupe noxienne méfiante, discussion possible."
+      },
+      {
+        "_id": "ec315c256ec529ae",
+        "type": "text",
+        "range": [
+          4,
+          4
+        ],
+        "weight": 1,
+        "description": "Chemin Perdu +1."
+      },
+      {
+        "_id": "944f20af91676531",
+        "type": "text",
+        "range": [
+          5,
+          5
+        ],
+        "weight": 1,
+        "description": "Silhouette de Gaama, zone toxique."
+      },
+      {
+        "_id": "f5776829fbf3c770",
+        "type": "text",
+        "range": [
+          6,
+          6
+        ],
+        "weight": 1,
+        "description": "Silhouette de Gaama, zone toxique et Chemin Perdu +1 (ambiguïté consolidée)."
+      }
+    ]
+  }
+]

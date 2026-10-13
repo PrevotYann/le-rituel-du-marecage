@@ -1,0 +1,34 @@
+{
+  "checks": [
+    "Dépendance absente : aucune mutation",
+    "Import interrompu enregistré",
+    "Reprise après interruption sans Actors supplémentaires",
+    "Annulation ciblée du compteur",
+    "Pupitre affiché",
+    "Branche arrival",
+    "Branche inn",
+    "Branche night",
+    "Branche fouines",
+    "Branche demoiselles",
+    "Branche swamp",
+    "Branche dense",
+    "Branche noxiens",
+    "Branche gaama",
+    "Branche barry",
+    "Branche water",
+    "Branche oblivion",
+    "Branche harelport",
+    "Branche legend",
+    "Variantes de capacités intégrées",
+    "Compte joueur : fiche attribuée accessible",
+    "Compte joueur : privateJournal privé",
+    "Compte joueur : registry privé",
+    "Compte joueur : API mutation refuse les privilèges MJ",
+    "Compte joueur : pack masqué par les permissions natives"
+  ],
+  "errors": [],
+  "limitations": [
+    "Foundry 14.368 : getDocuments() renvoie le pack malgré PLAYER NONE. Le masquage natif du compendium ne garantit pas la confidentialité face à une lecture par console."
+  ],
+  "securityStatus": "failed-raw-pack-read"
+}

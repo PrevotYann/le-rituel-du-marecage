@@ -1,0 +1,35 @@
+{
+  "system": "jdr-runeterra",
+  "systemVersion": "0.8.0",
+  "dependencyActors": [
+    "poro",
+    "rooye"
+  ],
+  "pregens": [
+    "eliora",
+    "joel",
+    "kaelor",
+    "klaus",
+    "lianne",
+    "regan",
+    "wako",
+    "will"
+  ],
+  "companions": {
+    "joel": [
+      "ellen"
+    ],
+    "kaelor": [
+      "carapateur-compagnon",
+      "guetteur-compagnon"
+    ]
+  },
+  "sourceInventories": {
+    "toadrick": [
+      {
+        "uuid": "Compendium.jdr-runeterra.consumables.3f42a7b030ca2c3e",
+        "quantity": 2
+      }
+    ]
+  }
+}

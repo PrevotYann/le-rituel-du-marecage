@@ -1,0 +1,441 @@
+{
+  "key": "omatqan",
+  "name": "Omatqan — village",
+  "width": 2400,
+  "height": 1800,
+  "walls": [
+    {
+      "_id": "f2d8bb9ccd9c313c",
+      "c": [
+        400,
+        350,
+        760,
+        350
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "8de1308218c04151",
+      "c": [
+        400,
+        350,
+        400,
+        650
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "ac5141e023dd0c60",
+      "c": [
+        760,
+        350,
+        760,
+        650
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "78ad6f0ce6d3f617",
+      "c": [
+        400,
+        650,
+        535,
+        650
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "ab64ccf32ec5d21e",
+      "c": [
+        535,
+        650,
+        625,
+        650
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 1,
+      "ds": 0
+    },
+    {
+      "_id": "0005eb66d8cff70d",
+      "c": [
+        625,
+        650,
+        760,
+        650
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "5c10c5186c03ea9d",
+      "c": [
+        400,
+        1250,
+        700,
+        1250
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "2d94f99dde6ec241",
+      "c": [
+        400,
+        1250,
+        400,
+        1510
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "552526a2d109828f",
+      "c": [
+        700,
+        1250,
+        700,
+        1510
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "9ca9b7bbae8aed5a",
+      "c": [
+        400,
+        1510,
+        505,
+        1510
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "8e5e22b410bd7e94",
+      "c": [
+        505,
+        1510,
+        595,
+        1510
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 1,
+      "ds": 0
+    },
+    {
+      "_id": "cbd7984327e3102f",
+      "c": [
+        595,
+        1510,
+        700,
+        1510
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "301a84a567705e5b",
+      "c": [
+        1600,
+        300,
+        2100,
+        300
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "71b3771a67704727",
+      "c": [
+        1600,
+        300,
+        1600,
+        800
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "fc3422d72c3de402",
+      "c": [
+        2100,
+        300,
+        2100,
+        800
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "1c5b329c3ce4eb41",
+      "c": [
+        1600,
+        800,
+        1805,
+        800
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "f8505f21f93ecacc",
+      "c": [
+        1805,
+        800,
+        1895,
+        800
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 1,
+      "ds": 0
+    },
+    {
+      "_id": "3b26860f4d4dfee4",
+      "c": [
+        1895,
+        800,
+        2100,
+        800
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "463fc324097085f5",
+      "c": [
+        1650,
+        1250,
+        1970,
+        1250
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "1ec9b5fee3479c16",
+      "c": [
+        1650,
+        1250,
+        1650,
+        1510
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "61952b90131a2501",
+      "c": [
+        1970,
+        1250,
+        1970,
+        1510
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "9cfb6ff7578abb2c",
+      "c": [
+        1650,
+        1510,
+        1765,
+        1510
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "1680498354a5502e",
+      "c": [
+        1765,
+        1510,
+        1855,
+        1510
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 1,
+      "ds": 0
+    },
+    {
+      "_id": "0c9d509c17f96ebb",
+      "c": [
+        1855,
+        1510,
+        1970,
+        1510
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    }
+  ],
+  "lights": [
+    {
+      "_id": "0819ea2571eb0d09",
+      "x": 1530,
+      "y": 930,
+      "config": {
+        "dim": 8,
+        "bright": 3,
+        "color": "#ffc276",
+        "alpha": 0.3,
+        "animation": {
+          "type": "torch",
+          "speed": 2,
+          "intensity": 3
+        }
+      }
+    },
+    {
+      "_id": "1b7252053b695430",
+      "x": 830,
+      "y": 890,
+      "config": {
+        "dim": 8,
+        "bright": 3,
+        "color": "#ffc276",
+        "alpha": 0.3,
+        "animation": {
+          "type": "torch",
+          "speed": 2,
+          "intensity": 3
+        }
+      }
+    }
+  ],
+  "links": [
+    {
+      "x": 1790,
+      "y": 750,
+      "target": "auberge",
+      "tx": 1200,
+      "ty": 1450,
+      "label": "Entrer à l’auberge"
+    },
+    {
+      "x": 590,
+      "y": 600,
+      "target": "duplex",
+      "tx": 1100,
+      "ty": 1500,
+      "label": "Duplex"
+    },
+    {
+      "x": 2200,
+      "y": 1100,
+      "target": "ruelles",
+      "tx": 300,
+      "ty": 1050,
+      "label": "Ruelles"
+    },
+    {
+      "x": 1200,
+      "y": 100,
+      "target": "intersection",
+      "tx": 1200,
+      "ty": 1500,
+      "label": "Marais"
+    }
+  ],
+  "spawn": {
+    "x": 1020,
+    "y": 1560
+  },
+  "path": "modules/le-rituel-du-marecage/assets/maps/omatqan.webp"
+}

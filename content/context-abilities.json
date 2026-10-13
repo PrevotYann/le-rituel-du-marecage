@@ -1,0 +1,557 @@
+{
+  "eliora:ability:1": [
+    {
+      "id": "rm",
+      "label": "Protection en méditation",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "alternateAttribute": "second",
+      "associatedEffects": [
+        {
+          "resistance": "magicResistance",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "force",
+      "label": "Renfort : force",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "modifications": [
+        {
+          "attribute": "force",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "agility",
+      "label": "Renfort : agility",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "modifications": [
+        {
+          "attribute": "agility",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "endurance",
+      "label": "Renfort : endurance",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "modifications": [
+        {
+          "attribute": "endurance",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "concentration",
+      "label": "Renfort : concentration",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "modifications": [
+        {
+          "attribute": "concentration",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "perception",
+      "label": "Renfort : perception",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "modifications": [
+        {
+          "attribute": "perception",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "reflexes",
+      "label": "Renfort : reflexes",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "modifications": [
+        {
+          "attribute": "reflexes",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "dexterity",
+      "label": "Renfort : dexterity",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "modifications": [
+        {
+          "attribute": "dexterity",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "stealth",
+      "label": "Renfort : stealth",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "modifications": [
+        {
+          "attribute": "stealth",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "charisma",
+      "label": "Renfort : charisma",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "modifications": [
+        {
+          "attribute": "charisma",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "persuasion",
+      "label": "Renfort : persuasion",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "modifications": [
+        {
+          "attribute": "persuasion",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "intimidation",
+      "label": "Renfort : intimidation",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "modifications": [
+        {
+          "attribute": "intimidation",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "mental",
+      "label": "Renfort : mental",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "modifications": [
+        {
+          "attribute": "mental",
+          "value": 10
+        }
+      ]
+    }
+  ],
+  "eliora:ability:3": [
+    {
+      "id": "vulnerability",
+      "label": "Vulnérabilité : prochaine attaque +10 (choix de la zone)",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "description": "<p>Appliquer +10 comme modificateur à la prochaine attaque contre la zone choisie, puis retirer l’indice. Le jet et les dégâts restent ceux du système.</p>"
+    }
+  ],
+  "joel:ability:1": [
+    {
+      "id": "force",
+      "label": "Trouver les mots : force",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "modifications": [
+        {
+          "attribute": "force",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "agility",
+      "label": "Trouver les mots : agility",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "modifications": [
+        {
+          "attribute": "agility",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "endurance",
+      "label": "Trouver les mots : endurance",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "modifications": [
+        {
+          "attribute": "endurance",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "reflexes",
+      "label": "Trouver les mots : reflexes",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "modifications": [
+        {
+          "attribute": "reflexes",
+          "value": 10
+        }
+      ]
+    }
+  ],
+  "joel:ability:2": [
+    {
+      "id": "vibration",
+      "label": "Vibration : 15 DB",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "damageFormula": "15",
+      "damageType": "brut"
+    },
+    {
+      "id": "mental",
+      "label": "Choc mental : paralysie",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "damageFormula": "0",
+      "associatedEffects": [
+        {
+          "status": "paralyzed",
+          "condition": "La cible voit Ellen ; Joël est immunisé."
+        }
+      ]
+    }
+  ],
+  "joel:ability:U": [
+    {
+      "id": "zone",
+      "label": "Vibrations mentales de zone",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "damageFormula": "15",
+      "damageType": "brut",
+      "area": 3,
+      "associatedEffects": [
+        {
+          "status": "paralyzed",
+          "condition": "Cible choisie ; Joël peut libérer les alliés par Communication."
+        }
+      ]
+    }
+  ],
+  "kaelor:ability:1": [
+    {
+      "id": "heal",
+      "label": "Bulbe revigorant : +15 PV",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "attribute": "second",
+      "healFormula": "15"
+    },
+    {
+      "id": "scout",
+      "label": "Reconnaissance du Carapateur",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "healFormula": "0",
+      "attribute": "first"
+    }
+  ],
+  "kaelor:ability:2": [
+    {
+      "id": "attack",
+      "label": "Serres : 10 DP",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "damageFormula": "10",
+      "damageType": "physical"
+    },
+    {
+      "id": "protect",
+      "label": "Parade magique : +10 RM",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "damageFormula": "0",
+      "associatedEffects": [
+        {
+          "resistance": "magicResistance",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "fear",
+      "label": "Effrayer la nuit",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "damageFormula": "0",
+      "associatedEffects": [
+        {
+          "status": "fear",
+          "condition": "Seulement la nuit."
+        }
+      ]
+    }
+  ],
+  "klaus:ability:1": [
+    {
+      "id": "strike",
+      "label": "Fléau-Fist : 20 DP (adaptation)",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "damageFormula": "20",
+      "damageType": "physical"
+    },
+    {
+      "id": "restrain",
+      "label": "Immobiliser",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "damageFormula": "0",
+      "associatedEffects": [
+        {
+          "status": "restrained",
+          "condition": "Bonne réussite et contexte validés."
+        }
+      ]
+    }
+  ],
+  "klaus:ability:2": [
+    {
+      "id": "bomb",
+      "label": "Bombe instable : 10 DM",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "attribute": "second",
+      "damageFormula": "10",
+      "damageType": "magic",
+      "area": 2
+    }
+  ],
+  "klaus:ability:3": [
+    {
+      "id": "rm",
+      "label": "Blindage : +10 RM",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "associatedEffects": [
+        {
+          "resistance": "magicResistance",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "label": "Amélioration de l’arme (prochaine utilisation)",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "attribute": "second",
+      "description": "<p>Après réussite, le MJ choisit l’arme et utilise le bonus temporaire d’arme +10 DM via le pupitre ; la fiche native garde son intégrité.</p>"
+    }
+  ],
+  "klaus:ability:U": [
+    {
+      "id": "iem",
+      "label": "I.E.M. : 60 DM de zone",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "damageFormula": "60",
+      "damageType": "magic",
+      "area": 3
+    }
+  ],
+  "lianne:ability:1": [
+    {
+      "id": "laugh",
+      "label": "Chatouille : fou rire",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "associatedEffects": [
+        {
+          "status": "restrained",
+          "condition": "Fou rire ; état proposé pendant un round, Démence ensuite."
+        }
+      ]
+    }
+  ],
+  "lianne:ability:3": [
+    {
+      "id": "bubble",
+      "label": "Chamallow : +10 RM",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "associatedEffects": [
+        {
+          "resistance": "magicResistance",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "collapse",
+      "label": "Retour de magie : 20 DM à Lianne (confirmation)",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "damageFormula": "20",
+      "damageType": "magic",
+      "description": "<p>Échec du contrôle : appliquer à Lianne après confirmation, jamais à un ennemi.</p>"
+    }
+  ],
+  "regan:ability:1": [
+    {
+      "id": "force",
+      "label": "Synthexine : Force +10 (adaptation)",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "attribute": "second",
+      "modifications": [
+        {
+          "attribute": "force",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "reflexes",
+      "label": "Synthexine : Réflexes +10 (adaptation)",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "modifications": [
+        {
+          "attribute": "reflexes",
+          "value": 10
+        }
+      ]
+    }
+  ],
+  "regan:ability:2": [
+    {
+      "id": "focus",
+      "label": "Métaniphénédream : Perception et Concentration +10",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "modifications": [
+        {
+          "attribute": "perception",
+          "value": 10
+        },
+        {
+          "attribute": "concentration",
+          "value": 10
+        }
+      ]
+    }
+  ],
+  "regan:ability:3": [
+    {
+      "id": "poison",
+      "label": "Hématoxine : poison niveau 1 (adaptation)",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "attribute": "second",
+      "dot": {
+        "kind": "poison",
+        "level": 1
+      }
+    }
+  ],
+  "wako:ability:2": [
+    {
+      "id": "heal",
+      "label": "Offrande : +10 PV",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "healFormula": "10"
+    },
+    {
+      "id": "poison",
+      "label": "Offrande : poison niveau 2",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "attribute": "second",
+      "healFormula": "0",
+      "dot": {
+        "kind": "poison",
+        "level": 2
+      }
+    }
+  ],
+  "wako:ability:3": [
+    {
+      "id": "reflexes",
+      "label": "Instinct : Réflexes +10",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "attribute": "second",
+      "modifications": [
+        {
+          "attribute": "reflexes",
+          "value": 10
+        }
+      ]
+    }
+  ],
+  "wako:ability:U": [
+    {
+      "id": "rain-heal",
+      "label": "Pluie de soins : +20 PV",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "area": 3,
+      "healFormula": "20"
+    },
+    {
+      "id": "rain-poison",
+      "label": "Pluie de poison niveau 2",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "attribute": "second",
+      "area": 3,
+      "healFormula": "0",
+      "dot": {
+        "kind": "poison",
+        "level": 2
+      }
+    }
+  ],
+  "will:ability:2": [
+    {
+      "id": "taunt",
+      "label": "Provocation (décision narrative)",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "description": "<p>La cible est attirée vers Will selon le choix MJ ; aucune action sociale imposée par un algorithme.</p>"
+    },
+    {
+      "id": "fear",
+      "label": "Regard terrifiant",
+      "conditions": "Choix du MJ requis ; durée adaptée : un round du système (30 secondes).",
+      "duration": 30,
+      "associatedEffects": [
+        {
+          "status": "fear",
+          "condition": "La cible soutient le regard de Will."
+        }
+      ]
+    }
+  ]
+}

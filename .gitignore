@@ -1,0 +1,8 @@
+.private-sources/
+.qa/
+node_modules/
+dist/
+test-results/
+*.log
+packs/**/LOCK
+packs/**/LOG*

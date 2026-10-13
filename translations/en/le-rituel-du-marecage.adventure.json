@@ -1,0 +1,38 @@
+{
+  "label": "The Marsh Ritual",
+  "entries": {
+    "1a682807a7975422": {
+      "name": "The Marsh Ritual",
+      "description": "<p>A French Runeterra adventure. Includes Omatqan, the Paths of Oblivion and Harelport.</p>",
+      "journals": {
+        "9642f0dc876cd4fa": {
+          "name": "Start here",
+          "pages": {
+            "6b30371273d167e1": {
+              "name": "Start here",
+              "text": "<h1>Start here</h1><p>Choose five heroes and begin in Omatqan. This is a minimal translation example.</p>"
+            }
+          }
+        }
+      },
+      "items": {
+        "92a4488822befa05": {
+          "name": "Tom, the talking watch",
+          "description": "<p>A talking Yordle pocket watch that cannot tell the time.</p>"
+        }
+      },
+      "actors": {
+        "d998eba77776dc69": {
+          "name": "Eliora",
+          "description": "<p>A mute human telepath raised in Ionia.</p>",
+          "items": {
+            "38de27c39cdb710b": {
+              "name": "Telepathic voice",
+              "description": "<p>Eliora communicates telepathically. Her team needs no roll.</p>"
+            }
+          }
+        }
+      }
+    }
+  }
+}

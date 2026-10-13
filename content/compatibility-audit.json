@@ -1,0 +1,101 @@
+{
+  "system": "jdr-runeterra",
+  "repository": "PrevotYann/jdr-runterra-foundry",
+  "version": "0.8.0",
+  "commit": "5ee3bb16dd539ebc7bd5b4485767f549442aca0c",
+  "foundry": "14.368",
+  "files": [
+    {
+      "path": "system.json",
+      "bytes": 2946,
+      "sha256": "db87d926f297634051293739cef41789eb6a8606cd4692889b29b1a1e2681f7a"
+    },
+    {
+      "path": "scripts/models.mjs",
+      "bytes": 4480,
+      "sha256": "3f248b59457da357bfbb12e22451c2607a39b23d129a75abf31c1f878357d875"
+    },
+    {
+      "path": "scripts/documents.mjs",
+      "bytes": 34805,
+      "sha256": "e763eb8ca1b2d4b3f543298382438f1e1c01f4e1dbf85458c9865674337aecc4"
+    },
+    {
+      "path": "scripts/main.mjs",
+      "bytes": 16703,
+      "sha256": "75ea15f3b5296bace8f4e32944471b670b05a646a6d878f18da8f384f4523004"
+    },
+    {
+      "path": "scripts/rules.mjs",
+      "bytes": 8269,
+      "sha256": "d71f270f87113d49a5a8bc36d9b1ed49e1b2bb5771046a59b5f0d1dfb23ba162"
+    },
+    {
+      "path": "scripts/time.mjs",
+      "bytes": 9826,
+      "sha256": "00f33b9d80eda405c895c45363efe928715224ec6a0daec81b8f89f85d7efdf3"
+    },
+    {
+      "path": "scripts/actions.mjs",
+      "bytes": 5367,
+      "sha256": "25d394618470067114c7fb0a1627aa81e785d86589ebeff11fe53c384f54a046"
+    },
+    {
+      "path": "scripts/attack-data.mjs",
+      "bytes": 1222,
+      "sha256": "cd9aaf3649e3338a98831658e81af8f67c64a14b727398817509f35cb7a322de"
+    },
+    {
+      "path": "scripts/potions.mjs",
+      "bytes": 7460,
+      "sha256": "78a2b5f9e96fff65614c30640752b3f07a8ba3b5c545f2073ab5142993f543ef"
+    },
+    {
+      "path": "tools/build-content.mjs",
+      "bytes": 24084,
+      "sha256": "4ed93d5e51f850830cb2acda7ad6e47fa14f879e6d02c81ed50f9ea8009034d6"
+    },
+    {
+      "path": "tools/pack.mjs",
+      "bytes": 1391,
+      "sha256": "54646497d8a2873d5a3dd21e2caba1bc577f859dfbcd5e4e39cc531474faf1c0"
+    },
+    {
+      "path": "docs/guide.html",
+      "bytes": 4550,
+      "sha256": "15f63fb66e823b026630b0bec9b851ffe56a541b4a76adb88bc2d723620cb448"
+    }
+  ],
+  "contract": {
+    "actors": [
+      "character",
+      "npc",
+      "creature",
+      "vehicle"
+    ],
+    "items": [
+      "weapon",
+      "equipment",
+      "ability",
+      "special",
+      "profession",
+      "consumable",
+      "rune",
+      "relic",
+      "resource",
+      "book",
+      "enchantment",
+      "affiliation"
+    ],
+    "api": [
+      "game.runeterra.purchase(actor,item,quantity,options)",
+      "game.runeterra.advanceTime(minutes)",
+      "actor.rollAttribute(key,options)",
+      "actor.applyDamage(amount,options)",
+      "actor.heal(amount,options)",
+      "actor.addCondition(id,{level,duration,modifications})",
+      "item.use({variant,contextConfirmed,...})"
+    ],
+    "adventure": "prepareImport/import/importContent : SetField(EmbeddedDataField) inline ; pas EmbeddedCollectionField."
+  }
+}

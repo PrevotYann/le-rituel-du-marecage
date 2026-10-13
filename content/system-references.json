@@ -1,0 +1,263 @@
+[
+  {
+    "key": "poro",
+    "uuid": "Compendium.jdr-runeterra.bestiary.4cdc712de19ecde5",
+    "type": "Actor",
+    "systemVersion": "0.8.0",
+    "name": "PORO",
+    "decision": "reuse-world",
+    "difference": "Profil du système prioritaire, non republié."
+  },
+  {
+    "key": "rooye",
+    "uuid": "Compendium.jdr-runeterra.bestiary.34f315d8c3e7506d",
+    "type": "Actor",
+    "systemVersion": "0.8.0",
+    "name": "ROOYE DES SABLES (SHURIMA)",
+    "decision": "reuse-world",
+    "difference": "Description narrative identifie la variante des sables ; statistiques du système conservées."
+  },
+  {
+    "key": "antidote",
+    "uuid": "Compendium.jdr-runeterra.consumables.91abf8dd835d65ee",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "ANTIDOTE",
+    "decision": "reuse",
+    "difference": "Qualité choisie dans le dialogue natif, offres de Luis distinctes du catalogue."
+  },
+  {
+    "key": "aphrene",
+    "uuid": "Compendium.jdr-runeterra.consumables.3f42a7b030ca2c3e",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Graine d’Aphrène / 5 Arg",
+    "decision": "reuse",
+    "difference": "Règle alimentaire du système prioritaire."
+  },
+  {
+    "key": "boussole-ixtali",
+    "uuid": "Compendium.jdr-runeterra.magic.9c6e319a18cec9ee",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Boussole Ixtali",
+    "decision": "reuse",
+    "difference": ""
+  },
+  {
+    "key": "griffon",
+    "uuid": "Compendium.jdr-runeterra.bestiary.b69a927f81614953",
+    "type": "Actor",
+    "systemVersion": "0.8.0",
+    "name": "GRIFFON",
+    "decision": "reuse",
+    "difference": "Vente de Dorovik ; pas de profil recopié."
+  },
+  {
+    "key": "shimmer",
+    "uuid": "Compendium.jdr-runeterra.consumables.c222b4ca4d8c2c81",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Shimmer (Drogue Chemtech) / 200 Or",
+    "decision": "distinct",
+    "difference": "Variante trafiquée distincte : ne pas substituer la drogue standard."
+  },
+  {
+    "key": "lanterne",
+    "uuid": "Compendium.jdr-runeterra.magic.a6883760cfa390c8",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Lanterne de la Fournaise",
+    "decision": "distinct",
+    "difference": "Fournaise et Lucioles : effets distincts, nouvel objet nécessaire."
+  },
+  {
+    "key": "rooye-neige",
+    "uuid": "Compendium.jdr-runeterra.bestiary.92361a6c4a8fc9b3",
+    "type": "Actor",
+    "systemVersion": "0.8.0",
+    "name": "ROOYE DES NEIGES",
+    "decision": "distinct",
+    "difference": "Variante neige différente des Rooyes décrits."
+  },
+  {
+    "key": "catalog-equipment:c8aefbe55f2400c1",
+    "uuid": "Compendium.jdr-runeterra.equipment.c8aefbe55f2400c1",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Tenue d’Explorateur Freljordien — Bonnet (B)",
+    "decision": "reuse",
+    "difference": "Set source à rapprocher du catalogue actuel ; propriétés du système prioritaires. Ne pas recopier les pièces du set."
+  },
+  {
+    "key": "catalog-equipment:88c5e7844b6a2438",
+    "uuid": "Compendium.jdr-runeterra.equipment.88c5e7844b6a2438",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Tenue d’Explorateur Freljordien — Veste (B)",
+    "decision": "reuse",
+    "difference": "Set source à rapprocher du catalogue actuel ; propriétés du système prioritaires. Ne pas recopier les pièces du set."
+  },
+  {
+    "key": "catalog-equipment:84091c2b93752f6a",
+    "uuid": "Compendium.jdr-runeterra.equipment.84091c2b93752f6a",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Tenue d’Explorateur Freljordien — Gants (B)",
+    "decision": "reuse",
+    "difference": "Set source à rapprocher du catalogue actuel ; propriétés du système prioritaires. Ne pas recopier les pièces du set."
+  },
+  {
+    "key": "catalog-equipment:0cceb02b610675b5",
+    "uuid": "Compendium.jdr-runeterra.equipment.0cceb02b610675b5",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Tenue d’Explorateur Freljordien — Pantalon (B)",
+    "decision": "reuse",
+    "difference": "Set source à rapprocher du catalogue actuel ; propriétés du système prioritaires. Ne pas recopier les pièces du set."
+  },
+  {
+    "key": "catalog-equipment:228537b293d4610f",
+    "uuid": "Compendium.jdr-runeterra.equipment.228537b293d4610f",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Tenue d’Explorateur Freljordien — Bottes (B)",
+    "decision": "reuse",
+    "difference": "Set source à rapprocher du catalogue actuel ; propriétés du système prioritaires. Ne pas recopier les pièces du set."
+  },
+  {
+    "key": "catalog-equipment:570ce632e2c66fc2",
+    "uuid": "Compendium.jdr-runeterra.equipment.570ce632e2c66fc2",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Tenue Soldat Demacien — Heaume (B)",
+    "decision": "reuse",
+    "difference": "Set source à rapprocher du catalogue actuel ; propriétés du système prioritaires. Ne pas recopier les pièces du set."
+  },
+  {
+    "key": "catalog-equipment:8d99c7cc02f52c97",
+    "uuid": "Compendium.jdr-runeterra.equipment.8d99c7cc02f52c97",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Tenue Soldat Demacien — Plastron (B)",
+    "decision": "reuse",
+    "difference": "Set source à rapprocher du catalogue actuel ; propriétés du système prioritaires. Ne pas recopier les pièces du set."
+  },
+  {
+    "key": "catalog-equipment:7c0550eb21617427",
+    "uuid": "Compendium.jdr-runeterra.equipment.7c0550eb21617427",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Tenue Soldat Demacien — Gantelets (B)",
+    "decision": "reuse",
+    "difference": "Set source à rapprocher du catalogue actuel ; propriétés du système prioritaires. Ne pas recopier les pièces du set."
+  },
+  {
+    "key": "catalog-equipment:c316d4da1f9cb90e",
+    "uuid": "Compendium.jdr-runeterra.equipment.c316d4da1f9cb90e",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Tenue Soldat Demacien — Jambières (B)",
+    "decision": "reuse",
+    "difference": "Set source à rapprocher du catalogue actuel ; propriétés du système prioritaires. Ne pas recopier les pièces du set."
+  },
+  {
+    "key": "catalog-equipment:3cd1b616c6b75832",
+    "uuid": "Compendium.jdr-runeterra.equipment.3cd1b616c6b75832",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Tenue Soldat Demacien — Solerets (B)",
+    "decision": "reuse",
+    "difference": "Set source à rapprocher du catalogue actuel ; propriétés du système prioritaires. Ne pas recopier les pièces du set."
+  },
+  {
+    "key": "catalog-equipment:f3bb13ab5c214ff0",
+    "uuid": "Compendium.jdr-runeterra.equipment.f3bb13ab5c214ff0",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Tenue de Voleur — Tête (B)",
+    "decision": "reuse",
+    "difference": "Set source à rapprocher du catalogue actuel ; propriétés du système prioritaires. Ne pas recopier les pièces du set."
+  },
+  {
+    "key": "catalog-equipment:ea398ce092820719",
+    "uuid": "Compendium.jdr-runeterra.equipment.ea398ce092820719",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Tenue de Voleur — Torse (B)",
+    "decision": "reuse",
+    "difference": "Set source à rapprocher du catalogue actuel ; propriétés du système prioritaires. Ne pas recopier les pièces du set."
+  },
+  {
+    "key": "catalog-equipment:fe2475039050bc93",
+    "uuid": "Compendium.jdr-runeterra.equipment.fe2475039050bc93",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Tenue de Voleur — Mains (B)",
+    "decision": "reuse",
+    "difference": "Set source à rapprocher du catalogue actuel ; propriétés du système prioritaires. Ne pas recopier les pièces du set."
+  },
+  {
+    "key": "catalog-equipment:780dc914c6dddb57",
+    "uuid": "Compendium.jdr-runeterra.equipment.780dc914c6dddb57",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Tenue de Voleur — Jambes (B)",
+    "decision": "reuse",
+    "difference": "Set source à rapprocher du catalogue actuel ; propriétés du système prioritaires. Ne pas recopier les pièces du set."
+  },
+  {
+    "key": "catalog-equipment:fd880f33c7be6397",
+    "uuid": "Compendium.jdr-runeterra.equipment.fd880f33c7be6397",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Tenue de Voleur — Pieds (B)",
+    "decision": "reuse",
+    "difference": "Set source à rapprocher du catalogue actuel ; propriétés du système prioritaires. Ne pas recopier les pièces du set."
+  },
+  {
+    "key": "catalog-equipment:0f79777d6422a2b6",
+    "uuid": "Compendium.jdr-runeterra.equipment.0f79777d6422a2b6",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Tenue d’Ingénieur Freljordien — Tête (B)",
+    "decision": "reuse",
+    "difference": "Set source à rapprocher du catalogue actuel ; propriétés du système prioritaires. Ne pas recopier les pièces du set."
+  },
+  {
+    "key": "catalog-equipment:af83c897caca1508",
+    "uuid": "Compendium.jdr-runeterra.equipment.af83c897caca1508",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Tenue d’Ingénieur Freljordien — Torse (B)",
+    "decision": "reuse",
+    "difference": "Set source à rapprocher du catalogue actuel ; propriétés du système prioritaires. Ne pas recopier les pièces du set."
+  },
+  {
+    "key": "catalog-equipment:ad1407e3b5816922",
+    "uuid": "Compendium.jdr-runeterra.equipment.ad1407e3b5816922",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Tenue d’Ingénieur Freljordien — Mains (B)",
+    "decision": "reuse",
+    "difference": "Set source à rapprocher du catalogue actuel ; propriétés du système prioritaires. Ne pas recopier les pièces du set."
+  },
+  {
+    "key": "catalog-equipment:8cd4e13d48e8eb5b",
+    "uuid": "Compendium.jdr-runeterra.equipment.8cd4e13d48e8eb5b",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Tenue d’Ingénieur Freljordien — Jambes (B)",
+    "decision": "reuse",
+    "difference": "Set source à rapprocher du catalogue actuel ; propriétés du système prioritaires. Ne pas recopier les pièces du set."
+  },
+  {
+    "key": "catalog-equipment:f5841e4d83c591dc",
+    "uuid": "Compendium.jdr-runeterra.equipment.f5841e4d83c591dc",
+    "type": "Item",
+    "systemVersion": "0.8.0",
+    "name": "Tenue d’Ingénieur Freljordien — Pieds (B)",
+    "decision": "reuse",
+    "difference": "Set source à rapprocher du catalogue actuel ; propriétés du système prioritaires. Ne pas recopier les pièces du set."
+  }
+]

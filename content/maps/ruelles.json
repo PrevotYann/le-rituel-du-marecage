@@ -1,0 +1,302 @@
+{
+  "key": "ruelles",
+  "name": "Ruelles — repère des braconniers",
+  "width": 2400,
+  "height": 1800,
+  "walls": [
+    {
+      "_id": "55161f2d688a8b7f",
+      "c": [
+        300,
+        220,
+        900,
+        220
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "c03f3414a7eb9207",
+      "c": [
+        300,
+        220,
+        300,
+        820
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "0a1609a2f3dbf045",
+      "c": [
+        900,
+        220,
+        900,
+        820
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "3c8d379d8fc11a10",
+      "c": [
+        300,
+        820,
+        555,
+        820
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "0aecae2b28585ce4",
+      "c": [
+        555,
+        820,
+        645,
+        820
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 1,
+      "ds": 0
+    },
+    {
+      "_id": "1cc4c784c4b36144",
+      "c": [
+        645,
+        820,
+        900,
+        820
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "2746782d4465af97",
+      "c": [
+        1540,
+        220,
+        2140,
+        220
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "5066615064114daa",
+      "c": [
+        1540,
+        220,
+        1540,
+        820
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "6c69700764a30f7a",
+      "c": [
+        2140,
+        220,
+        2140,
+        820
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "2cf5c0b57a9aac15",
+      "c": [
+        1540,
+        820,
+        1795,
+        820
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "dbcdab0a5b82e022",
+      "c": [
+        1795,
+        820,
+        1885,
+        820
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 1,
+      "ds": 0
+    },
+    {
+      "_id": "c4629a117b005a29",
+      "c": [
+        1885,
+        820,
+        2140,
+        820
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "c622b9a2f7386997",
+      "c": [
+        1540,
+        1200,
+        2090,
+        1200
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "eaa38fb017dfe959",
+      "c": [
+        1540,
+        1200,
+        1540,
+        1600
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "e1883a2427e63b21",
+      "c": [
+        2090,
+        1200,
+        2090,
+        1600
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "d05d05e3d146bf51",
+      "c": [
+        1540,
+        1600,
+        1770,
+        1600
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "2096c79ef2794e62",
+      "c": [
+        1770,
+        1600,
+        1860,
+        1600
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 1,
+      "ds": 0
+    },
+    {
+      "_id": "bcdf1028fe5610cb",
+      "c": [
+        1860,
+        1600,
+        2090,
+        1600
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    }
+  ],
+  "lights": [
+    {
+      "_id": "498fc80aa70adfb5",
+      "x": 1850,
+      "y": 740,
+      "config": {
+        "dim": 8,
+        "bright": 3,
+        "color": "#ffc276",
+        "alpha": 0.3,
+        "animation": {
+          "type": "torch",
+          "speed": 2,
+          "intensity": 3
+        }
+      }
+    }
+  ],
+  "links": [],
+  "spawn": {
+    "x": 1020,
+    "y": 1560
+  },
+  "path": "modules/le-rituel-du-marecage/assets/maps/ruelles.webp"
+}

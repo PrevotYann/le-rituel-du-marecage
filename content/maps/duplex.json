@@ -1,0 +1,237 @@
+{
+  "key": "duplex",
+  "name": "Duplex — rez-de-chaussée",
+  "width": 2400,
+  "height": 1800,
+  "walls": [
+    {
+      "_id": "09d24d76c3d30393",
+      "c": [
+        360,
+        240,
+        2040,
+        240
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "406337211a8709fe",
+      "c": [
+        360,
+        240,
+        360,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "812b7ea815519fdb",
+      "c": [
+        2040,
+        240,
+        2040,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "d302291e3b70829e",
+      "c": [
+        360,
+        1500,
+        1155,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "0efa544acbce961d",
+      "c": [
+        1155,
+        1500,
+        1245,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 1,
+      "ds": 0
+    },
+    {
+      "_id": "c0c05c58620c8eab",
+      "c": [
+        1245,
+        1500,
+        2040,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "bb874a4b05d61eab",
+      "c": [
+        900,
+        240,
+        900,
+        780
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "6b020530c9e24c3d",
+      "c": [
+        900,
+        870,
+        900,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "f66791e8ceb16bd0",
+      "c": [
+        900,
+        780,
+        900,
+        870
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 1,
+      "ds": 0
+    },
+    {
+      "_id": "f1ebfc90b8cf82f8",
+      "c": [
+        1540,
+        240,
+        1540,
+        900
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "096ebf5ae40b2c19",
+      "c": [
+        1540,
+        990,
+        1540,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "75875e746079b12b",
+      "c": [
+        1540,
+        900,
+        1540,
+        990
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 1,
+      "ds": 0
+    }
+  ],
+  "lights": [
+    {
+      "_id": "04bdc933d260d333",
+      "x": 1100,
+      "y": 700,
+      "config": {
+        "dim": 8,
+        "bright": 3,
+        "color": "#ffc276",
+        "alpha": 0.3,
+        "animation": {
+          "type": "torch",
+          "speed": 2,
+          "intensity": 3
+        }
+      }
+    },
+    {
+      "_id": "6944f67123505ff8",
+      "x": 1850,
+      "y": 1370,
+      "config": {
+        "dim": 8,
+        "bright": 3,
+        "color": "#ffc276",
+        "alpha": 0.3,
+        "animation": {
+          "type": "torch",
+          "speed": 2,
+          "intensity": 3
+        }
+      }
+    }
+  ],
+  "links": [
+    {
+      "x": 1190,
+      "y": 420,
+      "target": "chambre",
+      "tx": 1190,
+      "ty": 420,
+      "label": "Escalier / passage"
+    }
+  ],
+  "spawn": {
+    "x": 1020,
+    "y": 1560
+  },
+  "path": "modules/le-rituel-du-marecage/assets/maps/duplex.webp"
+}

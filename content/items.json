@@ -1,0 +1,1394 @@
+[
+  {
+    "_id": "6be3728a1cc7ff5a",
+    "name": "Lanterne à Lucioles",
+    "type": "relic",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "lanterne",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Éclaire fortement dans une direction : +10 Perception visuelle uniquement. Libérer les lucioles éclaire sur 10 m, sans ce bonus. Action MJ : choisir le mode, sans bonus de vision abstrait permanent.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "lanterne",
+      "damageFormula": "0",
+      "slots": 0,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "32dfdfbb7037d210",
+    "name": "Omiliscent",
+    "type": "relic",
+    "img": "modules/le-rituel-du-marecage/assets/source/1tD3C9_elLOlrv1CO8N8IuoLR_TWkkEQJ.webp",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "omiliscent",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Scanne les magies proches, en définit la nature et en extrait une partie. Indices choisis par le MJ ; +10 RM lorsque équipé. Attaque native embarquée Extraction : 15 DM.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "omiliscent",
+      "damageFormula": "0",
+      "slots": 1,
+      "magicResistance": 10,
+      "equipped": false,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "92a4488822befa05",
+    "name": "Tom",
+    "type": "relic",
+    "img": "modules/le-rituel-du-marecage/assets/source/1snih1cO_dB_3ZPcMa8Zm9AvzioRBAqBJ.webp",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "tom",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Montre à gousset yordle douée de parole, incapable de lire l’heure. Avertit du piège de Malek et veut retrouver Brik et Brak.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "tom",
+      "damageFormula": "0",
+      "slots": 0,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "6660e7ffe1d0ca4f",
+    "name": "Armature Braconnier",
+    "type": "equipment",
+    "img": "modules/le-rituel-du-marecage/assets/source/1rjZg_MtqpQD1cYDCM_3u3bf-Xk7_Do34.webp",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "armature",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Combinaison attachée au porteur, incapable de se déplacer seule. Bonus d’équipement selon le système actuel.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "armature",
+      "damageFormula": "0",
+      "slots": 1,
+      "slot": "torso",
+      "armor": 10,
+      "magicResistance": 0,
+      "bonuses": {
+        "dexterity": 10,
+        "agility": 10,
+        "force": 10,
+        "stealth": -10,
+        "reflexes": -10
+      },
+      "modifications": [],
+      "equipped": false,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "132e9dbba88cf18b",
+    "name": "Masque Taoxana",
+    "type": "relic",
+    "img": "modules/le-rituel-du-marecage/assets/source/1sLbds_oI1QtT1rJY7RoOAstKguF0VeNx.webp",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "masque",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Le nom prononcé permet d’y enfermer l’esprit vaincu. Aucune propriété supplémentaire n’est fournie : preuve de la libération, pas de bonus inventé.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "masque",
+      "damageFormula": "0",
+      "slots": 0,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "c8e12061e7a97ed1",
+    "name": "Chapeau du Roi Démon",
+    "type": "relic",
+    "img": "modules/le-rituel-du-marecage/assets/source/144scBvruxntF7HmPu4oUEMi7lnUSp5nC.webp",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "chapeau",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Chapeau convoité par Tahm Kench et, dans l’adaptation du contrat, Barry. Choisir à qui le remettre ; aucune propriété mécanique inventée.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "chapeau",
+      "damageFormula": "0",
+      "slots": 0,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "9d0d90381e225830",
+    "name": "Bois Gaama",
+    "type": "resource",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "bois-gaama",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Écorce légère et extrêmement résistante. Récolte source : deux tonnes. Transport et prix à négocier ; pas de résistance appliquée sans fabrication du système.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "bois-gaama",
+      "damageFormula": "0",
+      "slots": 0,
+      "quantity": 1,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "afbdfe4413bdfe78",
+    "name": "Shimmer trafiqué instable",
+    "type": "consumable",
+    "img": "modules/le-rituel-du-marecage/assets/source/1uEqmQt62MphKXvdpd_YVRpENkXYPl0uQ.webp",
+    "folder": "e3d95e7d262a3fdf",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "shimmer-instable",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Modification d’arme : +10 DM sur la prochaine utilisation, poison niveau 1 à confirmer par le MJ. Consommation : poison niveau 4 du système, danger extrême. Aucun décès automatique. Action dédiée du pupitre.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "shimmer-instable",
+      "damageFormula": "0",
+      "slots": 0,
+      "quantity": 1,
+      "dangers": "Poison niveau 4 si bu ; ne pas utiliser le bouton consommer sans le choix MJ.",
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "e9d586deed8631e6",
+    "name": "Ethnil",
+    "type": "consumable",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "e3d95e7d262a3fdf",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "ethnil",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Breuvage cicatrisant. Soigne 15 PV et retire 1 niveau(x) de saignement. Non cumul pendant une heure. Utiliser le pupitre : le verrou temporel s’applique aussi à la fiche native.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "ethnil",
+      "damageFormula": "0",
+      "slots": 0,
+      "healFormula": "15",
+      "price": 7,
+      "quantity": 1,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "023545049baf4e51",
+    "name": "Ethnil bon",
+    "type": "consumable",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "e3d95e7d262a3fdf",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "ethnil-bon",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Breuvage cicatrisant. Soigne 25 PV et retire 2 niveau(x) de saignement. Non cumul pendant une heure. Utiliser le pupitre : le verrou temporel s’applique aussi à la fiche native.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "ethnil-bon",
+      "damageFormula": "0",
+      "slots": 0,
+      "healFormula": "25",
+      "price": 15,
+      "quantity": 1,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "8fcdba02a9c0b222",
+    "name": "Ethnil puissant",
+    "type": "consumable",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "e3d95e7d262a3fdf",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "ethnil-puissant",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Breuvage cicatrisant. Soigne 40 PV et retire 3 niveau(x) de saignement. Non cumul pendant une heure. Utiliser le pupitre : le verrou temporel s’applique aussi à la fiche native.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "ethnil-puissant",
+      "damageFormula": "0",
+      "slots": 0,
+      "healFormula": "40",
+      "price": 30,
+      "quantity": 1,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "0e19b32104963209",
+    "name": "Masque oxygène Pilt",
+    "type": "equipment",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "masque-oxygene",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Set Braconnier Pilt. +10 PV, +5 Endurance, protège contre l’inhalation toxique uniquement ; ne guérit pas un poison.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "masque-oxygene",
+      "damageFormula": "0",
+      "slots": 1,
+      "slot": "head",
+      "hp": 10,
+      "bonuses": {
+        "endurance": 5
+      },
+      "price": 18,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "07fbb768b0e60b68",
+    "name": "Hexotech de Klaus",
+    "type": "equipment",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "hexotech",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Armure pilotée, pas un personnage supplémentaire : +35 ARM, +60 Force, +40 Intimidation, -50 Discrétion. Entrée/sortie par équipement natif. Encombrement : impossible dans les petits intérieurs. IEM utilisable hors armure.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "hexotech",
+      "damageFormula": "0",
+      "slots": 2,
+      "slot": "torso",
+      "armor": 35,
+      "bonuses": {
+        "force": 60,
+        "intimidation": 40,
+        "stealth": -50
+      },
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "40a53088232e46bd",
+    "name": "Vivarium Hextech",
+    "type": "relic",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "vivarium",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Contient les compagnons de Kaëlor et leurs milieux de vie. Invoquer/rappeler par le pupitre ; les compagnons agissent à la place de son action, sans seconde réserve d’ultime.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "vivarium",
+      "damageFormula": "0",
+      "slots": 0,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "2b581a5434e761e8",
+    "name": "Pelote de laine de Wako",
+    "type": "equipment",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "pelote",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Aide Wako à se détendre et retrouver le plan matériel. Mental contextuel ; l’invisibilité et le retrait sont décidés par le MJ.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "pelote",
+      "damageFormula": "0",
+      "slots": 0,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "0b80dd7a8ab9930c",
+    "name": "Chevalière de Huul",
+    "type": "relic",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "chevaliere",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Lien personnel de Will avec Huul : +5 RM, équipement mains.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "chevaliere",
+      "damageFormula": "0",
+      "slots": 0,
+      "slot": "hands",
+      "magicResistance": 5,
+      "equipped": true,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "e65e8658269ded49",
+    "name": "Chemic-O-Spike",
+    "type": "weapon",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "chemic-spike",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Griffe de Regan : 5 DP + 5 DM ; l’Hématoxine requiert un choix de poison du système.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "chemic-spike",
+      "damageFormula": "5",
+      "slots": 0,
+      "attribute": "dexterity",
+      "damageType": "physical",
+      "components": [
+        {
+          "type": "physical",
+          "formula": "5"
+        },
+        {
+          "type": "magic",
+          "formula": "5"
+        }
+      ],
+      "mode": "melee",
+      "equipped": true,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "13a324300be7842d",
+    "name": "Extraction de l’Omiliscent",
+    "type": "weapon",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "extraction",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Décharge extraite par l’artefact : 15 DM, seulement si l’Omiliscent est possédé et le contexte confirmé.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "extraction",
+      "damageFormula": "15",
+      "slots": 0,
+      "attribute": "concentration",
+      "damageType": "magic",
+      "mode": "magic",
+      "conditions": "Omiliscent équipé",
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "c69eea34aecabe7c",
+    "name": "Bière coupée à l’eau",
+    "type": "consumable",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "e3d95e7d262a3fdf",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "biere",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Recette du menu de Luis. Affinités, alimentation et soins : moteur actuel. Prix de scène en Or (10 Arg = 1 Or).</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "biere",
+      "damageFormula": "0",
+      "slots": 0,
+      "price": 0.2,
+      "healFormula": "0",
+      "food": false,
+      "foodKind": "vegetable",
+      "duration": 3600,
+      "modifications": [],
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "ceee231da931719c",
+    "name": "Rhum maison",
+    "type": "consumable",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "e3d95e7d262a3fdf",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "rhum",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Recette du menu de Luis. Affinités, alimentation et soins : moteur actuel. Prix de scène en Or (10 Arg = 1 Or).</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "rhum",
+      "damageFormula": "0",
+      "slots": 0,
+      "price": 0.4,
+      "healFormula": "0",
+      "food": false,
+      "foodKind": "vegetable",
+      "duration": 3600,
+      "modifications": [],
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "ef5b2094ff91c551",
+    "name": "Vin de roseaux fumé",
+    "type": "consumable",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "e3d95e7d262a3fdf",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "vin",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Recette du menu de Luis. Affinités, alimentation et soins : moteur actuel. Prix de scène en Or (10 Arg = 1 Or).</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "vin",
+      "damageFormula": "0",
+      "slots": 0,
+      "price": 0.3,
+      "healFormula": "0",
+      "food": false,
+      "foodKind": "vegetable",
+      "duration": 3600,
+      "modifications": [],
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "a00c55f33037f6e8",
+    "name": "Liqueur Qineron",
+    "type": "consumable",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "e3d95e7d262a3fdf",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "qineron",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Recette du menu de Luis. Affinités, alimentation et soins : moteur actuel. Prix de scène en Or (10 Arg = 1 Or).</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "qineron",
+      "damageFormula": "0",
+      "slots": 0,
+      "price": 0.7,
+      "healFormula": "0",
+      "food": false,
+      "foodKind": "vegetable",
+      "duration": 3600,
+      "modifications": [
+        {
+          "attribute": "stealth",
+          "value": -10
+        },
+        {
+          "attribute": "charisma",
+          "value": 10
+        }
+      ],
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "b796b872d4f2326f",
+    "name": "Lait de Tantalephant",
+    "type": "consumable",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "e3d95e7d262a3fdf",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "lait",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Recette du menu de Luis. Affinités, alimentation et soins : moteur actuel. Prix de scène en Or (10 Arg = 1 Or).</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "lait",
+      "damageFormula": "0",
+      "slots": 0,
+      "price": 0.3,
+      "healFormula": "0",
+      "food": false,
+      "foodKind": "vegetable",
+      "duration": 3600,
+      "modifications": [],
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "fa5a8b50c096ccb6",
+    "name": "Bakkeux aux légumes et nouilles",
+    "type": "consumable",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "e3d95e7d262a3fdf",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "bakkeux",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Recette du menu de Luis. Affinités, alimentation et soins : moteur actuel. Prix de scène en Or (10 Arg = 1 Or).</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "bakkeux",
+      "damageFormula": "0",
+      "slots": 0,
+      "price": 0.3,
+      "healFormula": "4",
+      "food": true,
+      "foodKind": "meat",
+      "duration": 3600,
+      "modifications": [],
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "f813577a51de498d",
+    "name": "Salade d’œuf Trepaud",
+    "type": "consumable",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "e3d95e7d262a3fdf",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "salade",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Recette du menu de Luis. Affinités, alimentation et soins : moteur actuel. Prix de scène en Or (10 Arg = 1 Or).</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "salade",
+      "damageFormula": "0",
+      "slots": 0,
+      "price": 0.3,
+      "healFormula": "3",
+      "food": true,
+      "foodKind": "vegetable",
+      "duration": 3600,
+      "modifications": [],
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "a0cd833293b60032",
+    "name": "Rouille au Qyono pourpre",
+    "type": "consumable",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "e3d95e7d262a3fdf",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "rouille",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Recette du menu de Luis. Affinités, alimentation et soins : moteur actuel. Prix de scène en Or (10 Arg = 1 Or).</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "rouille",
+      "damageFormula": "0",
+      "slots": 0,
+      "price": 0.4,
+      "healFormula": "4",
+      "food": true,
+      "foodKind": "meat",
+      "duration": 3600,
+      "modifications": [
+        {
+          "attribute": "endurance",
+          "value": 10
+        }
+      ],
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "24741be02bbab852",
+    "name": "Homard et risotto",
+    "type": "consumable",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "e3d95e7d262a3fdf",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "homard",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Recette du menu de Luis. Affinités, alimentation et soins : moteur actuel. Prix de scène en Or (10 Arg = 1 Or).</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "homard",
+      "damageFormula": "0",
+      "slots": 0,
+      "price": 1,
+      "healFormula": "5",
+      "food": true,
+      "foodKind": "meat",
+      "duration": 3600,
+      "modifications": [
+        {
+          "attribute": "persuasion",
+          "value": 10
+        }
+      ],
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "5f767c94b8d02574",
+    "name": "Spécial Luis",
+    "type": "consumable",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "e3d95e7d262a3fdf",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "special-luis",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Recette du menu de Luis. Affinités, alimentation et soins : moteur actuel. Prix de scène en Or (10 Arg = 1 Or).</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "special-luis",
+      "damageFormula": "0",
+      "slots": 0,
+      "price": 0.4,
+      "healFormula": "4+1d4",
+      "food": true,
+      "foodKind": "meat",
+      "duration": 3600,
+      "modifications": [],
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "ab34b1deba9e7e1c",
+    "name": "Galette de Xlam",
+    "type": "consumable",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "e3d95e7d262a3fdf",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "galette",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Recette du menu de Luis. Affinités, alimentation et soins : moteur actuel. Prix de scène en Or (10 Arg = 1 Or).</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "galette",
+      "damageFormula": "0",
+      "slots": 0,
+      "price": 0.1,
+      "healFormula": "2",
+      "food": true,
+      "foodKind": "vegetable",
+      "duration": 3600,
+      "modifications": [],
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "0c800678747f2b79",
+    "name": "Jaune d’œuf",
+    "type": "consumable",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "e3d95e7d262a3fdf",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "jaune",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Recette du menu de Luis. Affinités, alimentation et soins : moteur actuel. Prix de scène en Or (10 Arg = 1 Or).</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "jaune",
+      "damageFormula": "0",
+      "slots": 0,
+      "price": 0.1,
+      "healFormula": "2",
+      "food": true,
+      "foodKind": "vegetable",
+      "duration": 3600,
+      "modifications": [],
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "e5fe5957f1615753",
+    "name": "Couteau de chasse",
+    "type": "weapon",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "couteau",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Profil natif ; les dégâts absents du texte sont une proposition locale (couteau, sabre, griffes, fléau, Fléau-Fist).</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "couteau",
+      "damageFormula": "10",
+      "slots": 1,
+      "price": 2,
+      "damageType": "physical",
+      "mode": "melee",
+      "attribute": "force",
+      "equipped": true,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "b19939c41f41851c",
+    "name": "Sabre marin",
+    "type": "weapon",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "sabre",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Profil natif ; les dégâts absents du texte sont une proposition locale (couteau, sabre, griffes, fléau, Fléau-Fist).</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "sabre",
+      "damageFormula": "10",
+      "slots": 1,
+      "price": 5,
+      "damageType": "physical",
+      "mode": "melee",
+      "attribute": "force",
+      "equipped": true,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "1df823926e10fb33",
+    "name": "Fusil Pilt",
+    "type": "weapon",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "fusil",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Profil natif ; les dégâts absents du texte sont une proposition locale (couteau, sabre, griffes, fléau, Fléau-Fist).</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "fusil",
+      "damageFormula": "15",
+      "slots": 1,
+      "price": 15,
+      "damageType": "physical",
+      "mode": "ranged",
+      "attribute": "force",
+      "equipped": true,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "302953edd6d70971",
+    "name": "Canon scié",
+    "type": "weapon",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "canon",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Profil natif ; les dégâts absents du texte sont une proposition locale (couteau, sabre, griffes, fléau, Fléau-Fist).</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "canon",
+      "damageFormula": "20",
+      "slots": 1,
+      "price": 20,
+      "damageType": "physical",
+      "mode": "ranged",
+      "attribute": "force",
+      "equipped": true,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "169e018fa6689059",
+    "name": "Fléau-Fist",
+    "type": "weapon",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "fist",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Profil natif ; les dégâts absents du texte sont une proposition locale (couteau, sabre, griffes, fléau, Fléau-Fist).</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "fist",
+      "damageFormula": "20",
+      "slots": 1,
+      "price": 0,
+      "damageType": "physical",
+      "mode": "melee",
+      "attribute": "force",
+      "equipped": true,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "19f550ee6480a0c7",
+    "name": "Qoacxann",
+    "type": "weapon",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "sarbacane",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Profil natif ; les dégâts absents du texte sont une proposition locale (couteau, sabre, griffes, fléau, Fléau-Fist).</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "sarbacane",
+      "damageFormula": "15",
+      "slots": 1,
+      "price": 0,
+      "damageType": "physical",
+      "mode": "ranged",
+      "attribute": "force",
+      "equipped": true,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "6d7432aaa5e1d7ca",
+    "name": "Épée commandante noxienne",
+    "type": "weapon",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "epee-noxienne",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Profil natif ; les dégâts absents du texte sont une proposition locale (couteau, sabre, griffes, fléau, Fléau-Fist).</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "epee-noxienne",
+      "damageFormula": "20",
+      "slots": 1,
+      "price": 0,
+      "damageType": "physical",
+      "mode": "melee",
+      "attribute": "force",
+      "equipped": true,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "29fa8e0701f85210",
+    "name": "Griffes marines",
+    "type": "weapon",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "griffe",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Profil natif ; les dégâts absents du texte sont une proposition locale (couteau, sabre, griffes, fléau, Fléau-Fist).</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "griffe",
+      "damageFormula": "5",
+      "slots": 1,
+      "price": 3,
+      "damageType": "physical",
+      "mode": "melee",
+      "attribute": "force",
+      "equipped": true,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "148de1a3bdefc4f2",
+    "name": "Fléau de Kionee",
+    "type": "weapon",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "fleau",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Profil natif ; les dégâts absents du texte sont une proposition locale (couteau, sabre, griffes, fléau, Fléau-Fist).</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "fleau",
+      "damageFormula": "15",
+      "slots": 1,
+      "price": 45,
+      "damageType": "physical",
+      "mode": "melee",
+      "attribute": "force",
+      "equipped": true,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "fc8c9acdebbdb49a",
+    "name": "Guitare",
+    "type": "relic",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "guitare",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Objet marchand de l’annexe ; les propriétés non chiffrées restent narratives et passent par le choix MJ. Pas de +10 inconnu attribué à Moalka.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "guitare",
+      "damageFormula": "0",
+      "slots": 0,
+      "price": 7,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "c1053c7e928fa960",
+    "name": "Harmonica",
+    "type": "relic",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "harmonica",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Objet marchand de l’annexe ; les propriétés non chiffrées restent narratives et passent par le choix MJ. Pas de +10 inconnu attribué à Moalka.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "harmonica",
+      "damageFormula": "0",
+      "slots": 0,
+      "price": 3,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "b231c8175ef24ab1",
+    "name": "Perles Aqueuses",
+    "type": "relic",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "perles",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Objet marchand de l’annexe ; les propriétés non chiffrées restent narratives et passent par le choix MJ. Pas de +10 inconnu attribué à Moalka.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "perles",
+      "damageFormula": "0",
+      "slots": 0,
+      "price": 10,
+      "duration": 1200,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "02b94a73d350afbd",
+    "name": "Fruits magiques",
+    "type": "consumable",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "e3d95e7d262a3fdf",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "fruits",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Objet marchand de l’annexe ; les propriétés non chiffrées restent narratives et passent par le choix MJ. Pas de +10 inconnu attribué à Moalka.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "fruits",
+      "damageFormula": "0",
+      "slots": 0,
+      "price": 2,
+      "healFormula": "5",
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "9384700de32a898e",
+    "name": "Graines de repères ioniennes",
+    "type": "relic",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "graines-ioniennes",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Objet marchand de l’annexe ; les propriétés non chiffrées restent narratives et passent par le choix MJ. Pas de +10 inconnu attribué à Moalka.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "graines-ioniennes",
+      "damageFormula": "0",
+      "slots": 0,
+      "price": 10,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "eacd63309501351a",
+    "name": "Moalka",
+    "type": "relic",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "moalka",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Objet marchand de l’annexe ; les propriétés non chiffrées restent narratives et passent par le choix MJ. Pas de +10 inconnu attribué à Moalka.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "moalka",
+      "damageFormula": "0",
+      "slots": 0,
+      "price": 20,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "5cfa47d5bc4ff40c",
+    "name": "Sac d’aventure boisé",
+    "type": "equipment",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "sac-boise",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Objet marchand de l’annexe ; les propriétés non chiffrées restent narratives et passent par le choix MJ. Pas de +10 inconnu attribué à Moalka.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "sac-boise",
+      "damageFormula": "0",
+      "slots": 1,
+      "price": 35,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "c989a11b03aee714",
+    "name": "Heaume d’Obsidienne",
+    "type": "equipment",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "heaume",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Objet marchand de l’annexe ; les propriétés non chiffrées restent narratives et passent par le choix MJ. Pas de +10 inconnu attribué à Moalka.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "heaume",
+      "damageFormula": "0",
+      "slots": 0,
+      "price": 25,
+      "slot": "head",
+      "bonuses": {
+        "intimidation": 10
+      },
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "e69b5f73c1d429ad",
+    "name": "Tenue de plaques",
+    "type": "equipment",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "plaque",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Objet marchand de l’annexe ; les propriétés non chiffrées restent narratives et passent par le choix MJ. Pas de +10 inconnu attribué à Moalka.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "plaque",
+      "damageFormula": "0",
+      "slots": 0,
+      "price": 4,
+      "slot": "torso",
+      "armor": 5,
+      "originalRarity": "blue"
+    }
+  },
+  {
+    "_id": "0a8fef2272ecabb4",
+    "name": "Tenue pirate",
+    "type": "equipment",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "folder": "1df88264115deb8b",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "pirate-tenue",
+        "contentVersion": "0.1.0"
+      }
+    },
+    "system": {
+      "description": "<p>Objet marchand de l’annexe ; les propriétés non chiffrées restent narratives et passent par le choix MJ. Pas de +10 inconnu attribué à Moalka.</p>",
+      "source": "Le Rituel du Marécage — adaptation du système 0.8.0",
+      "reference": "pirate-tenue",
+      "damageFormula": "0",
+      "slots": 0,
+      "price": 3,
+      "slot": "torso",
+      "hp": 5,
+      "originalRarity": "blue"
+    }
+  }
+]

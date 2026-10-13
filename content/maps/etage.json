@@ -1,0 +1,147 @@
+{
+  "key": "etage",
+  "name": "Antiquaire — étage",
+  "width": 2400,
+  "height": 1800,
+  "walls": [
+    {
+      "_id": "52f0f75549b76673",
+      "c": [
+        360,
+        240,
+        2040,
+        240
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "6cf88c312e9cbad6",
+      "c": [
+        360,
+        240,
+        360,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "eb496ae8b45c7a7c",
+      "c": [
+        2040,
+        240,
+        2040,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "8e1f23a49d8c5a45",
+      "c": [
+        360,
+        1500,
+        1155,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "dcbaf4ad5f16535a",
+      "c": [
+        1155,
+        1500,
+        1245,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 1,
+      "ds": 0
+    },
+    {
+      "_id": "1bb545fe7792aa63",
+      "c": [
+        1245,
+        1500,
+        2040,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    }
+  ],
+  "lights": [
+    {
+      "_id": "bd30897a61f9c45f",
+      "x": 1100,
+      "y": 700,
+      "config": {
+        "dim": 8,
+        "bright": 3,
+        "color": "#ffc276",
+        "alpha": 0.3,
+        "animation": {
+          "type": "torch",
+          "speed": 2,
+          "intensity": 3
+        }
+      }
+    },
+    {
+      "_id": "304ab79d8bcd5b1d",
+      "x": 1850,
+      "y": 1370,
+      "config": {
+        "dim": 8,
+        "bright": 3,
+        "color": "#ffc276",
+        "alpha": 0.3,
+        "animation": {
+          "type": "torch",
+          "speed": 2,
+          "intensity": 3
+        }
+      }
+    }
+  ],
+  "links": [
+    {
+      "x": 1200,
+      "y": 420,
+      "target": "antiquaire",
+      "tx": 1200,
+      "ty": 420,
+      "label": "Escalier / passage"
+    }
+  ],
+  "spawn": {
+    "x": 1020,
+    "y": 1560
+  },
+  "path": "modules/le-rituel-du-marecage/assets/maps/etage.webp"
+}

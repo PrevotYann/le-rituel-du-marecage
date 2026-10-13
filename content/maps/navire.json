@@ -1,0 +1,162 @@
+{
+  "key": "navire",
+  "name": "Le Flot Persistant — pont",
+  "width": 2400,
+  "height": 1800,
+  "walls": [
+    {
+      "_id": "5856d2da34827a1d",
+      "c": [
+        1200,
+        150,
+        1810,
+        600
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "eb636d5e9bf1f0ea",
+      "c": [
+        1810,
+        600,
+        1810,
+        1250
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "d8068187e78bb050",
+      "c": [
+        1810,
+        1250,
+        1620,
+        1600
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "7d85d31c753d54ba",
+      "c": [
+        1620,
+        1600,
+        780,
+        1600
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "0e63c8c9e432880e",
+      "c": [
+        780,
+        1600,
+        590,
+        1250
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "73a3d64caf658336",
+      "c": [
+        590,
+        1250,
+        590,
+        600
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "cc92859a1831111b",
+      "c": [
+        590,
+        600,
+        1200,
+        150
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    }
+  ],
+  "lights": [
+    {
+      "_id": "fbf86b4d9d4a5626",
+      "x": 900,
+      "y": 1400,
+      "config": {
+        "dim": 8,
+        "bright": 3,
+        "color": "#ffc276",
+        "alpha": 0.3,
+        "animation": {
+          "type": "torch",
+          "speed": 2,
+          "intensity": 3
+        }
+      }
+    },
+    {
+      "_id": "f9ebc430288c77a4",
+      "x": 1500,
+      "y": 1400,
+      "config": {
+        "dim": 8,
+        "bright": 3,
+        "color": "#ffc276",
+        "alpha": 0.3,
+        "animation": {
+          "type": "torch",
+          "speed": 2,
+          "intensity": 3
+        }
+      }
+    }
+  ],
+  "links": [
+    {
+      "x": 1200,
+      "y": 600,
+      "target": "cale",
+      "tx": 1200,
+      "ty": 600,
+      "label": "Escalier / passage"
+    }
+  ],
+  "spawn": {
+    "x": 1020,
+    "y": 1560
+  },
+  "path": "modules/le-rituel-du-marecage/assets/maps/navire.webp"
+}

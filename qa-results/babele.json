@@ -1,0 +1,13 @@
+{
+  "checks": [
+    "Babele 2.9.1 chargé",
+    "Adventure traduite en mémoire",
+    "Biographie Actor imbriquée traduite",
+    "Description Item embarqué traduite",
+    "Descriptions mécaniques non altérées",
+    "Localisation de page appliquée avant import",
+    "Description objet traduite après import"
+  ],
+  "babele": "2.9.1",
+  "errors": []
+}

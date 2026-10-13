@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "world": "Monde QA neuf, créé avant installation du ZIP",
+  "moduleInstallation": "Dossier extrait indépendant du dépôt",
+  "core": "14.368",
+  "system": "0.8.0",
+  "filesCompared": 227,
+  "nativeAdventure": {
+    "actors": 54,
+    "items": 49,
+    "journals": 28,
+    "scenes": 23
+  },
+  "runtimeChecks": 78,
+  "distinctAnnaYgrittePortraitsAndTokens": true,
+  "errors": []
+}

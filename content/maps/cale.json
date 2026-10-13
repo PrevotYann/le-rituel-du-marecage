@@ -1,0 +1,237 @@
+{
+  "key": "cale",
+  "name": "Le Flot Persistant — cale",
+  "width": 2400,
+  "height": 1800,
+  "walls": [
+    {
+      "_id": "3e4d3f61790c6f3a",
+      "c": [
+        360,
+        240,
+        2040,
+        240
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "837fbc831c7d0946",
+      "c": [
+        360,
+        240,
+        360,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "331edba89b6e06d6",
+      "c": [
+        2040,
+        240,
+        2040,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "613001d950ec5695",
+      "c": [
+        360,
+        1500,
+        1155,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "6cb469b52a538940",
+      "c": [
+        1155,
+        1500,
+        1245,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 1,
+      "ds": 0
+    },
+    {
+      "_id": "ec1388ba5c203a0b",
+      "c": [
+        1245,
+        1500,
+        2040,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "1ce1190e4a46a545",
+      "c": [
+        900,
+        240,
+        900,
+        780
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "d269fc377aca3474",
+      "c": [
+        900,
+        870,
+        900,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "a973343270d3535f",
+      "c": [
+        900,
+        780,
+        900,
+        870
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 1,
+      "ds": 0
+    },
+    {
+      "_id": "f5b993814d76748b",
+      "c": [
+        1540,
+        240,
+        1540,
+        900
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "079d379c70e41947",
+      "c": [
+        1540,
+        990,
+        1540,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "cc79736e6b4acef2",
+      "c": [
+        1540,
+        900,
+        1540,
+        990
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 1,
+      "ds": 0
+    }
+  ],
+  "lights": [
+    {
+      "_id": "29f0efc3e4d67764",
+      "x": 1100,
+      "y": 700,
+      "config": {
+        "dim": 8,
+        "bright": 3,
+        "color": "#ffc276",
+        "alpha": 0.3,
+        "animation": {
+          "type": "torch",
+          "speed": 2,
+          "intensity": 3
+        }
+      }
+    },
+    {
+      "_id": "203493d4a26a1bc8",
+      "x": 1850,
+      "y": 1370,
+      "config": {
+        "dim": 8,
+        "bright": 3,
+        "color": "#ffc276",
+        "alpha": 0.3,
+        "animation": {
+          "type": "torch",
+          "speed": 2,
+          "intensity": 3
+        }
+      }
+    }
+  ],
+  "links": [
+    {
+      "x": 1200,
+      "y": 420,
+      "target": "navire",
+      "tx": 1200,
+      "ty": 600,
+      "label": "Escalier / passage"
+    }
+  ],
+  "spawn": {
+    "x": 1020,
+    "y": 1560
+  },
+  "path": "modules/le-rituel-du-marecage/assets/maps/cale.webp"
+}

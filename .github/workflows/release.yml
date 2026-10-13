@@ -1,0 +1,41 @@
+name: Release installable
+on:
+  push:
+    tags: ['v*']
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - run: node tools/release.mjs
+      - name: Verify tag and archive structure
+        run: |
+          node -e 'const m=require("./module.json");if(process.env.GITHUB_REF_NAME!=="v"+m.version)process.exit(1)'
+          python - <<'PY'
+          import glob, hashlib, json, pathlib, zipfile
+          manifest = json.loads(pathlib.Path('module.json').read_text())
+          archive = pathlib.Path(glob.glob('dist/*.zip')[0])
+          with zipfile.ZipFile(archive) as z:
+              assert z.testzip() is None
+              assert all(n.startswith(manifest['id'] + '/') and '..' not in n.split('/') for n in z.namelist())
+              assert json.loads(z.read(manifest['id'] + '/module.json')) == manifest
+              assert not any(n.startswith(manifest['id'] + '/' + p) for n in z.namelist() for p in ['.qa/', '.private-sources/', 'node_modules/'])
+          assert pathlib.Path('dist/SHA256SUMS').read_text().split()[0] == hashlib.sha256(archive.read_bytes()).hexdigest()
+          print(f'{archive}: archive et manifeste vérifiés')
+          PY
+      - uses: softprops/action-gh-release@v2
+        with:
+          name: Le Rituel du Marécage ${{ github.ref_name }}
+          body_path: RELEASE-NOTES.md
+          files: |
+            dist/*.zip
+            dist/module.json
+            dist/SHA256SUMS

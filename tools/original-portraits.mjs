@@ -1,0 +1,5 @@
+import fs from 'node:fs';
+import sharp from 'sharp';
+const files=JSON.parse(fs.readFileSync('.private-sources/original-portrait-files.json'));
+for(const [key,file]of Object.entries(files)){await sharp('C:/Users/yannp/.codex/generated_images/01a13500-d221-72b0-babd-07a178a56c63/'+file).resize(600,600).webp({quality:92}).toFile('assets/portraits/'+key+'.webp');const image=await sharp('assets/portraits/'+key+'.webp').resize(400,400).composite([{input:Buffer.from('<svg width="400" height="400"><circle cx="200" cy="200" r="192" fill="white"/></svg>'),blend:'dest-in'}]).png().toBuffer();await sharp(image).composite([{input:Buffer.from('<svg width="400" height="400"><circle cx="200" cy="200" r="192" fill="none" stroke="#b6a570" stroke-width="10"/></svg>')}]).png().toFile('assets/tokens/'+key+'.png');}
+fs.writeFileSync('content/original-portraits.json',JSON.stringify({tool:'image_gen intégré',subjects:Object.keys(files),provenance:'Interprétations originales ; aucun portrait source individuel attribué à ces personnages.'},null,2));

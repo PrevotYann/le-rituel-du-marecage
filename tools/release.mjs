@@ -1,0 +1,11 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import crypto from 'node:crypto';
+import archiver from 'archiver';
+const m=JSON.parse(fs.readFileSync('module.json')),root=m.id,outputDir='dist';fs.mkdirSync(outputDir,{recursive:true});
+const archive=archiver('zip',{zlib:{level:9}}),file=path.join(outputDir,`${root}-${m.version}.zip`),stream=fs.createWriteStream(file);archive.pipe(stream);
+for(const directory of ['scripts','styles','lang','assets','packs','translations'])archive.directory(directory,root+'/'+directory,entry=>{if(/(?:LOCK|LOG(?:\.old)?|\-geometry\.webp)$/.test(entry.name))return false;return entry;});
+for(const name of ['module.json','README.md','CREDITS.md','LICENSE','CONTENT-LICENSE.md','COVERAGE.md'])archive.file(name,{name:root+'/'+name});
+for(const name of ['system-references.json','system-catalog.json','import-plan.json','merchants.json','adaptations.json','assets.json','context-abilities.json','coverage.json','portrait-crops.json','original-portraits.json','compatibility-audit.json'])archive.file('content/'+name,{name:root+'/content/'+name});
+await archive.finalize();await new Promise((resolve,reject)=>{stream.on('close',resolve);stream.on('error',reject)});fs.copyFileSync('module.json',outputDir+'/module.json');
+const hash=crypto.createHash('sha256').update(fs.readFileSync(file)).digest('hex');fs.writeFileSync(outputDir+'/SHA256SUMS',hash+'  '+path.basename(file)+'\n');console.log(file+' · '+fs.statSync(file).size+' octets · SHA-256 '+hash);

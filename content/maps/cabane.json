@@ -1,0 +1,147 @@
+{
+  "key": "cabane",
+  "name": "Barry — cabane et attente",
+  "width": 2400,
+  "height": 1800,
+  "walls": [
+    {
+      "_id": "f556444bc13a0310",
+      "c": [
+        360,
+        240,
+        2040,
+        240
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "749a5f661b688cf6",
+      "c": [
+        360,
+        240,
+        360,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "0d0d6bec40aefcee",
+      "c": [
+        2040,
+        240,
+        2040,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "16face4d8b38759b",
+      "c": [
+        360,
+        1500,
+        1155,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "ad0d92083b6678ca",
+      "c": [
+        1155,
+        1500,
+        1245,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 1,
+      "ds": 0
+    },
+    {
+      "_id": "b8220213ffea59d6",
+      "c": [
+        1245,
+        1500,
+        2040,
+        1500
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    }
+  ],
+  "lights": [
+    {
+      "_id": "fae7d586dc54c0bf",
+      "x": 1100,
+      "y": 700,
+      "config": {
+        "dim": 8,
+        "bright": 3,
+        "color": "#ffc276",
+        "alpha": 0.3,
+        "animation": {
+          "type": "torch",
+          "speed": 2,
+          "intensity": 3
+        }
+      }
+    },
+    {
+      "_id": "c25c8a93b53666cd",
+      "x": 1850,
+      "y": 1370,
+      "config": {
+        "dim": 8,
+        "bright": 3,
+        "color": "#ffc276",
+        "alpha": 0.3,
+        "animation": {
+          "type": "torch",
+          "speed": 2,
+          "intensity": 3
+        }
+      }
+    }
+  ],
+  "links": [
+    {
+      "x": 1700,
+      "y": 900,
+      "target": "barry",
+      "tx": 1200,
+      "ty": 1200,
+      "label": "Escalier / passage"
+    }
+  ],
+  "spawn": {
+    "x": 1020,
+    "y": 1560
+  },
+  "path": "modules/le-rituel-du-marecage/assets/maps/cabane.webp"
+}

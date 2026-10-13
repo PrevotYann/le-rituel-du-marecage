@@ -1,0 +1,122 @@
+{
+  "key": "vision",
+  "name": "Vision — tombe et racines",
+  "width": 2400,
+  "height": 1800,
+  "walls": [
+    {
+      "_id": "b6acf6e677a97540",
+      "c": [
+        400,
+        300,
+        2000,
+        300
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "6f3ed22571f6f46f",
+      "c": [
+        400,
+        300,
+        400,
+        1450
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "1592e1ed9a361a02",
+      "c": [
+        2000,
+        300,
+        2000,
+        1450
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "9d874642bdbf21d8",
+      "c": [
+        400,
+        1450,
+        1155,
+        1450
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    },
+    {
+      "_id": "00f6e94eea7e8417",
+      "c": [
+        1155,
+        1450,
+        1245,
+        1450
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 1,
+      "ds": 0
+    },
+    {
+      "_id": "4ac83151e575c5e3",
+      "c": [
+        1245,
+        1450,
+        2000,
+        1450
+      ],
+      "move": 20,
+      "sight": 20,
+      "light": 20,
+      "sound": 20,
+      "door": 0,
+      "ds": 0
+    }
+  ],
+  "lights": [
+    {
+      "_id": "255c25bb9c729a73",
+      "x": 1250,
+      "y": 760,
+      "config": {
+        "dim": 8,
+        "bright": 3,
+        "color": "#ffc276",
+        "alpha": 0.3,
+        "animation": {
+          "type": "torch",
+          "speed": 2,
+          "intensity": 3
+        }
+      }
+    }
+  ],
+  "links": [],
+  "spawn": {
+    "x": 1020,
+    "y": 1560
+  },
+  "path": "modules/le-rituel-du-marecage/assets/maps/vision.webp"
+}

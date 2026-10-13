@@ -1,0 +1,40 @@
+{
+  "key": "quais",
+  "name": "Harelport — quais",
+  "width": 2400,
+  "height": 1800,
+  "walls": [],
+  "lights": [
+    {
+      "_id": "35b90ede0842655b",
+      "x": 950,
+      "y": 665,
+      "config": {
+        "dim": 8,
+        "bright": 3,
+        "color": "#ffc276",
+        "alpha": 0.3,
+        "animation": {
+          "type": "torch",
+          "speed": 2,
+          "intensity": 3
+        }
+      }
+    }
+  ],
+  "links": [
+    {
+      "x": 1930,
+      "y": 680,
+      "target": "navire",
+      "tx": 900,
+      "ty": 1400,
+      "label": "Embarquer"
+    }
+  ],
+  "spawn": {
+    "x": 1020,
+    "y": 1560
+  },
+  "path": "modules/le-rituel-du-marecage/assets/maps/quais.webp"
+}

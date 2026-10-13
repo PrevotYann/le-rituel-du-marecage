@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "629dbaaacdde7e0a",
+    "name": "Le Rituel — pupitre MJ",
+    "type": "script",
+    "scope": "global",
+    "img": "modules/le-rituel-du-marecage/assets/icons/item.svg",
+    "command": "if (game.user.isGM) game.rituel.dashboard(); else ui.notifications.warn(game.i18n.localize(\"RITUEL.GMOnly\"));",
+    "folder": "687d0abf6cdb674c",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "dashboard",
+        "contentVersion": "0.1.0"
+      }
+    }
+  }
+]

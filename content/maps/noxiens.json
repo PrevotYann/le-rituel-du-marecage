@@ -1,0 +1,31 @@
+{
+  "key": "noxiens",
+  "name": "Oqlan — rencontre noxienne",
+  "width": 2400,
+  "height": 1800,
+  "walls": [],
+  "lights": [
+    {
+      "_id": "582e4f1426ebd94e",
+      "x": 1180,
+      "y": 980,
+      "config": {
+        "dim": 8,
+        "bright": 3,
+        "color": "#ffc276",
+        "alpha": 0.3,
+        "animation": {
+          "type": "torch",
+          "speed": 2,
+          "intensity": 3
+        }
+      }
+    }
+  ],
+  "links": [],
+  "spawn": {
+    "x": 1020,
+    "y": 1560
+  },
+  "path": "modules/le-rituel-du-marecage/assets/maps/noxiens.webp"
+}

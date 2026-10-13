@@ -1,0 +1,10 @@
+{
+  "tool": "Built-in image_gen",
+  "license": "Visuels originaux générés pour cette adaptation.",
+  "maps": [
+    "auberge",
+    "antiquaire",
+    "cave"
+  ],
+  "prompt": "Retexturer les plans de géométrie sans déplacer les murs, portes, puits et escaliers. Vue orthographique du dessus, matériaux détaillés, aucun texte ni grille. Les images source restent des références privées."
+}

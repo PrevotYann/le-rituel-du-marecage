@@ -1,0 +1,5761 @@
+[
+  {
+    "_id": "2ae715c502d0634c",
+    "name": "Omatqan — village",
+    "folder": "f58c83ba5d8d23c8",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/maps/omatqan-art.webp"
+    },
+    "width": 2400,
+    "height": 1800,
+    "padding": 0,
+    "grid": {
+      "type": 1,
+      "size": 60,
+      "distance": 1,
+      "units": "m",
+      "alpha": 0.13,
+      "color": "#d8cfaa"
+    },
+    "tokenVision": true,
+    "environment": {
+      "darknessLevel": 0.25,
+      "globalLight": {
+        "enabled": true
+      }
+    },
+    "walls": [
+      {
+        "_id": "5e9c9cb1bf0aad78",
+        "c": [
+          1536,
+          378,
+          2160,
+          378
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "ce2ee92ddac3bded",
+        "c": [
+          1536,
+          378,
+          1536,
+          918
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "e982cec98333434a",
+        "c": [
+          2160,
+          378,
+          2160,
+          918
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "4c4e0e22217b848d",
+        "c": [
+          1536,
+          918,
+          1805,
+          918
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "5ac4c1f1d20acd16",
+        "c": [
+          1805,
+          918,
+          1891,
+          918
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "a6547330c6344242",
+        "c": [
+          1891,
+          918,
+          2160,
+          918
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "f9f98b44a02dbb71",
+        "c": [
+          89,
+          423,
+          437,
+          423
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "2e53486b0bbfcadf",
+        "c": [
+          89,
+          423,
+          89,
+          855
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "2179caab9b69119e",
+        "c": [
+          437,
+          423,
+          437,
+          855
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "68530686bafb5de3",
+        "c": [
+          89,
+          855,
+          220,
+          855
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "435f265b0daf66cd",
+        "c": [
+          220,
+          855,
+          306,
+          855
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "a80e465598688cc8",
+        "c": [
+          306,
+          855,
+          437,
+          855
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "752f16fd1d5fa4c2",
+        "c": [
+          1416,
+          1170,
+          1764,
+          1170
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "f088d9513def88d0",
+        "c": [
+          1416,
+          1170,
+          1416,
+          1368
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "74c72ca9293606b4",
+        "c": [
+          1764,
+          1170,
+          1764,
+          1368
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "52942b6aa9079ee2",
+        "c": [
+          1416,
+          1368,
+          1547,
+          1368
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "7f78a12c05837b7e",
+        "c": [
+          1547,
+          1368,
+          1633,
+          1368
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "dde718a1b2f340dc",
+        "c": [
+          1633,
+          1368,
+          1764,
+          1368
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "04a25a2aa2c9cc7e",
+        "c": [
+          1908,
+          1197,
+          2244,
+          1197
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "1a5e413d63442a6f",
+        "c": [
+          1908,
+          1197,
+          1908,
+          1431
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "8f5c1bed75ae942f",
+        "c": [
+          2244,
+          1197,
+          2244,
+          1431
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "efd974c86a3dfeef",
+        "c": [
+          1908,
+          1431,
+          2033,
+          1431
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "e26bb7a7ccfb7bd0",
+        "c": [
+          2033,
+          1431,
+          2119,
+          1431
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "ee3ffc1006e78778",
+        "c": [
+          2119,
+          1431,
+          2244,
+          1431
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "2d44d8772de4e162",
+        "c": [
+          492,
+          94,
+          996,
+          94
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "7f896541a6cebae8",
+        "c": [
+          492,
+          94,
+          492,
+          364
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "288caf2e20c7fd45",
+        "c": [
+          996,
+          94,
+          996,
+          364
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "40f60bb45a4c6105",
+        "c": [
+          492,
+          364,
+          701,
+          364
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "19f7602433347634",
+        "c": [
+          701,
+          364,
+          787,
+          364
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "003f3786a208d1fa",
+        "c": [
+          787,
+          364,
+          996,
+          364
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "e45024ec3eef6cb2",
+        "c": [
+          305,
+          49,
+          461,
+          49
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "26ace2832eb40c1c",
+        "c": [
+          305,
+          49,
+          305,
+          238
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "f74ac5af406d4aa1",
+        "c": [
+          461,
+          49,
+          461,
+          238
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "68a53ec8ea08da23",
+        "c": [
+          305,
+          238,
+          340,
+          238
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "25a644b86dde0082",
+        "c": [
+          340,
+          238,
+          426,
+          238
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "45e5ab491e80106f",
+        "c": [
+          426,
+          238,
+          461,
+          238
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "a4f1940a350f3323",
+        "c": [
+          689,
+          868,
+          1090,
+          868
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "946845829ef4a372",
+        "c": [
+          689,
+          868,
+          689,
+          1210
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "587c50caf3c8431a",
+        "c": [
+          1090,
+          868,
+          1090,
+          1210
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "9bc571f1c611ce54",
+        "c": [
+          689,
+          1210,
+          846,
+          1210
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "09eff9711ba30a4c",
+        "c": [
+          846,
+          1210,
+          932,
+          1210
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "5ce9eaee44c921dd",
+        "c": [
+          932,
+          1210,
+          1090,
+          1210
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "6d12e2f0c3ec6960",
+        "c": [
+          1860,
+          144,
+          2057,
+          144
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "9b63c26ce3d940ff",
+        "c": [
+          1860,
+          144,
+          1860,
+          351
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "7ede38417290f351",
+        "c": [
+          2057,
+          144,
+          2057,
+          351
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "660e90a38891ac01",
+        "c": [
+          1860,
+          351,
+          1915,
+          351
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "d66ebe0e51d7ea62",
+        "c": [
+          1915,
+          351,
+          2002,
+          351
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "eeb28faf2480f985",
+        "c": [
+          2002,
+          351,
+          2057,
+          351
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      }
+    ],
+    "lights": [
+      {
+        "_id": "0819ea2571eb0d09",
+        "x": 1530,
+        "y": 930,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      },
+      {
+        "_id": "1b7252053b695430",
+        "x": 830,
+        "y": 890,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      }
+    ],
+    "tokens": [
+      {
+        "_id": "294b97746a2844eb",
+        "name": "Toadrick",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/toadrick.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "93d49432dcb8ed9d",
+        "x": 1500,
+        "y": 980,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "omatqan:token:0",
+            "contentVersion": "0.1.0",
+            "actorKey": "toadrick"
+          }
+        }
+      }
+    ],
+    "notes": [],
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "omatqan",
+        "contentVersion": "0.1.0",
+        "spawn": {
+          "x": 1440,
+          "y": 1440
+        },
+        "links": [
+          {
+            "x": 1830,
+            "y": 930,
+            "target": "auberge",
+            "tx": 1200,
+            "ty": 1450,
+            "label": "O bore de lo"
+          },
+          {
+            "x": 400,
+            "y": 820,
+            "target": "duplex",
+            "tx": 1200,
+            "ty": 1180,
+            "label": "Duplex"
+          },
+          {
+            "x": 2240,
+            "y": 1200,
+            "target": "ruelles",
+            "tx": 1100,
+            "ty": 650,
+            "label": "Ruelles"
+          },
+          {
+            "x": 1200,
+            "y": 100,
+            "target": "intersection",
+            "tx": 1200,
+            "ty": 1500,
+            "label": "Oqlan"
+          }
+        ],
+        "toxic": null
+      }
+    }
+  },
+  {
+    "_id": "99c475e4c99254f3",
+    "name": "O bore de lo — salle et réserves",
+    "folder": "f58c83ba5d8d23c8",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/maps/auberge.webp"
+    },
+    "width": 2400,
+    "height": 1800,
+    "padding": 0,
+    "grid": {
+      "type": 1,
+      "size": 60,
+      "distance": 1,
+      "units": "m",
+      "alpha": 0.13,
+      "color": "#d8cfaa"
+    },
+    "tokenVision": true,
+    "environment": {
+      "darknessLevel": 0.25,
+      "globalLight": {
+        "enabled": true
+      }
+    },
+    "walls": [
+      {
+        "_id": "0dd88246ff2eb45d",
+        "c": [
+          360,
+          240,
+          2040,
+          240
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "d9bd4d843c9bf54d",
+        "c": [
+          2040,
+          240,
+          2040,
+          1500
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "f852edd05055e9e2",
+        "c": [
+          360,
+          1500,
+          1155,
+          1500
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "e789f75a676ff085",
+        "c": [
+          1155,
+          1500,
+          1245,
+          1500
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "b0ba8bce67026f5c",
+        "c": [
+          1245,
+          1500,
+          2040,
+          1500
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "0062790d5a3f1c69",
+        "c": [
+          900,
+          240,
+          900,
+          780
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "1025531a3f989427",
+        "c": [
+          900,
+          870,
+          900,
+          1500
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "c68663d35d713c0b",
+        "c": [
+          900,
+          780,
+          900,
+          870
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "c6972f2a864d89eb",
+        "c": [
+          1540,
+          240,
+          1540,
+          900
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "cc592d36c8756f29",
+        "c": [
+          1540,
+          990,
+          1540,
+          1500
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "d161d48769300a24",
+        "c": [
+          1540,
+          900,
+          1540,
+          990
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "3f680ae91ab5fce3",
+        "c": [
+          360,
+          702,
+          360,
+          792
+        ],
+        "move": 20,
+        "sight": 10,
+        "light": 10,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "421c6c2268d36bdb",
+        "c": [
+          360,
+          792,
+          360,
+          1499
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "421c6c2268d36bdb",
+        "c": [
+          360,
+          239,
+          360,
+          702
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "6dcc4ee33d60a829",
+        "c": [
+          360,
+          702,
+          360,
+          792
+        ],
+        "move": 20,
+        "sight": 10,
+        "light": 10,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "44f57a2e6de83fe6",
+        "c": [
+          360,
+          792,
+          360,
+          1499
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      }
+    ],
+    "lights": [
+      {
+        "_id": "2947ce70a74dfd5c",
+        "x": 600,
+        "y": 1320,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      },
+      {
+        "_id": "282606bc41dc7cd4",
+        "x": 1810,
+        "y": 400,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      },
+      {
+        "_id": "5f966842189547fc",
+        "x": 1100,
+        "y": 700,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      },
+      {
+        "_id": "8ca02cff8fc9b590",
+        "x": 1850,
+        "y": 1370,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      }
+    ],
+    "tokens": [
+      {
+        "_id": "36e9adb0150d7a6d",
+        "name": "Luis",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/luis.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "febbcd7938a76ac4",
+        "x": 960,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "auberge:token:0",
+            "contentVersion": "0.1.0",
+            "actorKey": "luis"
+          }
+        }
+      },
+      {
+        "_id": "17925f5be924331b",
+        "name": "Teekaya / Oma",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/teekaya.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "912830ebd80bdda3",
+        "x": 1100,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "auberge:token:1",
+            "contentVersion": "0.1.0",
+            "actorKey": "teekaya"
+          }
+        }
+      },
+      {
+        "_id": "3786e9f74c9d011c",
+        "name": "Diz Torenno",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/diz.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "b8ca3a44578989a4",
+        "x": 1240,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "auberge:token:2",
+            "contentVersion": "0.1.0",
+            "actorKey": "diz"
+          }
+        }
+      },
+      {
+        "_id": "62649227ca8e4a9a",
+        "name": "Pete",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/pete.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "157e3e1550c63590",
+        "x": 1380,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "auberge:token:3",
+            "contentVersion": "0.1.0",
+            "actorKey": "pete"
+          }
+        }
+      },
+      {
+        "_id": "f871e75cc05efb3a",
+        "name": "Blake",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/blake.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "399a75f092e3d224",
+        "x": 1520,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "auberge:token:4",
+            "contentVersion": "0.1.0",
+            "actorKey": "blake"
+          }
+        }
+      },
+      {
+        "_id": "cc79e8fae576ea83",
+        "name": "Anna",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/anna.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "f0e93dae8f6bca28",
+        "x": 1660,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "auberge:token:5",
+            "contentVersion": "0.1.0",
+            "actorKey": "anna"
+          }
+        }
+      },
+      {
+        "_id": "0750140bdd14982e",
+        "name": "Ygritte",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/ygritte.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "da4dfebfa44e84c0",
+        "x": 960,
+        "y": 840,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "auberge:token:6",
+            "contentVersion": "0.1.0",
+            "actorKey": "ygritte"
+          }
+        }
+      },
+      {
+        "_id": "65fb8711a1f21096",
+        "name": "Bakki",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/bakki.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "a212c83667601b1c",
+        "x": 1100,
+        "y": 840,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "auberge:token:7",
+            "contentVersion": "0.1.0",
+            "actorKey": "bakki"
+          }
+        }
+      },
+      {
+        "_id": "d69ff77bc6e26edc",
+        "name": "Braconnier des marais",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/braconnier.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": -1,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "c4b8298a249b12c1",
+        "x": 1240,
+        "y": 840,
+        "hidden": true,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "auberge:token:8",
+            "contentVersion": "0.1.0",
+            "actorKey": "braconnier"
+          }
+        }
+      },
+      {
+        "_id": "5f509b6ef86498cc",
+        "name": "Braconnier des marais",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/braconnier.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": -1,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "c4b8298a249b12c1",
+        "x": 1380,
+        "y": 840,
+        "hidden": true,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "auberge:token:9",
+            "contentVersion": "0.1.0",
+            "actorKey": "braconnier"
+          }
+        }
+      },
+      {
+        "_id": "3b68da008aeedf4d",
+        "name": "Braconnier des marais",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/braconnier.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": -1,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "c4b8298a249b12c1",
+        "x": 1520,
+        "y": 840,
+        "hidden": true,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "auberge:token:10",
+            "contentVersion": "0.1.0",
+            "actorKey": "braconnier"
+          }
+        }
+      },
+      {
+        "_id": "f493c2768a121d45",
+        "name": "Braconnier des marais",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/braconnier.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": -1,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "c4b8298a249b12c1",
+        "x": 1660,
+        "y": 840,
+        "hidden": true,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "auberge:token:11",
+            "contentVersion": "0.1.0",
+            "actorKey": "braconnier"
+          }
+        }
+      }
+    ],
+    "notes": [],
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "auberge",
+        "contentVersion": "0.1.0",
+        "spawn": {
+          "x": 1020,
+          "y": 1560
+        },
+        "links": [],
+        "toxic": null
+      }
+    }
+  },
+  {
+    "_id": "8fff267783fc68e8",
+    "name": "Ruelles — repère des braconniers",
+    "folder": "f58c83ba5d8d23c8",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/maps/ruelles-art.webp"
+    },
+    "width": 2400,
+    "height": 1800,
+    "padding": 0,
+    "grid": {
+      "type": 1,
+      "size": 60,
+      "distance": 1,
+      "units": "m",
+      "alpha": 0.13,
+      "color": "#d8cfaa"
+    },
+    "tokenVision": true,
+    "environment": {
+      "darknessLevel": 0.25,
+      "globalLight": {
+        "enabled": true
+      }
+    },
+    "walls": [
+      {
+        "_id": "2c83364dce9962f1",
+        "c": [
+          324,
+          144,
+          912,
+          144
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "35349434f107b9f2",
+        "c": [
+          324,
+          144,
+          324,
+          567
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "c50e08eedf11d72a",
+        "c": [
+          912,
+          144,
+          912,
+          567
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "098850ffcd5b901d",
+        "c": [
+          324,
+          567,
+          575,
+          567
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "f1ed20be1c9eb1bd",
+        "c": [
+          575,
+          567,
+          661,
+          567
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "35b72c22205f9a4a",
+        "c": [
+          661,
+          567,
+          912,
+          567
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "ecefcedc291914e8",
+        "c": [
+          360,
+          729,
+          948,
+          729
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "cb0c75fe66fecab3",
+        "c": [
+          360,
+          729,
+          360,
+          1188
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "f8ea73687e2f8217",
+        "c": [
+          948,
+          729,
+          948,
+          1188
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "6af31cfff3dcd538",
+        "c": [
+          360,
+          1188,
+          611,
+          1188
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "adecac2cda87b354",
+        "c": [
+          611,
+          1188,
+          697,
+          1188
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "d3cccecbd77a0bc1",
+        "c": [
+          697,
+          1188,
+          948,
+          1188
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "b371272c77468c3c",
+        "c": [
+          1296,
+          189,
+          2220,
+          189
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "8169258ceef4e444",
+        "c": [
+          1296,
+          189,
+          1296,
+          990
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "575591d610a39b7f",
+        "c": [
+          2220,
+          189,
+          2220,
+          990
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "52be0fbe78601f5c",
+        "c": [
+          1296,
+          990,
+          1709,
+          990
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "d10d051de602573d",
+        "c": [
+          1709,
+          990,
+          1795,
+          990
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "26e7c2f6fa39f635",
+        "c": [
+          1795,
+          990,
+          2220,
+          990
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      }
+    ],
+    "lights": [
+      {
+        "_id": "498fc80aa70adfb5",
+        "x": 1850,
+        "y": 740,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      }
+    ],
+    "tokens": [
+      {
+        "_id": "95e6e294f7614b0f",
+        "name": "Brik",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/brik.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "72922a76d09778b0",
+        "x": 960,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "ruelles:token:0",
+            "contentVersion": "0.1.0",
+            "actorKey": "brik"
+          }
+        }
+      },
+      {
+        "_id": "597a6a2ce942f861",
+        "name": "Brak",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/brak.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "ef6cf916add26f59",
+        "x": 1100,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "ruelles:token:1",
+            "contentVersion": "0.1.0",
+            "actorKey": "brak"
+          }
+        }
+      },
+      {
+        "_id": "37b2c28c70faf908",
+        "name": "Braconnier des marais",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/braconnier.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": -1,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "c4b8298a249b12c1",
+        "x": 1240,
+        "y": 700,
+        "hidden": true,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "ruelles:token:2",
+            "contentVersion": "0.1.0",
+            "actorKey": "braconnier"
+          }
+        }
+      }
+    ],
+    "notes": [],
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "ruelles",
+        "contentVersion": "0.1.0",
+        "spawn": {
+          "x": 1020,
+          "y": 1560
+        },
+        "links": [],
+        "toxic": null
+      }
+    }
+  },
+  {
+    "_id": "a903680b4018af03",
+    "name": "Duplex — rez-de-chaussée",
+    "folder": "f58c83ba5d8d23c8",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/maps/duplex-art.webp"
+    },
+    "width": 2400,
+    "height": 1800,
+    "padding": 0,
+    "grid": {
+      "type": 1,
+      "size": 60,
+      "distance": 1,
+      "units": "m",
+      "alpha": 0.13,
+      "color": "#d8cfaa"
+    },
+    "tokenVision": true,
+    "environment": {
+      "darknessLevel": 0.25,
+      "globalLight": {
+        "enabled": true
+      }
+    },
+    "walls": [
+      {
+        "_id": "76d2d7dfddc708a2",
+        "c": [
+          216,
+          297,
+          2184,
+          297
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "ba0579e8fabf48db",
+        "c": [
+          216,
+          297,
+          216,
+          1143
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "cd0acf458c7353f6",
+        "c": [
+          2184,
+          297,
+          2184,
+          1143
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "bb1e46ccfe16d7a4",
+        "c": [
+          216,
+          1143,
+          1157,
+          1143
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "c678a67671e97262",
+        "c": [
+          1157,
+          1143,
+          1243,
+          1143
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "d2bc414599d3af8e",
+        "c": [
+          1243,
+          1143,
+          2184,
+          1143
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      }
+    ],
+    "lights": [
+      {
+        "_id": "04bdc933d260d333",
+        "x": 1100,
+        "y": 700,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      },
+      {
+        "_id": "6944f67123505ff8",
+        "x": 1850,
+        "y": 1370,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      }
+    ],
+    "tokens": [],
+    "notes": [],
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "duplex",
+        "contentVersion": "0.1.0",
+        "spawn": {
+          "x": 1020,
+          "y": 1560
+        },
+        "links": [
+          {
+            "x": 1200,
+            "y": 400,
+            "target": "chambre",
+            "tx": 1200,
+            "ty": 400,
+            "label": "Escalier / passage"
+          }
+        ],
+        "toxic": null
+      }
+    }
+  },
+  {
+    "_id": "47dde42aced57da8",
+    "name": "Duplex — chambre de Taoxana",
+    "folder": "f58c83ba5d8d23c8",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/maps/chambre-art.webp"
+    },
+    "width": 2400,
+    "height": 1800,
+    "padding": 0,
+    "grid": {
+      "type": 1,
+      "size": 60,
+      "distance": 1,
+      "units": "m",
+      "alpha": 0.13,
+      "color": "#d8cfaa"
+    },
+    "tokenVision": true,
+    "environment": {
+      "darknessLevel": 0.7,
+      "globalLight": {
+        "enabled": false
+      }
+    },
+    "walls": [
+      {
+        "_id": "b83600ae2a71b6d3",
+        "c": [
+          312,
+          216,
+          2184,
+          216
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "a9268dc3af330e63",
+        "c": [
+          312,
+          216,
+          312,
+          1242
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "ecb57cdb0bd37317",
+        "c": [
+          2184,
+          216,
+          2184,
+          1242
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "ddbf8a33ce8e1221",
+        "c": [
+          312,
+          1242,
+          1205,
+          1242
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "a5ba454937d12e1c",
+        "c": [
+          1205,
+          1242,
+          1291,
+          1242
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "538094b4991338e2",
+        "c": [
+          1291,
+          1242,
+          2184,
+          1242
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      }
+    ],
+    "lights": [
+      {
+        "_id": "f126fd2b3d0355b7",
+        "x": 480,
+        "y": 640,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      },
+      {
+        "_id": "d108ed40f736f621",
+        "x": 1690,
+        "y": 1130,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      },
+      {
+        "_id": "a27943a4828bd077",
+        "x": 1100,
+        "y": 700,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      },
+      {
+        "_id": "051e14d3d708ff00",
+        "x": 1850,
+        "y": 1370,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      }
+    ],
+    "tokens": [
+      {
+        "_id": "7c51c5c18e17a5df",
+        "name": "Taoxana — forme physique",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/taoxana-vision.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": -1,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "aa53cd7f024ef3ea",
+        "x": 960,
+        "y": 700,
+        "hidden": true,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "chambre:token:0",
+            "contentVersion": "0.1.0",
+            "actorKey": "taoxana"
+          }
+        }
+      }
+    ],
+    "notes": [],
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "chambre",
+        "contentVersion": "0.1.0",
+        "spawn": {
+          "x": 1020,
+          "y": 1560
+        },
+        "links": [
+          {
+            "x": 1200,
+            "y": 400,
+            "target": "duplex",
+            "tx": 1200,
+            "ty": 400,
+            "label": "Escalier / passage"
+          },
+          {
+            "x": 1600,
+            "y": 780,
+            "target": "vision",
+            "tx": 1100,
+            "ty": 1400,
+            "label": "Vision (choix MJ)"
+          }
+        ],
+        "toxic": null
+      }
+    }
+  },
+  {
+    "_id": "54ed63aef33797b0",
+    "name": "Vision — tombe et racines",
+    "folder": "f58c83ba5d8d23c8",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/maps/vision-art.webp"
+    },
+    "width": 2400,
+    "height": 1800,
+    "padding": 0,
+    "grid": {
+      "type": 1,
+      "size": 60,
+      "distance": 1,
+      "units": "m",
+      "alpha": 0.13,
+      "color": "#d8cfaa"
+    },
+    "tokenVision": true,
+    "environment": {
+      "darknessLevel": 0.7,
+      "globalLight": {
+        "enabled": false
+      }
+    },
+    "walls": [
+      {
+        "_id": "5f72faa05b8e49fd",
+        "c": [
+          264,
+          216,
+          2208,
+          216
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "dfabb8b74fefec30",
+        "c": [
+          264,
+          216,
+          264,
+          1404
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "b8f112aab449fe4d",
+        "c": [
+          2208,
+          216,
+          2208,
+          1404
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "60d6ebc0f705f795",
+        "c": [
+          264,
+          1404,
+          1193,
+          1404
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "dc270f0e47c3a38d",
+        "c": [
+          1193,
+          1404,
+          1279,
+          1404
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "e58d2343487cc7df",
+        "c": [
+          1279,
+          1404,
+          2208,
+          1404
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      }
+    ],
+    "lights": [
+      {
+        "_id": "255c25bb9c729a73",
+        "x": 1250,
+        "y": 760,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      }
+    ],
+    "tokens": [
+      {
+        "_id": "3d1d6006674fc6fe",
+        "name": "Silhouette féminine",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/taoxana-vision.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": -1,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "1d7d558a4d4e16d5",
+        "x": 960,
+        "y": 700,
+        "hidden": true,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "vision:token:0",
+            "contentVersion": "0.1.0",
+            "actorKey": "taoxana-vision"
+          }
+        }
+      }
+    ],
+    "notes": [],
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "vision",
+        "contentVersion": "0.1.0",
+        "spawn": {
+          "x": 1020,
+          "y": 1560
+        },
+        "links": [],
+        "toxic": null
+      }
+    }
+  },
+  {
+    "_id": "54922fdedc0a0101",
+    "name": "Oqlan — intersections",
+    "folder": "f58c83ba5d8d23c8",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/maps/intersection-art.webp"
+    },
+    "width": 2400,
+    "height": 1800,
+    "padding": 0,
+    "grid": {
+      "type": 1,
+      "size": 60,
+      "distance": 1,
+      "units": "m",
+      "alpha": 0.13,
+      "color": "#d8cfaa"
+    },
+    "tokenVision": true,
+    "environment": {
+      "darknessLevel": 0.25,
+      "globalLight": {
+        "enabled": true
+      }
+    },
+    "walls": [],
+    "lights": [],
+    "tokens": [
+      {
+        "_id": "97e81eb7ad00deea",
+        "name": "Riva",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/riva.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "af0272358c5d161c",
+        "x": 960,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "intersection:token:0",
+            "contentVersion": "0.1.0",
+            "actorKey": "riva"
+          }
+        }
+      },
+      {
+        "_id": "67ad0e1c9eac407f",
+        "name": "Carapateur",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/carapateur.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "6a7647d443fa1e6e",
+        "x": 1100,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "intersection:token:1",
+            "contentVersion": "0.1.0",
+            "actorKey": "carapateur"
+          }
+        }
+      }
+    ],
+    "notes": [],
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "intersection",
+        "contentVersion": "0.1.0",
+        "spawn": {
+          "x": 1020,
+          "y": 1560
+        },
+        "links": [],
+        "toxic": null
+      }
+    }
+  },
+  {
+    "_id": "4a62c7a20b74e83b",
+    "name": "Oqlan — renfoncement dense",
+    "folder": "f58c83ba5d8d23c8",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/maps/dense-art.webp"
+    },
+    "width": 2400,
+    "height": 1800,
+    "padding": 0,
+    "grid": {
+      "type": 1,
+      "size": 60,
+      "distance": 1,
+      "units": "m",
+      "alpha": 0.13,
+      "color": "#d8cfaa"
+    },
+    "tokenVision": true,
+    "environment": {
+      "darknessLevel": 0.25,
+      "globalLight": {
+        "enabled": true
+      }
+    },
+    "walls": [],
+    "lights": [],
+    "tokens": [
+      {
+        "_id": "f15ab4e88b0c1a3c",
+        "name": "Azucena",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/azucena.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "df8c389f9351a65f",
+        "x": 960,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "dense:token:0",
+            "contentVersion": "0.1.0",
+            "actorKey": "azucena"
+          }
+        }
+      }
+    ],
+    "notes": [],
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "dense",
+        "contentVersion": "0.1.0",
+        "spawn": {
+          "x": 1020,
+          "y": 1560
+        },
+        "links": [],
+        "toxic": null
+      }
+    }
+  },
+  {
+    "_id": "1f135bf31b4d7527",
+    "name": "Oqlan — ruisseau immobile",
+    "folder": "f58c83ba5d8d23c8",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/maps/ruisseau-art.webp"
+    },
+    "width": 2400,
+    "height": 1800,
+    "padding": 0,
+    "grid": {
+      "type": 1,
+      "size": 60,
+      "distance": 1,
+      "units": "m",
+      "alpha": 0.13,
+      "color": "#d8cfaa"
+    },
+    "tokenVision": true,
+    "environment": {
+      "darknessLevel": 0.25,
+      "globalLight": {
+        "enabled": true
+      }
+    },
+    "walls": [],
+    "lights": [],
+    "tokens": [
+      {
+        "_id": "4bbf255c7123d5bb",
+        "name": "Tahm Kench",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/tahm-kench.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "4f41f87f86b727b9",
+        "x": 960,
+        "y": 700,
+        "hidden": true,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "ruisseau:token:0",
+            "contentVersion": "0.1.0",
+            "actorKey": "tahm-kench"
+          }
+        }
+      }
+    ],
+    "notes": [],
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "ruisseau",
+        "contentVersion": "0.1.0",
+        "spawn": {
+          "x": 1020,
+          "y": 1560
+        },
+        "links": [],
+        "toxic": null
+      }
+    }
+  },
+  {
+    "_id": "df4edc1c1c8539c0",
+    "name": "Oqlan — clairière de Gaama",
+    "folder": "f58c83ba5d8d23c8",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/maps/gaama-art.webp"
+    },
+    "width": 2400,
+    "height": 1800,
+    "padding": 0,
+    "grid": {
+      "type": 1,
+      "size": 60,
+      "distance": 1,
+      "units": "m",
+      "alpha": 0.13,
+      "color": "#d8cfaa"
+    },
+    "tokenVision": true,
+    "environment": {
+      "darknessLevel": 0.25,
+      "globalLight": {
+        "enabled": true
+      }
+    },
+    "walls": [],
+    "lights": [],
+    "tokens": [
+      {
+        "_id": "e6f39e5265a6035d",
+        "name": "Gaama",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/gaama.png"
+        },
+        "width": 4,
+        "height": 4,
+        "disposition": -1,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "d6de3bcc21f9005c",
+        "x": 1050,
+        "y": 600,
+        "hidden": true,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "gaama:token:0",
+            "contentVersion": "0.1.0",
+            "actorKey": "gaama"
+          }
+        }
+      }
+    ],
+    "notes": [],
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "gaama",
+        "contentVersion": "0.1.0",
+        "spawn": {
+          "x": 1020,
+          "y": 1560
+        },
+        "links": [],
+        "toxic": {
+          "x": 700,
+          "y": 300,
+          "width": 1100,
+          "height": 1100
+        }
+      }
+    }
+  },
+  {
+    "_id": "65f8a33d6e94b0e9",
+    "name": "Oqlan — rencontre noxienne",
+    "folder": "f58c83ba5d8d23c8",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/maps/noxiens-art.webp"
+    },
+    "width": 2400,
+    "height": 1800,
+    "padding": 0,
+    "grid": {
+      "type": 1,
+      "size": 60,
+      "distance": 1,
+      "units": "m",
+      "alpha": 0.13,
+      "color": "#d8cfaa"
+    },
+    "tokenVision": true,
+    "environment": {
+      "darknessLevel": 0.25,
+      "globalLight": {
+        "enabled": true
+      }
+    },
+    "walls": [],
+    "lights": [
+      {
+        "_id": "582e4f1426ebd94e",
+        "x": 1180,
+        "y": 980,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      }
+    ],
+    "tokens": [
+      {
+        "_id": "144e4a31eaa1e0aa",
+        "name": "Mariane",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/mariane.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "e6d55032b13985ec",
+        "x": 960,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "noxiens:token:0",
+            "contentVersion": "0.1.0",
+            "actorKey": "mariane"
+          }
+        }
+      },
+      {
+        "_id": "d6577cf49375e310",
+        "name": "Camille",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/camille.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "cfd644c889ca38c7",
+        "x": 1100,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "noxiens:token:1",
+            "contentVersion": "0.1.0",
+            "actorKey": "camille"
+          }
+        }
+      },
+      {
+        "_id": "2d062c39bba81168",
+        "name": "Soldat noxien",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/soldat-noxien.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "7a33fd0eb171b7b2",
+        "x": 1240,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "noxiens:token:2",
+            "contentVersion": "0.1.0",
+            "actorKey": "soldat-noxien"
+          }
+        }
+      },
+      {
+        "_id": "3d3c808dced9e515",
+        "name": "Soldat noxien",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/soldat-noxien.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "7a33fd0eb171b7b2",
+        "x": 1380,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "noxiens:token:3",
+            "contentVersion": "0.1.0",
+            "actorKey": "soldat-noxien"
+          }
+        }
+      },
+      {
+        "_id": "fd835a462c9990aa",
+        "name": "Soldat noxien",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/soldat-noxien.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "7a33fd0eb171b7b2",
+        "x": 1520,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "noxiens:token:4",
+            "contentVersion": "0.1.0",
+            "actorKey": "soldat-noxien"
+          }
+        }
+      },
+      {
+        "_id": "85c54138d3421a55",
+        "name": "Soldat noxien",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/soldat-noxien.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "7a33fd0eb171b7b2",
+        "x": 1660,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "noxiens:token:5",
+            "contentVersion": "0.1.0",
+            "actorKey": "soldat-noxien"
+          }
+        }
+      },
+      {
+        "_id": "7e6a851397b18dba",
+        "name": "Soldat noxien",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/soldat-noxien.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "7a33fd0eb171b7b2",
+        "x": 960,
+        "y": 840,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "noxiens:token:6",
+            "contentVersion": "0.1.0",
+            "actorKey": "soldat-noxien"
+          }
+        }
+      },
+      {
+        "_id": "12c51f6a8dfab2d0",
+        "name": "Soldat noxien",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/soldat-noxien.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "7a33fd0eb171b7b2",
+        "x": 1100,
+        "y": 840,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "noxiens:token:7",
+            "contentVersion": "0.1.0",
+            "actorKey": "soldat-noxien"
+          }
+        }
+      },
+      {
+        "_id": "6d8ceaf69cecdf8e",
+        "name": "Soldat noxien",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/soldat-noxien.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "7a33fd0eb171b7b2",
+        "x": 1240,
+        "y": 840,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "noxiens:token:8",
+            "contentVersion": "0.1.0",
+            "actorKey": "soldat-noxien"
+          }
+        }
+      },
+      {
+        "_id": "f2e3cded4c9ccbcc",
+        "name": "Soldat noxien",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/soldat-noxien.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "7a33fd0eb171b7b2",
+        "x": 1380,
+        "y": 840,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "noxiens:token:9",
+            "contentVersion": "0.1.0",
+            "actorKey": "soldat-noxien"
+          }
+        }
+      },
+      {
+        "_id": "f8412523d4fee334",
+        "name": "Soldat noxien",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/soldat-noxien.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "7a33fd0eb171b7b2",
+        "x": 1520,
+        "y": 840,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "noxiens:token:10",
+            "contentVersion": "0.1.0",
+            "actorKey": "soldat-noxien"
+          }
+        }
+      },
+      {
+        "_id": "71c6600af3701ca1",
+        "name": "Soldat noxien",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/soldat-noxien.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "7a33fd0eb171b7b2",
+        "x": 1660,
+        "y": 840,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "noxiens:token:11",
+            "contentVersion": "0.1.0",
+            "actorKey": "soldat-noxien"
+          }
+        }
+      },
+      {
+        "_id": "76bc22e9fea7ef24",
+        "name": "Soldat noxien",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/soldat-noxien.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "7a33fd0eb171b7b2",
+        "x": 960,
+        "y": 980,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "noxiens:token:12",
+            "contentVersion": "0.1.0",
+            "actorKey": "soldat-noxien"
+          }
+        }
+      },
+      {
+        "_id": "166d65d34f283b9d",
+        "name": "Soldat noxien",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/soldat-noxien.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "7a33fd0eb171b7b2",
+        "x": 1100,
+        "y": 980,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "noxiens:token:13",
+            "contentVersion": "0.1.0",
+            "actorKey": "soldat-noxien"
+          }
+        }
+      }
+    ],
+    "notes": [],
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "noxiens",
+        "contentVersion": "0.1.0",
+        "spawn": {
+          "x": 1020,
+          "y": 1560
+        },
+        "links": [],
+        "toxic": null
+      }
+    }
+  },
+  {
+    "_id": "a10f072f4ea93541",
+    "name": "Barry — cabane et attente",
+    "folder": "f58c83ba5d8d23c8",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/maps/cabane-art.webp"
+    },
+    "width": 2400,
+    "height": 1800,
+    "padding": 0,
+    "grid": {
+      "type": 1,
+      "size": 60,
+      "distance": 1,
+      "units": "m",
+      "alpha": 0.13,
+      "color": "#d8cfaa"
+    },
+    "tokenVision": true,
+    "environment": {
+      "darknessLevel": 0.25,
+      "globalLight": {
+        "enabled": true
+      }
+    },
+    "walls": [
+      {
+        "_id": "62d2d0d1f451cb49",
+        "c": [
+          432,
+          324,
+          1944,
+          324
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "04ff735fa47978be",
+        "c": [
+          432,
+          324,
+          432,
+          1224
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "391f25adfc5a8cf5",
+        "c": [
+          1944,
+          324,
+          1944,
+          1224
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "59a6ebd63254260c",
+        "c": [
+          432,
+          1224,
+          1145,
+          1224
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "d3af326a128c6a7b",
+        "c": [
+          1145,
+          1224,
+          1231,
+          1224
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "af8a39cf2650207f",
+        "c": [
+          1231,
+          1224,
+          1944,
+          1224
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      }
+    ],
+    "lights": [
+      {
+        "_id": "fae7d586dc54c0bf",
+        "x": 1100,
+        "y": 700,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      },
+      {
+        "_id": "c25c8a93b53666cd",
+        "x": 1850,
+        "y": 1370,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      }
+    ],
+    "tokens": [
+      {
+        "_id": "6cf59b21293a690d",
+        "name": "Le Gobi",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/gobi.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "675eba516d558a1e",
+        "x": 960,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "cabane:token:0",
+            "contentVersion": "0.1.0",
+            "actorKey": "gobi"
+          }
+        }
+      }
+    ],
+    "notes": [],
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "cabane",
+        "contentVersion": "0.1.0",
+        "spawn": {
+          "x": 1020,
+          "y": 1560
+        },
+        "links": [
+          {
+            "x": 1740,
+            "y": 1000,
+            "target": "barry",
+            "tx": 1200,
+            "ty": 1080,
+            "label": "Escalier / passage"
+          }
+        ],
+        "toxic": null
+      }
+    }
+  },
+  {
+    "_id": "1b1b782fb73569a7",
+    "name": "Barry — salle inférieure",
+    "folder": "f58c83ba5d8d23c8",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/maps/barry-art.webp"
+    },
+    "width": 2400,
+    "height": 1800,
+    "padding": 0,
+    "grid": {
+      "type": 1,
+      "size": 60,
+      "distance": 1,
+      "units": "m",
+      "alpha": 0.13,
+      "color": "#d8cfaa"
+    },
+    "tokenVision": true,
+    "environment": {
+      "darknessLevel": 0.7,
+      "globalLight": {
+        "enabled": false
+      }
+    },
+    "walls": [
+      {
+        "_id": "efe111cbc9822951",
+        "c": [
+          312,
+          144,
+          2064,
+          144
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "bcd19f5e28613cb1",
+        "c": [
+          312,
+          144,
+          312,
+          1368
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "20462ef0548d2176",
+        "c": [
+          2064,
+          144,
+          2064,
+          1368
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "33e50c44878043c4",
+        "c": [
+          312,
+          1368,
+          1145,
+          1368
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "e286967210e2c823",
+        "c": [
+          1145,
+          1368,
+          1231,
+          1368
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "c826d5f6bcc7a1e8",
+        "c": [
+          1231,
+          1368,
+          2064,
+          1368
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      }
+    ],
+    "lights": [
+      {
+        "_id": "fe92c4ecb9100f89",
+        "x": 1100,
+        "y": 700,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      },
+      {
+        "_id": "6342e91e0ebd64ad",
+        "x": 1850,
+        "y": 1370,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      }
+    ],
+    "tokens": [
+      {
+        "_id": "32965bc585ce2f5a",
+        "name": "Monsieur Tahm Kench",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/barry.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "84e2c2143edb28cc",
+        "x": 960,
+        "y": 700,
+        "hidden": true,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "barry:token:0",
+            "contentVersion": "0.1.0",
+            "actorKey": "barry"
+          }
+        }
+      }
+    ],
+    "notes": [],
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "barry",
+        "contentVersion": "0.1.0",
+        "spawn": {
+          "x": 1020,
+          "y": 1560
+        },
+        "links": [
+          {
+            "x": 1200,
+            "y": 1080,
+            "target": "cabane",
+            "tx": 1740,
+            "ty": 1000,
+            "label": "Escalier / passage"
+          }
+        ],
+        "toxic": null
+      }
+    }
+  },
+  {
+    "_id": "f0e539f61d050786",
+    "name": "Antiquaire — rez-de-chaussée",
+    "folder": "f58c83ba5d8d23c8",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/maps/antiquaire.webp"
+    },
+    "width": 2400,
+    "height": 1800,
+    "padding": 0,
+    "grid": {
+      "type": 1,
+      "size": 60,
+      "distance": 1,
+      "units": "m",
+      "alpha": 0.13,
+      "color": "#d8cfaa"
+    },
+    "tokenVision": true,
+    "environment": {
+      "darknessLevel": 0.25,
+      "globalLight": {
+        "enabled": true
+      }
+    },
+    "walls": [
+      {
+        "_id": "6a6babb37428db3d",
+        "c": [
+          360,
+          240,
+          2040,
+          240
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "64576fc7d185582d",
+        "c": [
+          360,
+          240,
+          360,
+          1500
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "feed5fe922d4ac07",
+        "c": [
+          2040,
+          240,
+          2040,
+          1500
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "7addf34df712cf46",
+        "c": [
+          360,
+          1500,
+          1155,
+          1500
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "6808977be416edd2",
+        "c": [
+          1155,
+          1500,
+          1245,
+          1500
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "fa2dc873df02f462",
+        "c": [
+          1245,
+          1500,
+          2040,
+          1500
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "7d29a2856765f5ae",
+        "c": [
+          900,
+          240,
+          900,
+          780
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "9d884eec3bb8e528",
+        "c": [
+          900,
+          870,
+          900,
+          1500
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "b1391e52c3af8784",
+        "c": [
+          900,
+          780,
+          900,
+          870
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "0789ea261e552872",
+        "c": [
+          1540,
+          240,
+          1540,
+          900
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "6420b16876fac8fc",
+        "c": [
+          1540,
+          990,
+          1540,
+          1500
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "a5cf7e84b3e19509",
+        "c": [
+          1540,
+          900,
+          1540,
+          990
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      }
+    ],
+    "lights": [
+      {
+        "_id": "3e53c4e2483a38d1",
+        "x": 1100,
+        "y": 700,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      },
+      {
+        "_id": "a339daaba8efb19e",
+        "x": 1850,
+        "y": 1370,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      }
+    ],
+    "tokens": [
+      {
+        "_id": "df27568942154a08",
+        "name": "Malek",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/malek.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": -1,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "15c7238836ceac07",
+        "x": 960,
+        "y": 700,
+        "hidden": true,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "antiquaire:token:0",
+            "contentVersion": "0.1.0",
+            "actorKey": "malek"
+          }
+        }
+      }
+    ],
+    "notes": [],
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "antiquaire",
+        "contentVersion": "0.1.0",
+        "spawn": {
+          "x": 1020,
+          "y": 1560
+        },
+        "links": [
+          {
+            "x": 1200,
+            "y": 420,
+            "target": "etage",
+            "tx": 1200,
+            "ty": 420,
+            "label": "Escalier / passage"
+          },
+          {
+            "x": 1750,
+            "y": 390,
+            "target": "cave",
+            "tx": 600,
+            "ty": 400,
+            "label": "Escalier / passage"
+          }
+        ],
+        "toxic": null
+      }
+    }
+  },
+  {
+    "_id": "efe40eab4544cdf5",
+    "name": "Antiquaire — étage",
+    "folder": "f58c83ba5d8d23c8",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/maps/etage-art.webp"
+    },
+    "width": 2400,
+    "height": 1800,
+    "padding": 0,
+    "grid": {
+      "type": 1,
+      "size": 60,
+      "distance": 1,
+      "units": "m",
+      "alpha": 0.13,
+      "color": "#d8cfaa"
+    },
+    "tokenVision": true,
+    "environment": {
+      "darknessLevel": 0.25,
+      "globalLight": {
+        "enabled": true
+      }
+    },
+    "walls": [
+      {
+        "_id": "77e2fa5bfd6ca78b",
+        "c": [
+          288,
+          180,
+          2184,
+          180
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "e7dc638a79e135b2",
+        "c": [
+          288,
+          180,
+          288,
+          1314
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "808f09dcaeedb9f9",
+        "c": [
+          2184,
+          180,
+          2184,
+          1314
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "20d01f409194cf05",
+        "c": [
+          288,
+          1314,
+          1193,
+          1314
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "a26fe39e26f9ee37",
+        "c": [
+          1193,
+          1314,
+          1279,
+          1314
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "4328d0ef54d3092f",
+        "c": [
+          1279,
+          1314,
+          2184,
+          1314
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      }
+    ],
+    "lights": [
+      {
+        "_id": "bd30897a61f9c45f",
+        "x": 1100,
+        "y": 700,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      },
+      {
+        "_id": "304ab79d8bcd5b1d",
+        "x": 1850,
+        "y": 1370,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      }
+    ],
+    "tokens": [],
+    "notes": [],
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "etage",
+        "contentVersion": "0.1.0",
+        "spawn": {
+          "x": 1020,
+          "y": 1560
+        },
+        "links": [
+          {
+            "x": 1200,
+            "y": 420,
+            "target": "antiquaire",
+            "tx": 1200,
+            "ty": 420,
+            "label": "Escalier / passage"
+          }
+        ],
+        "toxic": null
+      }
+    }
+  },
+  {
+    "_id": "decb6306dcdb5e29",
+    "name": "Antiquaire — cave et puits",
+    "folder": "f58c83ba5d8d23c8",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/maps/cave.webp"
+    },
+    "width": 2400,
+    "height": 1800,
+    "padding": 0,
+    "grid": {
+      "type": 1,
+      "size": 60,
+      "distance": 1,
+      "units": "m",
+      "alpha": 0.13,
+      "color": "#d8cfaa"
+    },
+    "tokenVision": true,
+    "environment": {
+      "darknessLevel": 0.7,
+      "globalLight": {
+        "enabled": false
+      }
+    },
+    "walls": [
+      {
+        "_id": "64fb136d38f00c45",
+        "c": [
+          360,
+          240,
+          2040,
+          240
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "786a03cbd8462c73",
+        "c": [
+          360,
+          240,
+          360,
+          1500
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "dd7082587db24b7c",
+        "c": [
+          2040,
+          240,
+          2040,
+          1500
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "e81a54c22ca6ab83",
+        "c": [
+          360,
+          1500,
+          1155,
+          1500
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "dd9b5e045616ab63",
+        "c": [
+          1155,
+          1500,
+          1245,
+          1500
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "af2fc0e2bcf505e0",
+        "c": [
+          1245,
+          1500,
+          2040,
+          1500
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "1ce91122a4d4d36f",
+        "c": [
+          900,
+          240,
+          900,
+          780
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "52810227925dd6c1",
+        "c": [
+          900,
+          870,
+          900,
+          1500
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "acb76147fc041333",
+        "c": [
+          900,
+          780,
+          900,
+          870
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "b8a7762f82a8ccee",
+        "c": [
+          1540,
+          240,
+          1540,
+          900
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "f8076fd945b27699",
+        "c": [
+          1540,
+          990,
+          1540,
+          1500
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "09dc0a2c785a2579",
+        "c": [
+          1540,
+          900,
+          1540,
+          990
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      }
+    ],
+    "lights": [
+      {
+        "_id": "93d5ed6bce493c83",
+        "x": 1000,
+        "y": 1290,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      },
+      {
+        "_id": "5218c430da973215",
+        "x": 1100,
+        "y": 700,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      },
+      {
+        "_id": "dc400cb00b76a45a",
+        "x": 1850,
+        "y": 1370,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      }
+    ],
+    "tokens": [],
+    "notes": [],
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "cave",
+        "contentVersion": "0.1.0",
+        "spawn": {
+          "x": 1020,
+          "y": 1560
+        },
+        "links": [
+          {
+            "x": 600,
+            "y": 400,
+            "target": "antiquaire",
+            "tx": 1750,
+            "ty": 390,
+            "label": "Escalier / passage"
+          },
+          {
+            "x": 1770,
+            "y": 1130,
+            "target": "ruisseau",
+            "tx": 1200,
+            "ty": 1100,
+            "label": "Puits : transport à confirmer"
+          }
+        ],
+        "toxic": null
+      }
+    }
+  },
+  {
+    "_id": "51229db73d16205b",
+    "name": "Harelport — quais",
+    "folder": "f58c83ba5d8d23c8",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/maps/quais-art.webp"
+    },
+    "width": 2400,
+    "height": 1800,
+    "padding": 0,
+    "grid": {
+      "type": 1,
+      "size": 60,
+      "distance": 1,
+      "units": "m",
+      "alpha": 0.13,
+      "color": "#d8cfaa"
+    },
+    "tokenVision": true,
+    "environment": {
+      "darknessLevel": 0.25,
+      "globalLight": {
+        "enabled": true
+      }
+    },
+    "walls": [],
+    "lights": [
+      {
+        "_id": "35b90ede0842655b",
+        "x": 950,
+        "y": 665,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      }
+    ],
+    "tokens": [],
+    "notes": [],
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "quais",
+        "contentVersion": "0.1.0",
+        "spawn": {
+          "x": 1020,
+          "y": 1560
+        },
+        "links": [
+          {
+            "x": 1930,
+            "y": 680,
+            "target": "navire",
+            "tx": 900,
+            "ty": 1400,
+            "label": "Embarquer"
+          }
+        ],
+        "toxic": null
+      }
+    }
+  },
+  {
+    "_id": "ed01dd95a83a2809",
+    "name": "Le Flot Persistant — pont",
+    "folder": "f58c83ba5d8d23c8",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/maps/navire-art.webp"
+    },
+    "width": 2400,
+    "height": 1800,
+    "padding": 0,
+    "grid": {
+      "type": 1,
+      "size": 60,
+      "distance": 1,
+      "units": "m",
+      "alpha": 0.13,
+      "color": "#d8cfaa"
+    },
+    "tokenVision": true,
+    "environment": {
+      "darknessLevel": 0.25,
+      "globalLight": {
+        "enabled": true
+      }
+    },
+    "walls": [
+      {
+        "_id": "ad8014634800e999",
+        "c": [
+          1200,
+          90,
+          1680,
+          486
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "48e326cb32793ab0",
+        "c": [
+          1680,
+          486,
+          1896,
+          1026
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "4708d2f4572e231e",
+        "c": [
+          1896,
+          1026,
+          1824,
+          1440
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "99cba0171422dd42",
+        "c": [
+          1824,
+          1440,
+          1560,
+          1692
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "4f34348247649089",
+        "c": [
+          1560,
+          1692,
+          816,
+          1692
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "a59c7e8ca216a3f8",
+        "c": [
+          816,
+          1692,
+          552,
+          1440
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "dd03b445011d4f6b",
+        "c": [
+          552,
+          1440,
+          480,
+          1026
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "8de611fe1120186a",
+        "c": [
+          480,
+          1026,
+          696,
+          486
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "99dc8b41a3bae9e6",
+        "c": [
+          696,
+          486,
+          1200,
+          90
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      }
+    ],
+    "lights": [
+      {
+        "_id": "fbf86b4d9d4a5626",
+        "x": 900,
+        "y": 1400,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      },
+      {
+        "_id": "f9ebc430288c77a4",
+        "x": 1500,
+        "y": 1400,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      }
+    ],
+    "tokens": [
+      {
+        "_id": "1db9d9bdbc37bac6",
+        "name": "Willburn",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/willburn.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "5b5a94851c41c766",
+        "x": 960,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "navire:token:0",
+            "contentVersion": "0.1.0",
+            "actorKey": "willburn"
+          }
+        }
+      },
+      {
+        "_id": "fbb240d40a0a9000",
+        "name": "Dorovik",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/dorovik.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "7b637477b8e5fae5",
+        "x": 1100,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "navire:token:1",
+            "contentVersion": "0.1.0",
+            "actorKey": "dorovik"
+          }
+        }
+      },
+      {
+        "_id": "dd9c4b94e85d4fc5",
+        "name": "Obrill",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/obrill.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "a70d94f2ac5fa840",
+        "x": 1240,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "navire:token:2",
+            "contentVersion": "0.1.0",
+            "actorKey": "obrill"
+          }
+        }
+      },
+      {
+        "_id": "d8eddb0ece297727",
+        "name": "Guyamtel",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/guyamtel.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "3736cc2cf0f655f0",
+        "x": 1380,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "navire:token:3",
+            "contentVersion": "0.1.0",
+            "actorKey": "guyamtel"
+          }
+        }
+      },
+      {
+        "_id": "fee42eead81510b6",
+        "name": "Wern",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/wern.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "e54886ae3b58f58c",
+        "x": 1520,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "navire:token:4",
+            "contentVersion": "0.1.0",
+            "actorKey": "wern"
+          }
+        }
+      },
+      {
+        "_id": "c3965df46930759c",
+        "name": "Marchand ionien",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/marchand-ionien.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "04e9b3f8c4f1aaa1",
+        "x": 1660,
+        "y": 700,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "navire:token:5",
+            "contentVersion": "0.1.0",
+            "actorKey": "marchand-ionien"
+          }
+        }
+      },
+      {
+        "_id": "92fb05b395190964",
+        "name": "Xandor",
+        "actorLink": false,
+        "texture": {
+          "src": "modules/le-rituel-du-marecage/assets/tokens/xandor.png"
+        },
+        "width": 1,
+        "height": 1,
+        "disposition": 0,
+        "displayName": 20,
+        "displayBars": 20,
+        "bar1": {
+          "attribute": "health"
+        },
+        "bar2": {
+          "attribute": "integrity"
+        },
+        "sight": {
+          "enabled": false,
+          "range": 20,
+          "visionMode": "basic"
+        },
+        "actorId": "1bc451d49056bd13",
+        "x": 960,
+        "y": 840,
+        "hidden": false,
+        "flags": {
+          "le-rituel-du-marecage": {
+            "key": "navire:token:6",
+            "contentVersion": "0.1.0",
+            "actorKey": "xandor"
+          }
+        }
+      }
+    ],
+    "notes": [],
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "navire",
+        "contentVersion": "0.1.0",
+        "spawn": {
+          "x": 1020,
+          "y": 1560
+        },
+        "links": [
+          {
+            "x": 1200,
+            "y": 600,
+            "target": "cale",
+            "tx": 1200,
+            "ty": 600,
+            "label": "Escalier / passage"
+          }
+        ],
+        "toxic": null
+      }
+    }
+  },
+  {
+    "_id": "969cae4d32f3e40d",
+    "name": "Le Flot Persistant — cale",
+    "folder": "f58c83ba5d8d23c8",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/maps/cale-art.webp"
+    },
+    "width": 2400,
+    "height": 1800,
+    "padding": 0,
+    "grid": {
+      "type": 1,
+      "size": 60,
+      "distance": 1,
+      "units": "m",
+      "alpha": 0.13,
+      "color": "#d8cfaa"
+    },
+    "tokenVision": true,
+    "environment": {
+      "darknessLevel": 0.25,
+      "globalLight": {
+        "enabled": true
+      }
+    },
+    "walls": [
+      {
+        "_id": "3657c72e6d4df84c",
+        "c": [
+          156,
+          144,
+          2292,
+          144
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "74d8c6c3b1637ced",
+        "c": [
+          156,
+          144,
+          156,
+          1656
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "4f4605c0a1152e24",
+        "c": [
+          2292,
+          144,
+          2292,
+          1656
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "dd15696103551306",
+        "c": [
+          156,
+          1656,
+          1181,
+          1656
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "95d98d65097f081c",
+        "c": [
+          1181,
+          1656,
+          1267,
+          1656
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "dfc93d1e0ede9595",
+        "c": [
+          1267,
+          1656,
+          2292,
+          1656
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "8619b8054c7de943",
+        "c": [
+          936,
+          180,
+          936,
+          810
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "b8162e8e6fa674af",
+        "c": [
+          936,
+          810,
+          936,
+          882
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "250a4dfac62199be",
+        "c": [
+          936,
+          882,
+          936,
+          1638
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "bc17d51fa47d7a0f",
+        "c": [
+          1560,
+          180,
+          1560,
+          954
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      },
+      {
+        "_id": "202d4a2eaf536b0c",
+        "c": [
+          1560,
+          954,
+          1560,
+          1044
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 1,
+        "ds": 0
+      },
+      {
+        "_id": "f317afcef52010dc",
+        "c": [
+          1560,
+          1044,
+          1560,
+          1638
+        ],
+        "move": 20,
+        "sight": 20,
+        "light": 20,
+        "sound": 20,
+        "door": 0,
+        "ds": 0
+      }
+    ],
+    "lights": [
+      {
+        "_id": "29f0efc3e4d67764",
+        "x": 1100,
+        "y": 700,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      },
+      {
+        "_id": "203493d4a26a1bc8",
+        "x": 1850,
+        "y": 1370,
+        "config": {
+          "dim": 8,
+          "bright": 3,
+          "color": "#ffc276",
+          "alpha": 0.3,
+          "animation": {
+            "type": "torch",
+            "speed": 2,
+            "intensity": 3
+          }
+        }
+      }
+    ],
+    "tokens": [],
+    "notes": [],
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "cale",
+        "contentVersion": "0.1.0",
+        "spawn": {
+          "x": 1020,
+          "y": 1560
+        },
+        "links": [
+          {
+            "x": 1200,
+            "y": 420,
+            "target": "navire",
+            "tx": 1200,
+            "ty": 600,
+            "label": "Escalier / passage"
+          }
+        ],
+        "toxic": null
+      }
+    }
+  },
+  {
+    "_id": "ea821277bb64a623",
+    "name": "Omatqan — ambiance",
+    "folder": "caa27ce15b3e28e3",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/source/1rzXpB9p4ZyeXGSKTyqbKoF1Bwjp6mDxg.webp"
+    },
+    "width": 2000,
+    "height": 1125,
+    "padding": 0,
+    "grid": {
+      "type": 0,
+      "distance": 1,
+      "units": "m"
+    },
+    "tokenVision": false,
+    "environment": {
+      "globalLight": {
+        "enabled": true
+      }
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "village-ambiance",
+        "contentVersion": "0.1.0"
+      }
+    }
+  },
+  {
+    "_id": "fbe7ce489fad2cf2",
+    "name": "O bore de lo — ambiance",
+    "folder": "caa27ce15b3e28e3",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/source/1txwH8ltYUxA7vq5Myg0nvyQj6Yo_FeSC.webp"
+    },
+    "width": 2000,
+    "height": 1125,
+    "padding": 0,
+    "grid": {
+      "type": 0,
+      "distance": 1,
+      "units": "m"
+    },
+    "tokenVision": false,
+    "environment": {
+      "globalLight": {
+        "enabled": true
+      }
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "auberge-ambiance",
+        "contentVersion": "0.1.0"
+      }
+    }
+  },
+  {
+    "_id": "1cddb7d6ce7872a5",
+    "name": "Antiquaire — ambiance",
+    "folder": "caa27ce15b3e28e3",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/source/1svxL8155DqcEK05N29iqwUTzm23tqCfp.webp"
+    },
+    "width": 1920,
+    "height": 1080,
+    "padding": 0,
+    "grid": {
+      "type": 0,
+      "distance": 1,
+      "units": "m"
+    },
+    "tokenVision": false,
+    "environment": {
+      "globalLight": {
+        "enabled": true
+      }
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "antiquaire-ambiance",
+        "contentVersion": "0.1.0"
+      }
+    }
+  },
+  {
+    "_id": "35d3c075390549ab",
+    "name": "Le Flot Persistant — ambiance",
+    "folder": "caa27ce15b3e28e3",
+    "ownership": {
+      "default": 0
+    },
+    "background": {
+      "src": "modules/le-rituel-du-marecage/assets/source/1t0TYseAC5HReDkq7bgsQjDhDY1teZJJo.webp"
+    },
+    "width": 2000,
+    "height": 1125,
+    "padding": 0,
+    "grid": {
+      "type": 0,
+      "distance": 1,
+      "units": "m"
+    },
+    "tokenVision": false,
+    "environment": {
+      "globalLight": {
+        "enabled": true
+      }
+    },
+    "flags": {
+      "le-rituel-du-marecage": {
+        "key": "navire-ambiance",
+        "contentVersion": "0.1.0"
+      }
+    }
+  }
+]

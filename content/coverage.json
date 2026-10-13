@@ -1,0 +1,73 @@
+{
+  "systemVersion": "0.8.0",
+  "coreVersion": "14.368",
+  "chapters": 14,
+  "actors": 54,
+  "items": 49,
+  "scenes": 23,
+  "tacticalMaps": 19,
+  "sourceImages": 83,
+  "sourceDocuments": [
+    "1ziUOU0BLG9dhdEx_lAwmS5rwpK_At1cTMBRCNdVFSeU",
+    "1Ia8MczXVHnGpq713t37dusL7SWQgAAroSmE1oYV_OFw",
+    "1_9OefmonPRnBrSze003OcGg_C452F7hWVIEA4B0js1k",
+    "12TZiQDvR6UEV3IUMZdhnEMSbimxO0afUeNHdG5tJeIc",
+    "1C_oHLLTfi-3ljIeelpGH-bqFd5cJco1SiXCNERdMCRg",
+    "1DewK7CUZQ9QBX0eHo6g0OeuBqGhJ9fO83Fg4nx4y9ZY",
+    "1earpPeFouRySUOtDD5jI5SgeW5-bs3NHSdgnpSpPQXk",
+    "1brbAMZ9ZgEKBW2VpeTx7BqFuyR4UOxTX69fRjbhR52c",
+    "18UabOKpDaumureFW1bqXi2b2i9EQlFmSMsb_ZAjtORI"
+  ],
+  "sourceFolders": 18,
+  "pregenSheets": "8 PNG inspectés visuellement ; PDF équivalents inventoriés, non téléchargés (70–134 Mo chacun).",
+  "pronunciations": "Vidéo récupérée et inspectée ; audio intégral local inclus, sans transcription phonétique vérifiée.",
+  "bakkis": "Image inspectée : illustration sans règles écrites. Règles de jeu ajoutées et marquées comme adaptation.",
+  "runtime": {
+    "checks": 78,
+    "errors": [],
+    "invalid": [],
+    "worldCounts": {
+      "actors": 56,
+      "items": 49,
+      "scenes": 24,
+      "journal": 29,
+      "folders": 23
+    }
+  },
+  "journals": 28,
+  "sourceEntries": 108,
+  "faceCrops": 34,
+  "originalPortraits": 9,
+  "advanced": {
+    "checks": 25,
+    "errors": [],
+    "securityStatus": "failed-raw-pack-read",
+    "limitations": [
+      "Foundry 14.368 : getDocuments() renvoie le pack malgré PLAYER NONE. Le masquage natif du compendium ne garantit pas la confidentialité face à une lecture par console."
+    ]
+  },
+  "babele": {
+    "version": "2.9.1",
+    "libWrapper": "1.13.5.1",
+    "checks": 7,
+    "errors": []
+  },
+  "archiveInstallation": {
+    "status": "passed",
+    "world": "Monde QA neuf, créé avant installation du ZIP",
+    "moduleInstallation": "Dossier extrait indépendant du dépôt",
+    "core": "14.368",
+    "system": "0.8.0",
+    "filesCompared": 227,
+    "nativeAdventure": {
+      "actors": 54,
+      "items": 49,
+      "journals": 28,
+      "scenes": 23
+    },
+    "runtimeChecks": 78,
+    "distinctAnnaYgrittePortraitsAndTokens": true,
+    "errors": []
+  },
+  "verifiedOn": "2026-10-13"
+}

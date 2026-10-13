@@ -1,0 +1,4767 @@
+[
+  {
+    "name": "Tenue d’Explorateur Freljordien — Bonnet (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.c8aefbe55f2400c1",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Explorateur Freljordien — Bonnet (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.7ebea244d910760f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Explorateur Freljordien — Bonnet (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.2f846786f64dbbe5",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Explorateur Freljordien — Veste (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.88c5e7844b6a2438",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Explorateur Freljordien — Veste (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.9dbc15cfce7d91c0",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Explorateur Freljordien — Veste (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.69819ea94faa4dd2",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Explorateur Freljordien — Gants (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.84091c2b93752f6a",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Explorateur Freljordien — Gants (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.833ac4e5e35a2682",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Explorateur Freljordien — Gants (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.dbdc66aea16ce80b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Explorateur Freljordien — Pantalon (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.0cceb02b610675b5",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Explorateur Freljordien — Pantalon (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.96eb2d8e4ebbe3ea",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Explorateur Freljordien — Pantalon (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.3b891a6c5dbefa30",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Explorateur Freljordien — Bottes (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.228537b293d4610f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Explorateur Freljordien — Bottes (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.e9ea07a1cd80260f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Explorateur Freljordien — Bottes (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.12660f3dbfb7d1ac",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Guerrier Avarosan — Casque (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.abdced4df5cc2cfc",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Guerrier Avarosan — Casque (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.65af245584072b67",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Guerrier Avarosan — Casque (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.b956224cd6377187",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Guerrier Avarosan — Veste (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.526f0620a2b2c4aa",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Guerrier Avarosan — Veste (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.07e3d25bdf4a85dd",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Guerrier Avarosan — Veste (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.3b95995d2f4f7fd4",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Guerrier Avarosan — Bracelets (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.6260d2c7bb8519c8",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Guerrier Avarosan — Bracelets (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.75917888114ef5d3",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Guerrier Avarosan — Bracelets (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.5a9b8dd8f2742ff5",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Guerrier Avarosan — Pantalon (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.f2716e8027f6e6ba",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Guerrier Avarosan — Pantalon (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.715dc549c4fb3c6b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Guerrier Avarosan — Pantalon (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.8e8f2d08b7d5ced8",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Guerrier Avarosan — Bottes (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.5a67871d9480479a",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Guerrier Avarosan — Bottes (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.deb0dbcc26fbd8a7",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Guerrier Avarosan — Bottes (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.74eda2154ca179e1",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Archer Avarosan — Capuche (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.be934bcbbc66a886",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Archer Avarosan — Capuche (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.b3c440b84059beef",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Archer Avarosan — Capuche (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.4fd7e641b083a6d8",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Archer Avarosan — Cuirasse (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.6cdef9403cc52f1b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Archer Avarosan — Cuirasse (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.76c3bfb8be5aa820",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Archer Avarosan — Cuirasse (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.a70acc1906b34b34",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Archer Avarosan — Gants (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.5cdb16e08080063e",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Archer Avarosan — Gants (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.798245a07a7b684d",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Archer Avarosan — Gants (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.720ee459f044d80e",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Archer Avarosan — Pantalon (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.7c7165ff18d1ab25",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Archer Avarosan — Pantalon (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.a665374ee965780b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Archer Avarosan — Pantalon (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.b33ac933e706c246",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Archer Avarosan — Bottes (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.6cc58850cf2a4cc3",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Archer Avarosan — Bottes (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.f12670900ff2af19",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Archer Avarosan — Bottes (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.c92b436789c13de0",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Éclaireur — Capuche (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.ba9ad2fe733baefe",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Éclaireur — Capuche (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.63a78813c82e0281",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Éclaireur — Capuche (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.44fd41467fab22d7",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Éclaireur — Veste (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.66b4c7ffbdea5ff8",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Éclaireur — Veste (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.e226849b8523346b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Éclaireur — Veste (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.faed5927a3890a97",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Éclaireur — Gants (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.65bf15cf7b5bc9fb",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Éclaireur — Gants (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.e58d2dd89c79005f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Éclaireur — Gants (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.1fd15e119ec91770",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Éclaireur — Pantalon (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.28a1b4e0e39b87c0",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Éclaireur — Pantalon (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.a19feb2fe16bbd49",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Éclaireur — Pantalon (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.c0f224e5f9ab472a",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Éclaireur — Bottines (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.a2609073137dbd73",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Éclaireur — Bottines (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.9532ef30abc636bb",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Éclaireur — Bottines (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.c3b9d371fec65a2c",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Soldat Demacien — Heaume (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.570ce632e2c66fc2",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Soldat Demacien — Heaume (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.ef3649c1c645d247",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Soldat Demacien — Heaume (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.246c1042f3c27ae1",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Soldat Demacien — Plastron (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.8d99c7cc02f52c97",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Soldat Demacien — Plastron (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.b9036c692e6629ba",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Soldat Demacien — Plastron (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.8bf8613bb9bccbab",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Soldat Demacien — Gantelets (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.7c0550eb21617427",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Soldat Demacien — Gantelets (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.c8afe7866d957124",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Soldat Demacien — Gantelets (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.cb84eaf506d2cf97",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Soldat Demacien — Jambières (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.c316d4da1f9cb90e",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Soldat Demacien — Jambières (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.472a49c5b0e8dc35",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Soldat Demacien — Jambières (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.413ceff320203617",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Soldat Demacien — Solerets (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.3cd1b616c6b75832",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Soldat Demacien — Solerets (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.2d7a0a1d1840518d",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Soldat Demacien — Solerets (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.cb1c599005641a6b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Berserker — Spangenhelm (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.78e39645609884ad",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Berserker — Spangenhelm (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.9f9cbc922facea18",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Berserker — Spangenhelm (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.b07d530301fb5272",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Berserker — Cuirasse (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.710a495516a5eb25",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Berserker — Cuirasse (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.3b16aa39aa65eb83",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Berserker — Cuirasse (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.d210f7e381fe71f0",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Berserker — Brassard (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.c87b2cb2476b9f93",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Berserker — Brassard (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.4d4bc5ba62cec15a",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Berserker — Brassard (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.376214b6ef73bc6d",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Berserker — Grèves (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.6b9f44003bb42d4f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Berserker — Grèves (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.0765145bd71eecc0",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Berserker — Grèves (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.3cf1c5be3595cfc8",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Berserker — Bottes (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.1d20fb4dfb07544f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Berserker — Bottes (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.8e049f3b2ea5b800",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue Berserker — Bottes (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.5c9dbf49c183fc5a",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Armure Spirituelle",
+    "uuid": "Compendium.jdr-runeterra.equipment.434ab07685590fe1",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Bracelets d’Edgardenn (Main",
+    "uuid": "Compendium.jdr-runeterra.equipment.976d52a12cad8506",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Cape de Diviindra (Torse",
+    "uuid": "Compendium.jdr-runeterra.equipment.f67913a8f56396d4",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Chuchoteur Hugmunn — Chapeau (L)",
+    "uuid": "Compendium.jdr-runeterra.equipment.8161aadc9915b402",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1vTJjPxpnCiVOs_bBtT4IojZNQcxsG_Rr.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Chuchoteur Hugmunn — Veste (L)",
+    "uuid": "Compendium.jdr-runeterra.equipment.dc1bb7702bc2180f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1vTJjPxpnCiVOs_bBtT4IojZNQcxsG_Rr.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Chuchoteur Hugmunn — Gants (L)",
+    "uuid": "Compendium.jdr-runeterra.equipment.8970a26958ed16a5",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1vTJjPxpnCiVOs_bBtT4IojZNQcxsG_Rr.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Chuchoteur Hugmunn — Pantalon (L)",
+    "uuid": "Compendium.jdr-runeterra.equipment.e1bf6e6f60bca8b6",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1vTJjPxpnCiVOs_bBtT4IojZNQcxsG_Rr.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Chuchoteur Hugmunn — Bottes (L)",
+    "uuid": "Compendium.jdr-runeterra.equipment.434467f01464119e",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1vTJjPxpnCiVOs_bBtT4IojZNQcxsG_Rr.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Manteau de la Toundra (Torse)",
+    "uuid": "Compendium.jdr-runeterra.equipment.ce9dc1206800fd40",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1cVg7VJpj0UtME1hBYYqq9Gu0JcCeQcnw.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tablier des Feux de l’Âtre (Torse)",
+    "uuid": "Compendium.jdr-runeterra.equipment.689f69a492318c3b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Petites Armes de Mêlée",
+    "uuid": "Compendium.jdr-runeterra.equipment.d37aa1f3855cc93f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Grandes Armes de Mêlée",
+    "uuid": "Compendium.jdr-runeterra.equipment.c304aaea35049198",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Petites Armes à Distance",
+    "uuid": "Compendium.jdr-runeterra.equipment.a9bd1af137641694",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Grandes Armes à Distance",
+    "uuid": "Compendium.jdr-runeterra.equipment.c344b6a720c203d9",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Petites Armes Magique",
+    "uuid": "Compendium.jdr-runeterra.equipment.97f5a77cf01f7f4a",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Grandes Armes Magique",
+    "uuid": "Compendium.jdr-runeterra.equipment.3ba838162ff527ad",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Armes Poudre Ygnovarn",
+    "uuid": "Compendium.jdr-runeterra.equipment.dcc3f4bbec2fb670",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Fidèle Nasil",
+    "uuid": "Compendium.jdr-runeterra.equipment.d0be3ff174ada75e",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1YSq0GFtf1SXBe3A7RjqFVP-CNkXg_6K6.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Hachoir Incisif",
+    "uuid": "Compendium.jdr-runeterra.equipment.cac1b8c4328377a5",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1lMlfdnM6Op2qi_8Fgb0fKT95cz0Tu3D-.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Morsvarünn",
+    "uuid": "Compendium.jdr-runeterra.equipment.f14f3bdd685a01e5",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Ofléore",
+    "uuid": "Compendium.jdr-runeterra.equipment.755fb3028cca162e",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1G3zbr78brvaBJ_CIIH71ld0KcBAQ-U-I.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Vière Rouge",
+    "uuid": "Compendium.jdr-runeterra.equipment.94a3cf66fcc7685f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1M676CZBtwLURSRLgUNXN98TYQJwcLJDG.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Belogure",
+    "uuid": "Compendium.jdr-runeterra.equipment.641d27d0c817f028",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1msS-6a89XWFznzcZXQ292nF7BMc74OH3.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Aqua-Lame en Fiole",
+    "uuid": "Compendium.jdr-runeterra.equipment.2db762853256cb9f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1TJ37EZl4hVIx3UainpR5yWV5Al0ASIqi.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Dague Éthérée “Ynshaarum”",
+    "uuid": "Compendium.jdr-runeterra.equipment.f6f18f2428ee1a6b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1Egwb_Xn_IUPPsMVspaR-80kRcEjGN2j3.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Épée Glorieuse",
+    "uuid": "Compendium.jdr-runeterra.equipment.aa7122ee2825a6ba",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1E3V7bC6eopZTUQQC_mnmgjk3EA4czm_l.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Fende-Flamme",
+    "uuid": "Compendium.jdr-runeterra.equipment.ade3f849a0900008",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1lOSJ9YJ8cBRCFkyu0s3LtJe7VOTS0KLA.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Galidarium",
+    "uuid": "Compendium.jdr-runeterra.equipment.3ea7c75f8d59fbe1",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1ORXFFagR_qNWLFENqAQZ63_9X9tNcNMr.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Oczkafürr",
+    "uuid": "Compendium.jdr-runeterra.equipment.8c4d9d6785c004ed",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Oktalka",
+    "uuid": "Compendium.jdr-runeterra.equipment.8c24d11da32769c8",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/11nnCXp3BbR5zceIDVyeqIOY64T7S-8vW.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Oldahviing / Oldahviing de Glace Pure",
+    "uuid": "Compendium.jdr-runeterra.equipment.c34b26fe67933fed",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1rR5dMTYSMyLppzsQYvQ_0krUtBxR1l_u.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Prouesse Demacienne",
+    "uuid": "Compendium.jdr-runeterra.equipment.edd195f90df96aba",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1fitOvRbAMxYxuj55cvtnHKkTNOtlAnnD.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Skalbval (Pourfend-Crâne)",
+    "uuid": "Compendium.jdr-runeterra.equipment.988a2189dd2b0053",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1MP_3Ih_hVPdvAXtYQTg-gjU1abt3JU_j.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Sylfang “Bâton du Druide Perdu”",
+    "uuid": "Compendium.jdr-runeterra.equipment.26d7ecaa2ac222eb",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1Y0U3vJbWssdD3_MebAMypQP2wGED5WFc.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tranchevif",
+    "uuid": "Compendium.jdr-runeterra.equipment.ced4fc95d2c10f69",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1WvnVXVuu09qix6F9DTcXPo6MaVopLR5o.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Daēdraem “Tueuse de Colosse”",
+    "uuid": "Compendium.jdr-runeterra.equipment.e6bedb277fca29a2",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1KJSI4Ude1bdLfSwp_13G2PCRvOlG4cvg.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Dagues DuCouteau",
+    "uuid": "Compendium.jdr-runeterra.equipment.f3704c709a8dbbfb",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/191N12fxaGn3jJN0iIcYgr71FT6QUvao-.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Épée Perdue d’Oczkadrn",
+    "uuid": "Compendium.jdr-runeterra.equipment.56e61f1a78c1a806",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1pbsMoBW4LxpYIQiSBvqL5hqffwKXcpsw.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Feulement d’Hiver",
+    "uuid": "Compendium.jdr-runeterra.equipment.2277083832d9e3f7",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1DvQ7BhFj3cYUhezOOKqu4-B3kk_J2TgY.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Heeljengdël",
+    "uuid": "Compendium.jdr-runeterra.equipment.f73953af40961f79",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1N5CFHcT5e5n6S3EaRymcWs7Olx5NQED5.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Hulg'Alvirr",
+    "uuid": "Compendium.jdr-runeterra.equipment.76272d2a4b34b00d",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1GuMf4v3f7Z5wXQeEg5hlkuXi8nHsRp94.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "i",
+    "uuid": "Compendium.jdr-runeterra.equipment.c92905738dfc63df",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1hD3RRGn9VKwXKsBug4UJ0GwCed8QAale.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Lance de Vargh’Heggen (Perlée*)",
+    "uuid": "Compendium.jdr-runeterra.equipment.5401ab39a855d6b9",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1Rnv1PV-5Gasmdm1JF9K_1pdIlkBg8aa0.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue de Voleur — Tête (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.f3bb13ab5c214ff0",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue de Voleur — Torse (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.ea398ce092820719",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue de Voleur — Mains (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.fe2475039050bc93",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue de Voleur — Jambes (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.780dc914c6dddb57",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue de Voleur — Pieds (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.fd880f33c7be6397",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue de Voleur — Tête (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.1c6eeda12bb976b0",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue de Voleur — Torse (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.effec80f0664374b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue de Voleur — Mains (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.bfe46ee7ba82bdf5",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue de Voleur — Jambes (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.595a26e1dbb66944",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue de Voleur — Pieds (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.003d43b27bfd3b5b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue de Voleur — Tête (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.41d0b245d64046a0",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue de Voleur — Torse (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.2c3c681eb53cb210",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue de Voleur — Mains (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.e23cc6b8dd855a10",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue de Voleur — Jambes (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.9cf7bd8003399d0b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue de Voleur — Pieds (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.a8610bc6f7d0c145",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Ingénieur Freljordien — Tête (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.0f79777d6422a2b6",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Ingénieur Freljordien — Torse (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.af83c897caca1508",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Ingénieur Freljordien — Mains (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.ad1407e3b5816922",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Ingénieur Freljordien — Jambes (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.8cd4e13d48e8eb5b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Ingénieur Freljordien — Pieds (B)",
+    "uuid": "Compendium.jdr-runeterra.equipment.f5841e4d83c591dc",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Ingénieur Freljordien — Tête (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.9827486737628336",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Ingénieur Freljordien — Torse (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.96fa01295bad22cb",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Ingénieur Freljordien — Mains (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.fb7599c645cfc239",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Ingénieur Freljordien — Jambes (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.272d8d16ab1973b5",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Ingénieur Freljordien — Pieds (R)",
+    "uuid": "Compendium.jdr-runeterra.equipment.c429048fa27ed2f8",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Ingénieur Freljordien — Tête (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.ecec057c73067e2e",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Ingénieur Freljordien — Torse (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.1adc98cc387818c8",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Ingénieur Freljordien — Mains (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.55565bf483bc2534",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Ingénieur Freljordien — Jambes (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.f029558d15d4217a",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tenue d’Ingénieur Freljordien — Pieds (O)",
+    "uuid": "Compendium.jdr-runeterra.equipment.4c39c649b6dcbe40",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "ANTIDOTE",
+    "uuid": "Compendium.jdr-runeterra.consumables.91abf8dd835d65ee",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "BESTIALINTUS",
+    "uuid": "Compendium.jdr-runeterra.consumables.a7b6405f4b6dcb15",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "BOUGIE D’ÉMOTION",
+    "uuid": "Compendium.jdr-runeterra.consumables.d55d3e0cb816eb06",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "CURASOM",
+    "uuid": "Compendium.jdr-runeterra.consumables.286544a33e5a933e",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1AzxjqJuw76p0tg81jFa2G9GBXsU9LX7S.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "HUDVARM ELIXIR",
+    "uuid": "Compendium.jdr-runeterra.consumables.bd6ea1a0d773b744",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "POMMADARMUR",
+    "uuid": "Compendium.jdr-runeterra.consumables.dd2e11507c0cb6cf",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "RAMS CRAFFLE",
+    "uuid": "Compendium.jdr-runeterra.consumables.3e21254c117efc85",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "RENOVIS  LIQUOR",
+    "uuid": "Compendium.jdr-runeterra.consumables.cf2588f10b58d556",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "ROUGE VISION",
+    "uuid": "Compendium.jdr-runeterra.consumables.6e62fb6f3c5146cd",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "TOURNE-CHANCE",
+    "uuid": "Compendium.jdr-runeterra.consumables.0f5d60d99bd42e95",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "APPARENTIUM",
+    "uuid": "Compendium.jdr-runeterra.consumables.74f60ba998e5f558",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "ÉLIXIR DE FER",
+    "uuid": "Compendium.jdr-runeterra.consumables.24e311a2243f3b7e",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1tRZrmVoHnmGd8glxjDXUrt1br87ityT4.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LUMERIA SERUM",
+    "uuid": "Compendium.jdr-runeterra.consumables.db187e3b362e0f81",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "MEMORISYS",
+    "uuid": "Compendium.jdr-runeterra.consumables.28c23479276744a4",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "VHÆTHERÜD",
+    "uuid": "Compendium.jdr-runeterra.consumables.307f17c8a8086df4",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "VIVACIUM",
+    "uuid": "Compendium.jdr-runeterra.consumables.da9c7009f59157c3",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "APPADRAGON",
+    "uuid": "Compendium.jdr-runeterra.consumables.798e5858d5c95432",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1whHF4gEYex-CX6hXXV0HZ-c63RTQSpol.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "AURORA CONTRARIUM",
+    "uuid": "Compendium.jdr-runeterra.consumables.df0aacf1ce4f8485",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1Hkj-uMfAHfIKrD6E1_H7hLDWiogH1ry3.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "DIVINA RESTRUM",
+    "uuid": "Compendium.jdr-runeterra.consumables.b47554107db97b1b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/14-BGfU-6IDJRrwiuOAiK6tzlCzH6RmoX.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "ÉPINE CRISTALLIN",
+    "uuid": "Compendium.jdr-runeterra.consumables.e717d66281238a9d",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1gLPD9fDYbLMPAjW5o92lzOI0nqX8wQhk.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "CHROXURE LIQUIDE",
+    "uuid": "Compendium.jdr-runeterra.consumables.bb184d73568bf7e2",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/14Nj71RHwYrs9UlTcw-ZCl-DfEXpaZVHE.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "ELIXIR GLACE PURE",
+    "uuid": "Compendium.jdr-runeterra.consumables.973134d8c8cc5da4",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "EXUTOIRE PERPÉTUEL",
+    "uuid": "Compendium.jdr-runeterra.consumables.25b12944ee5ad31b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1ZNakk-Yjx0quUbofREeiLQ0iAiAQ1TpW.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "PERIUS MODERAS",
+    "uuid": "Compendium.jdr-runeterra.consumables.ecd902eba7f733e2",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/122CeTiTxSqWRf8hlBwH1J46VrRujXXUm.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "SANG DE L’IMMORTEL",
+    "uuid": "Compendium.jdr-runeterra.consumables.46cd855c02704472",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/194qkuUgCh8Pdd5H8BRutzHNBXdnb9A6e.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "APHRÈNE",
+    "uuid": "Compendium.jdr-runeterra.consumables.6b9465071bbb3d41",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1Di0hdNc8zdajwGrXWJHSEbvpreYCuCV9.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "CLAVAIRE GELÉE - (CHARGÉE)",
+    "uuid": "Compendium.jdr-runeterra.consumables.1a62fe829df2d9fd",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/12DIWUHLG9OIiKNDW71Sh8bueUTeBml0j.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "DEDVARN (FLEUR)",
+    "uuid": "Compendium.jdr-runeterra.consumables.aaac6e37b92435aa",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1j7HnrJhwXFNGEJxUm2TAeEAGOg8pnFAz.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "DIVINIS ORIENTUS",
+    "uuid": "Compendium.jdr-runeterra.consumables.227d53493acd433e",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/15yJlva1ShFMGWAmct7DYPicg0Xmg7Pyr.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "FLEURE CRISTALLIN",
+    "uuid": "Compendium.jdr-runeterra.consumables.25986b7954bf9f94",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/12srcXiZZSUBQmCS4wvCUwXYeYBI-oHwP.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "GRAVELEUSE ARGENTÉE",
+    "uuid": "Compendium.jdr-runeterra.consumables.995861bc028631ca",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/12DDTfmE4SmwKb0bDgswzCcWuFLlhdRDn.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "HRYMROOT ALVARA",
+    "uuid": "Compendium.jdr-runeterra.consumables.e539ca5b8f335764",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/12uWqSVKJlm8sJGGWEneOHgPGB1BSBaIj.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "HUE",
+    "uuid": "Compendium.jdr-runeterra.consumables.7e46906d3e772124",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/12mqGKXskyCBg6kCIhpe7CnYFmr8idEXo.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "IVNEVERN",
+    "uuid": "Compendium.jdr-runeterra.consumables.8bafe5a75ed4f9c4",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/12s5C5xkMGaxSNeFeZLWxxpl8f9a7VFPR.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "JONC-DORÉ",
+    "uuid": "Compendium.jdr-runeterra.consumables.d941d69be96998c9",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/12TTAJKDZUpnGBHic7wfnszyN7I_rApku.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "OKLIS",
+    "uuid": "Compendium.jdr-runeterra.consumables.2b9621e531c15e44",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/12iGbn0IoUYAYAHmYJZRMI3lrMWf-DqTC.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "OLGÜR",
+    "uuid": "Compendium.jdr-runeterra.consumables.a0b253d4121a0ef8",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1qrcTreIaR_nOzC3Iaopo56gPpLtg1y_z.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "SORNËLLES",
+    "uuid": "Compendium.jdr-runeterra.consumables.c67cc32ed330ca8b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1jGCXQIFJ9icOvd0AefI5MetqEWJtoaHQ.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "UN CHEMIN S’OUVRE DANS LE NORD",
+    "uuid": "Compendium.jdr-runeterra.consumables.fe300be7c08c4cc3",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "DU PHOENIX AU BÉLIER",
+    "uuid": "Compendium.jdr-runeterra.consumables.0c0b264dcd43fe83",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "RAGNAR VIT ET REGORGE D’ESPOIR",
+    "uuid": "Compendium.jdr-runeterra.consumables.d6f08d26fc872a54",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "CALENDRIER DES PLEINES LUNES",
+    "uuid": "Compendium.jdr-runeterra.consumables.fd60e29a4bc4fc2a",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "QUAND LA HACHE DE GUERRE CROISE LA FOUDRE",
+    "uuid": "Compendium.jdr-runeterra.consumables.a73392e38dd31996",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "UNE VIE REMPLIE DE SECRETS",
+    "uuid": "Compendium.jdr-runeterra.consumables.22e47efef9cacfd6",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LA GLACE PURE EST LA CLÉ",
+    "uuid": "Compendium.jdr-runeterra.consumables.1dee03196dfe7bec",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1BKGkCyod1cPVKDnpcCK3IDoxLiRPMy0V.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LA MER DU CONQUÉRANT",
+    "uuid": "Compendium.jdr-runeterra.consumables.87b0e6308e3c0361",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LA VOIE LA PLUS DIFFICILE",
+    "uuid": "Compendium.jdr-runeterra.consumables.35c5d1b99ad9c5aa",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "PIERRES RUNIQUES - TOME I",
+    "uuid": "Compendium.jdr-runeterra.consumables.72aecb6dd9d42d4b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LA FAUNE FRELJORDIENNE - TOME I",
+    "uuid": "Compendium.jdr-runeterra.consumables.fe6a381f6a5958a5",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "DES BABIOLES, DES PETITES CHOSES",
+    "uuid": "Compendium.jdr-runeterra.consumables.2cd53246dfe35e0e",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "UNE PORTE SANS CLÉ",
+    "uuid": "Compendium.jdr-runeterra.consumables.b87a874e09189d0a",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LES COMPTES OUBLIÉS D’ORNN",
+    "uuid": "Compendium.jdr-runeterra.consumables.274deb44a6989844",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LA MER DE GLACE",
+    "uuid": "Compendium.jdr-runeterra.consumables.8daef1e1eafc687e",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1B1pqd2f24cBLzphCPeGtzCCPbKQxweab.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "DANS LA PEAU DE L’OURS",
+    "uuid": "Compendium.jdr-runeterra.consumables.7a1eab62cca451dc",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "L’HOMME ET LE GRIFFON",
+    "uuid": "Compendium.jdr-runeterra.consumables.738bcf330e5be630",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "PIERRES RUNIQUES - TOME II",
+    "uuid": "Compendium.jdr-runeterra.consumables.d1b8c900c12ec9dd",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LA FAUNE FRELJORDIENNE - TOME II",
+    "uuid": "Compendium.jdr-runeterra.consumables.d9a7a495b38e7417",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LE NOM DE LA SOEUR-PHOQUE",
+    "uuid": "Compendium.jdr-runeterra.consumables.c974d0aafe9b1ee3",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1VJB9OUhF-LawbT7-y-rsMscdr1ay6F8U.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LE TERTRE SECRET DE SERYLDA",
+    "uuid": "Compendium.jdr-runeterra.consumables.514e2663cae0e3bb",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "DANS SA PEAU ET DANS SON OMBRE",
+    "uuid": "Compendium.jdr-runeterra.consumables.ba46b713836cdae4",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LES SECRETS D’ILDHAURG - LA SURPLOMBE OUBLIÉE",
+    "uuid": "Compendium.jdr-runeterra.consumables.25e07c3e7330cca7",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LES RÉCITS PERDUS DE RUNETERRA",
+    "uuid": "Compendium.jdr-runeterra.consumables.d4d90ef6ff5bf768",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "GUIDE DU DRACONOPHILE - FRELJORD EDITION (UNIQUE)",
+    "uuid": "Compendium.jdr-runeterra.consumables.3c3c7545f9f3283b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "SÉPULTURE D’OAVIR",
+    "uuid": "Compendium.jdr-runeterra.consumables.387e2b312ecf8c39",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "PIERRES RUNIQUES - TOME III",
+    "uuid": "Compendium.jdr-runeterra.consumables.f28f290195a2ea2a",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LA FAUNE FRELJORDIENNE - TOME III",
+    "uuid": "Compendium.jdr-runeterra.consumables.93300a3012d12591",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "GRIMOIRE DES ÂMES DU MEJAI",
+    "uuid": "Compendium.jdr-runeterra.consumables.b047d11dfbd2f4e0",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/10RyL-2rIRgBZxZVbw6-KbxJVT84RkD3M.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "GRIMOIRE OKNUÜN",
+    "uuid": "Compendium.jdr-runeterra.consumables.8f8e2f50ee2dc061",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1-hxMrPMadGa9iFX9Bne-rRbsSH_YfMMF.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LES INDIVELLIUMS",
+    "uuid": "Compendium.jdr-runeterra.consumables.3fd554374b43ea07",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/10VI8fAZPhCHy9zkZH6TUECbstkCJL938.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Feuille 100g Hue",
+    "uuid": "Compendium.jdr-runeterra.consumables.c8508b7dda540a00",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Feuille 100g Ivneverr",
+    "uuid": "Compendium.jdr-runeterra.consumables.3ebf3ccc47cbd2ca",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Dedvarn /u",
+    "uuid": "Compendium.jdr-runeterra.consumables.ca3bb37e23a359be",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Feuille 10g Cristallin",
+    "uuid": "Compendium.jdr-runeterra.consumables.28542fc131ca22b5",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Sève 1L Hue",
+    "uuid": "Compendium.jdr-runeterra.consumables.ddcafecee3707a67",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Sève 1Kg Oklis",
+    "uuid": "Compendium.jdr-runeterra.consumables.f56fa0559ed27603",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Sève 1L Ivnevern",
+    "uuid": "Compendium.jdr-runeterra.consumables.3fc7e45e7a21c06c",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Bulbe /u Jonc Doré",
+    "uuid": "Compendium.jdr-runeterra.consumables.534778ddc637090a",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Hrymroot /u Alvara",
+    "uuid": "Compendium.jdr-runeterra.consumables.dedcefe0fd3c135e",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Pistille /u Cristallin",
+    "uuid": "Compendium.jdr-runeterra.consumables.ab9a30db2402834b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Graines 100g Fruit Ionien",
+    "uuid": "Compendium.jdr-runeterra.consumables.bef127bfbe8fdcbd",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Graine /u Aphrène",
+    "uuid": "Compendium.jdr-runeterra.consumables.5aa7b487ba6cbaaf",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tabac 100g",
+    "uuid": "Compendium.jdr-runeterra.consumables.a26896cd09c6f2ed",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Divinis /u Orientus",
+    "uuid": "Compendium.jdr-runeterra.consumables.6dedc74d88119760",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Sornëlles 100g",
+    "uuid": "Compendium.jdr-runeterra.consumables.2b47a9e74461f43b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Graine /u Dedvarn",
+    "uuid": "Compendium.jdr-runeterra.consumables.95e90832aa721c25",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Coco Ionienne (Memi'ste)",
+    "uuid": "Compendium.jdr-runeterra.consumables.6180d9ee119b23e7",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Clavaire 50g Gelée Chargée",
+    "uuid": "Compendium.jdr-runeterra.consumables.1cbcd1dac8e6d725",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Clavaire 50g Gelée Vide",
+    "uuid": "Compendium.jdr-runeterra.consumables.517b2ffddd35f021",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Graveleuse /u Argentée",
+    "uuid": "Compendium.jdr-runeterra.consumables.26712a2ebed3e611",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Venin 0,5L Hystégriffe",
+    "uuid": "Compendium.jdr-runeterra.consumables.e729b27cea54641f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Venin 0,5L Ugvar Royale",
+    "uuid": "Compendium.jdr-runeterra.consumables.f7c6ee6d889bd99b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Venin 0,5L Grellfeen",
+    "uuid": "Compendium.jdr-runeterra.consumables.de4d37876896115b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Visque 1L Baorgük",
+    "uuid": "Compendium.jdr-runeterra.consumables.d6636fe9d8fb4a62",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Visque 0,5L Croquin",
+    "uuid": "Compendium.jdr-runeterra.consumables.d184223a685b3dcd",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Poudre 10g Ibir",
+    "uuid": "Compendium.jdr-runeterra.consumables.5cdef04da438308c",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Poudre 10g Mothdragon",
+    "uuid": "Compendium.jdr-runeterra.consumables.1787e86eccb49131",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Poudre 10g Aurora",
+    "uuid": "Compendium.jdr-runeterra.consumables.8d3ccfb017a42bb3",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Glande /u Baorgük",
+    "uuid": "Compendium.jdr-runeterra.consumables.6b1ac77929c32c0f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Glande /u Pince-Requin",
+    "uuid": "Compendium.jdr-runeterra.consumables.e907b547869f8717",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Glande /u Croquin Affamé",
+    "uuid": "Compendium.jdr-runeterra.consumables.e1d8f4cb89630bc4",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Glande /u Grellfeen",
+    "uuid": "Compendium.jdr-runeterra.consumables.7a2d7fb19b4ece0f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Corne 100g Hyve Bovine",
+    "uuid": "Compendium.jdr-runeterra.consumables.647439c326b3c0bd",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Corne /u Pince-Requin",
+    "uuid": "Compendium.jdr-runeterra.consumables.cd998b92fc47a70c",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Essence Foetus Dragon",
+    "uuid": "Compendium.jdr-runeterra.consumables.7c09611de7f00dd5",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Ecailles 1g Buu Fish",
+    "uuid": "Compendium.jdr-runeterra.consumables.d46f837486bff05e",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Fourrure 1Kg Abravif",
+    "uuid": "Compendium.jdr-runeterra.consumables.70725391bdc3079f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Fourrure /u Phoque-Nain",
+    "uuid": "Compendium.jdr-runeterra.consumables.2e81331b4ac61df1",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Encre 1L Gekodo",
+    "uuid": "Compendium.jdr-runeterra.consumables.59d22ccaa47f786e",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Visque 1L Pince-Requin",
+    "uuid": "Compendium.jdr-runeterra.consumables.d3d08660910bda77",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Eau de Temps 1L",
+    "uuid": "Compendium.jdr-runeterra.consumables.cd1ce1f48c3a9053",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Essence",
+    "uuid": "Compendium.jdr-runeterra.consumables.7f50878b7b355a22",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Shimmer 0,1L",
+    "uuid": "Compendium.jdr-runeterra.consumables.c7195b83fe8b86b9",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Glande Hyve Corrompue",
+    "uuid": "Compendium.jdr-runeterra.consumables.990af640962884ae",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Bouchée Divine",
+    "uuid": "Compendium.jdr-runeterra.consumables.7fc040d41abb8b88",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Essence Foetus Dragon (L)",
+    "uuid": "Compendium.jdr-runeterra.consumables.3477e0b57a621705",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Fourrure 1kg Soeur Phoque",
+    "uuid": "Compendium.jdr-runeterra.consumables.581d15615d2d7814",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Glande Arpeka  des Glaces",
+    "uuid": "Compendium.jdr-runeterra.consumables.ec778bb30a6f31bb",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Sang  Tryndamere",
+    "uuid": "Compendium.jdr-runeterra.consumables.7f6bd863a3090f05",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Corne 1kg Vargh'Heggen",
+    "uuid": "Compendium.jdr-runeterra.consumables.70d19f3423c28bc4",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Champignon  de Bandle",
+    "uuid": "Compendium.jdr-runeterra.consumables.cd875ff0f0cd1730",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Repas / Spécial / Luxe",
+    "uuid": "Compendium.jdr-runeterra.consumables.cca3659152f6f5ed",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Bière / Cidre  Hydromel / Luxe",
+    "uuid": "Compendium.jdr-runeterra.consumables.811361bea83d7a83",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Lait 1L Elnuk",
+    "uuid": "Compendium.jdr-runeterra.consumables.2a335d9bf72c0af2",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Lait 1L Vache",
+    "uuid": "Compendium.jdr-runeterra.consumables.2b3c095a58f6a8b6",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Alcool fort / Luxe",
+    "uuid": "Compendium.jdr-runeterra.consumables.d17f45dd299ae5a8",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Porosnax /  Spéciaux",
+    "uuid": "Compendium.jdr-runeterra.consumables.754828438b27b73c",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Fruit  Ionien",
+    "uuid": "Compendium.jdr-runeterra.consumables.b88f990cb27c749c",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Biscuit Navori",
+    "uuid": "Compendium.jdr-runeterra.consumables.5f06e2db76e879e0",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Légumes / Fruits kg",
+    "uuid": "Compendium.jdr-runeterra.consumables.9d84d0e7c80f9aa7",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Boeuf / Elnuk au Kg",
+    "uuid": "Compendium.jdr-runeterra.consumables.7f07a661c4157332",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Ugvar / Royale",
+    "uuid": "Compendium.jdr-runeterra.consumables.0fdd70c22b90c510",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Ibir",
+    "uuid": "Compendium.jdr-runeterra.consumables.67002514539690fb",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Hyve Bovine / Royale",
+    "uuid": "Compendium.jdr-runeterra.consumables.ff0d988953ac024c",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Porc / Sanglier / Drüvask",
+    "uuid": "Compendium.jdr-runeterra.consumables.980f12dcc62d0d33",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Baorgük /  Buu Fish",
+    "uuid": "Compendium.jdr-runeterra.consumables.30f3b5e074d85fee",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Phoque Nain",
+    "uuid": "Compendium.jdr-runeterra.consumables.b3f868b5c2ae8ce4",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Poulet /  Erblent",
+    "uuid": "Compendium.jdr-runeterra.consumables.2eb1990258bce961",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Saumon /  Cabillaud",
+    "uuid": "Compendium.jdr-runeterra.consumables.42e169018a7fecf7",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Moules / Bulots / Huîtres",
+    "uuid": "Compendium.jdr-runeterra.consumables.5996eca1d921b650",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Oeufs d'Ugvar  / Royal",
+    "uuid": "Compendium.jdr-runeterra.consumables.ac409332eaec8d35",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Boussole",
+    "uuid": "Compendium.jdr-runeterra.consumables.b2a9a7949387c2ec",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Kit Chasseur",
+    "uuid": "Compendium.jdr-runeterra.consumables.b4f9459eb317615b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Zippo / Lampe à Huile",
+    "uuid": "Compendium.jdr-runeterra.consumables.389078852b2d22aa",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Sac P / M / G",
+    "uuid": "Compendium.jdr-runeterra.consumables.98a85f5763354ee2",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tente 2P / 4P / 6P",
+    "uuid": "Compendium.jdr-runeterra.consumables.336bdcf4ae8e0859",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Kit Petits Outils / Couture",
+    "uuid": "Compendium.jdr-runeterra.consumables.f5488556f88616ed",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Kit Cuisine/ Pêche/ Campeur",
+    "uuid": "Compendium.jdr-runeterra.consumables.d5c03e65e9657378",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Pelle / Pioche / Hache",
+    "uuid": "Compendium.jdr-runeterra.consumables.e5dd2e8e631d2c31",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Instrument de musique",
+    "uuid": "Compendium.jdr-runeterra.consumables.b86cd1e07a3d44cd",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Vêtements Livres / Jeux",
+    "uuid": "Compendium.jdr-runeterra.consumables.95ce4975f2d88c48",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Babioles Enchantés",
+    "uuid": "Compendium.jdr-runeterra.consumables.8aa95c693159a38a",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Piège P / M / G",
+    "uuid": "Compendium.jdr-runeterra.consumables.d24e5f201a7f4626",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Piège Ingénieux P / M / G",
+    "uuid": "Compendium.jdr-runeterra.consumables.37d83d536742e208",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Selle pour Monture",
+    "uuid": "Compendium.jdr-runeterra.consumables.1d21cefde150e9a9",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Kit Amchimiste",
+    "uuid": "Compendium.jdr-runeterra.consumables.c5e6955c1a0a8570",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Calèche 3P / 5P / 7P",
+    "uuid": "Compendium.jdr-runeterra.consumables.a7878bc0bf48e17b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Bois 1kg",
+    "uuid": "Compendium.jdr-runeterra.consumables.14ce6d3f6d88dfeb",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tissu 1kg",
+    "uuid": "Compendium.jdr-runeterra.consumables.33749324f2264154",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Cuir 1kg",
+    "uuid": "Compendium.jdr-runeterra.consumables.86378121090b0af8",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Corne 1kg",
+    "uuid": "Compendium.jdr-runeterra.consumables.e7cf4dac7216d1b4",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Fer 1kg",
+    "uuid": "Compendium.jdr-runeterra.consumables.cd936203ba005f93",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Acier 1kg",
+    "uuid": "Compendium.jdr-runeterra.consumables.3e7a247c7dd6b264",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Argent 1kg",
+    "uuid": "Compendium.jdr-runeterra.consumables.bade3e073be8daf3",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Carbone 1kg",
+    "uuid": "Compendium.jdr-runeterra.consumables.5aef5eeb2d74a107",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Or 1kg",
+    "uuid": "Compendium.jdr-runeterra.consumables.ddead465c33cb3e0",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Cuir Mouflon  Géant 1kg",
+    "uuid": "Compendium.jdr-runeterra.consumables.204f4c84165a8ad8",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Cuivre 1 Kg",
+    "uuid": "Compendium.jdr-runeterra.consumables.e55d6b379bc85206",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Obsidienne 1kg",
+    "uuid": "Compendium.jdr-runeterra.consumables.d64622fe4fee7ddb",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Pétricite 1kg",
+    "uuid": "Compendium.jdr-runeterra.consumables.ce93f06540e191a1",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Pierre-Relique 1kg",
+    "uuid": "Compendium.jdr-runeterra.consumables.336cfa63b70527f7",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Oavir 10g",
+    "uuid": "Compendium.jdr-runeterra.consumables.03a8d9bbbf702ac7",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Carapace Ugvar R (1kg)",
+    "uuid": "Compendium.jdr-runeterra.consumables.84bafdaa51015d7d",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Plume-Acier 1kg (~2u)",
+    "uuid": "Compendium.jdr-runeterra.consumables.ca466a6578965b74",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Fer-Ardent 1kg",
+    "uuid": "Compendium.jdr-runeterra.consumables.a5ec181eb7116030",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Acier-Ardent 1kg",
+    "uuid": "Compendium.jdr-runeterra.consumables.01a5e272a69ec583",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Frostavorite 100g",
+    "uuid": "Compendium.jdr-runeterra.consumables.38e8735258b54b28",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Gréténite 10g",
+    "uuid": "Compendium.jdr-runeterra.consumables.a61424197f184e0d",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Épices / 0.1-5 Or",
+    "uuid": "Compendium.jdr-runeterra.consumables.22939e81f4e9edc5",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Graine d’Aphrène / 5 Arg",
+    "uuid": "Compendium.jdr-runeterra.consumables.3f42a7b030ca2c3e",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/130Yn2mezVpuH-SFhOXFLK64bYfihh4UB.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Biscuit Navori (Infaisable",
+    "uuid": "Compendium.jdr-runeterra.consumables.dc73eb6a8ae61289",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Boisson Bizutage Avarosan (Infaisable",
+    "uuid": "Compendium.jdr-runeterra.consumables.4918043d02f6c40b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Hydromel d’Odmünd (Recette Arthur) 2 Or /0.5L",
+    "uuid": "Compendium.jdr-runeterra.consumables.ecc726ea88624f68",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Miel d’Odmünd / 20 Or /200g (4 doses)",
+    "uuid": "Compendium.jdr-runeterra.consumables.8bc37cdb0000d8cf",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Hytrollmel (Recette Unique)",
+    "uuid": "Compendium.jdr-runeterra.consumables.70bb53f24f2fa649",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/12YOQ_VC7xHOxI3ZZOBGU0_LhzKTBFzUK.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Plat de Maman (personnage) / Inestimable",
+    "uuid": "Compendium.jdr-runeterra.consumables.17748bdc82ef60db",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Pointe d’Épine Cristallin / 70 Or",
+    "uuid": "Compendium.jdr-runeterra.consumables.c8b5e6761b62b563",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Poudre d’Aurora (Drogue) 30/50/65 Or /dose",
+    "uuid": "Compendium.jdr-runeterra.consumables.4371a95378c823a2",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Poudre Ygnovarn / 50 Or /1 kg",
+    "uuid": "Compendium.jdr-runeterra.consumables.caf4613eb44d2ada",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Shimmer (Drogue Chemtech) / 200 Or",
+    "uuid": "Compendium.jdr-runeterra.consumables.c222b4ca4d8c2c81",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1MXxNHPZPCX9ti2hgljo_KdjeG0t6Heb8.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Bouchée Divine (Unique) ? Or /dose",
+    "uuid": "Compendium.jdr-runeterra.consumables.6b6334c68b1e4747",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Champignons de Bundle 30 Or /u",
+    "uuid": "Compendium.jdr-runeterra.consumables.7a8769c0255cad55",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Fiole d’Eau de Temps (Eau Yordle/Eau de Bundle) ? Or /0.1 L",
+    "uuid": "Compendium.jdr-runeterra.consumables.7179757b3f7e0a29",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1IxPlyOjx8diX3WDysEMbcbUgtN7krmvx.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Fleure du Père Nature (Ivern) ? Or /u",
+    "uuid": "Compendium.jdr-runeterra.consumables.be87e4fb80ff6cce",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Grande Cuvée de Gragas 976  (Vin) / Limité (23 Bouteilles) ~180 Or (val puriste)",
+    "uuid": "Compendium.jdr-runeterra.consumables.8e500d085ee7e2f5",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Plats du Chef Nao",
+    "uuid": "Compendium.jdr-runeterra.consumables.dd6e8e1a5f7232a8",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Amnésie Locale. (-5 définitif au meilleur Attribut non Spécial).",
+    "uuid": "Compendium.jdr-runeterra.consumables.a5e2890834e2df81",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Poche de Venin cuit : vous rend malade (2H) Peut diminuer le temps et les effets avec un jet d’Endurance",
+    "uuid": "Compendium.jdr-runeterra.consumables.43e9365cf3307990",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Acier (ARM)",
+    "uuid": "Compendium.jdr-runeterra.consumables.36462a7b855eea26",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1x15DRKnlzl0DNX04vZgksKh6pVp9XDwj.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Argent (ARM / Persuasion)",
+    "uuid": "Compendium.jdr-runeterra.consumables.a3e09e1a6c5bc266",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/12peho6TrXcfpe3iqRHW9NHJNts7mcpo2.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Corne (Intimidation)",
+    "uuid": "Compendium.jdr-runeterra.consumables.6ddbb108208c524f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1hf14lWhT7uhSsmqTNMtv8R5dK31hW_kD.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Cuir (PV / ARM)",
+    "uuid": "Compendium.jdr-runeterra.consumables.d0667dca6897096a",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Fourrure (Résistance Froid)",
+    "uuid": "Compendium.jdr-runeterra.consumables.43eeef22fa917163",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1Jm2oxMnjZZoBjlKUA5_UOyR622_7RlpL.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Fer Runique (ARM / RM / DM)",
+    "uuid": "Compendium.jdr-runeterra.consumables.dfd0e804cab25046",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1fh7tFE_oHoTBzObyoXkDbiSUAmnNU5i8.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Or (ARM / Charisme / Persuasion)",
+    "uuid": "Compendium.jdr-runeterra.consumables.26f6188950d51853",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Fourrure Abravive (RM / DM / Réflexes / Agilité)",
+    "uuid": "Compendium.jdr-runeterra.consumables.5120abde387c9784",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Obsidienne (Charisme / Intimidation / Agilité / Saignement Profond)",
+    "uuid": "Compendium.jdr-runeterra.consumables.a170c4c0e26b3772",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Frostavorite “Fausse Glace Pure” (RM / Agilité / Discrétion) 40 Or/100g",
+    "uuid": "Compendium.jdr-runeterra.consumables.37b84cec3d3203a2",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Fer-Ardent ou Ramnhjart (Coeur d’Ornn) (ARM / Résistance Froid)",
+    "uuid": "Compendium.jdr-runeterra.consumables.30b6a243ca81461a",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1XdwZGNVyqtRiRnTmrl_w6R1QDe7l9go3.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Gréténite ou “Ulvakjarn” (Orientation / RM / Endurance) 20 Or/10g",
+    "uuid": "Compendium.jdr-runeterra.consumables.3abc69368ebd627d",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/142IXJbMVc_Bzipr7ztJ8cCJF4nUWmitF.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Pétricite (RM / PV)",
+    "uuid": "Compendium.jdr-runeterra.consumables.9381ae77131f0ac7",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/18wIZB2n0PpKCbyluKrt8j_3xKm_nNhvg.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Pétricium (ARM / RM / PV)",
+    "uuid": "Compendium.jdr-runeterra.consumables.3c7ff91459db14c1",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/151VFQEGqKiDtvTtbM2PF92CsbtDIFiUf.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Plume-Acier Raffiné (ARM / Agilité / Dextérité)",
+    "uuid": "Compendium.jdr-runeterra.consumables.6cc76780bb962621",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Glace Noire (DB / RM)",
+    "uuid": "Compendium.jdr-runeterra.consumables.cc7a4eeae8291be8",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/19w-4LP7pBSjQlTgDp-W1OyfagCKzhB2s.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Glace Pure (Sublimé / DB / RM)",
+    "uuid": "Compendium.jdr-runeterra.consumables.91e8c3b599ac3007",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1BKGkCyod1cPVKDnpcCK3IDoxLiRPMy0V.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Pierre-Relique (DM / RM / Anti Brume Noir)",
+    "uuid": "Compendium.jdr-runeterra.consumables.782553adfca4fcef",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/19U3lBdCvjUdKtFuh3_PexQgFrHMEPvBE.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Piques d’Onn’Vana ou “Oavir” (ARM / RM / PP / Agilité / Endurance / Réflexes)",
+    "uuid": "Compendium.jdr-runeterra.consumables.791368d0396e2afd",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Amulette d’Anivia | 1-2. Amulette d’Anivia Chargée",
+    "uuid": "Compendium.jdr-runeterra.magic.d8fcbd4b57c0fa6d",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1S-jg4MSb80qJCM_u6GJiRc91bbwpxD0q.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Pierres d’énergie Runique",
+    "uuid": "Compendium.jdr-runeterra.magic.ddbc1e8172ce8581",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Cartes Bonne-Main",
+    "uuid": "Compendium.jdr-runeterra.magic.d49ee9da1395a18c",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1RrfEveoaX8dtW-BBDpmeiyduOpWDZ4by.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Collier de Marchandage",
+    "uuid": "Compendium.jdr-runeterra.magic.41a42ed8f418aefd",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1IxonMRrJoV9yHhH_dRTPtS6mSHcJk1h5.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Grimaques",
+    "uuid": "Compendium.jdr-runeterra.magic.726a7e729a33c22b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Lumivision Hextech (Lumifix)",
+    "uuid": "Compendium.jdr-runeterra.magic.efa5f9bee16cd5fe",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/10aro9-K9rBm-sB3rppkxsvTgGUOu_bnT.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Menottes Pétricite",
+    "uuid": "Compendium.jdr-runeterra.magic.f5d16774ac9e3df1",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/10pAloGnh-Le8oD7Yr1_UQsDAbWosRjMU.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Ticket Hexgate",
+    "uuid": "Compendium.jdr-runeterra.magic.15b5ff87a6624523",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Boussole Ixtali",
+    "uuid": "Compendium.jdr-runeterra.magic.9c6e319a18cec9ee",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1-gzRwl5psY1ixc7SG-33KGBo44TFtuhh.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Corr d’Olyfaärg",
+    "uuid": "Compendium.jdr-runeterra.magic.8735af9565db40a9",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1aCOEPp644BW6XR9mKcs3PK9q3SmT9FL9.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Écharpe en Fourrure de Björld",
+    "uuid": "Compendium.jdr-runeterra.magic.d4174df55b86ceb7",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1Jm2oxMnjZZoBjlKUA5_UOyR622_7RlpL.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Gréténite “Ulvakjarn” ou Pierre de Grétneil",
+    "uuid": "Compendium.jdr-runeterra.magic.1176c1db22ef7876",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Indivellium",
+    "uuid": "Compendium.jdr-runeterra.magic.82a7acb69d1d8883",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1wZgy5rEYhQeLX_zQx6gVIpnMVfGxTlpA.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Lettres des Conjoints Éternels",
+    "uuid": "Compendium.jdr-runeterra.magic.8703bba0400f9837",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Luth du Barde Charlatan",
+    "uuid": "Compendium.jdr-runeterra.magic.2906329ecaef5869",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1-vK473p9U0H4siNOZ7YShPiZatMdUZIT.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Memovision Hextech",
+    "uuid": "Compendium.jdr-runeterra.magic.4c04b68f4ac7ad3b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1I2r3DukqrqYucnfT98KPFswecqRNq_ze.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Mobile-Oeil Hextech",
+    "uuid": "Compendium.jdr-runeterra.magic.6ca8a3e3a58f522a",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1nUIT0UKJIDE2_80e5Nnvb-I_eBOinXSi.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Transluiverre",
+    "uuid": "Compendium.jdr-runeterra.magic.3faf4f1d4323796b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Bague du Roi Déchu",
+    "uuid": "Compendium.jdr-runeterra.magic.01afd72df49a1f7f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1qBkHQ3texu37DUINVqomAuwpCx6Gp2b3.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Cloche d'Arengarr",
+    "uuid": "Compendium.jdr-runeterra.magic.9931387b28e30d45",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/10dgkDQZv5VHn_FQ4w0B74BCgPJZUuEzg.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Collier du Crescendo",
+    "uuid": "Compendium.jdr-runeterra.magic.eefe20a35de7986a",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Fiole de l'Éternel",
+    "uuid": "Compendium.jdr-runeterra.magic.00849b028642ae2e",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/16e3cnIiVMRjQpmpIrbjs3wZl4b7-2jYI.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Grimoire Oknuün",
+    "uuid": "Compendium.jdr-runeterra.magic.26734405aedab4f0",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1-hxMrPMadGa9iFX9Bne-rRbsSH_YfMMF.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Haro de Ashe",
+    "uuid": "Compendium.jdr-runeterra.magic.fa7d72ee893c9e83",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1-tEXpeC_cB2R8TobBWeNGBCV8emTinmw.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Havenbaag",
+    "uuid": "Compendium.jdr-runeterra.magic.19fd091624d19849",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1KmqPksclnQgZxlgFhTA49MEzgPTRSoxX.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Ildrunvirr (Chaudron d’Abondance)",
+    "uuid": "Compendium.jdr-runeterra.magic.6a7c8f10531ee997",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1rSO5kLbmjfA0jrNR1elN8-t7L2b7rryv.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Jordkljúfr",
+    "uuid": "Compendium.jdr-runeterra.magic.fc81efdd27b8013c",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/13xcgEwhY0hQ5vEH_Op6rbYfHRODTygp9.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Kit Couture Merisan",
+    "uuid": "Compendium.jdr-runeterra.magic.24091820237670f3",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1yEQ7qqdXzKg0vWSjL5Nao7l2jqCrZkK9.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Kit d’Outils d’Oavir",
+    "uuid": "Compendium.jdr-runeterra.magic.ba6e762e4e715fb1",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Lanterne de la Fournaise",
+    "uuid": "Compendium.jdr-runeterra.magic.a6883760cfa390c8",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1-ksAJ6A898g9cqpKtsp9EYdQVe1d4oOd.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Miroir d’Antireflet",
+    "uuid": "Compendium.jdr-runeterra.magic.c07d9c69ee3a6e15",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1-gVNceAUtTnMgq61-zMEhG5rS_0Ah7hp.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Pelle de Passage",
+    "uuid": "Compendium.jdr-runeterra.magic.abe33b5cea6fcccf",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Pendule Brisé du Lendemain",
+    "uuid": "Compendium.jdr-runeterra.magic.b1672b005a75ae02",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1-QgjwM-bkr9T0ssOk-6ABTRZjvPbNofG.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Pièce de Huul",
+    "uuid": "Compendium.jdr-runeterra.magic.966de518b03ea862",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Plume d’Onn’Vana",
+    "uuid": "Compendium.jdr-runeterra.magic.26b625fb7a7e7898",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1-GHUqPhA1OzJepaVgcLFRurG_tvMx5Vl.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Sphère de Kumbadge",
+    "uuid": "Compendium.jdr-runeterra.magic.693844abb5655e24",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Veillance du Disgracieux",
+    "uuid": "Compendium.jdr-runeterra.magic.80a73bbc8f4480a3",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1-6_3SVj2KBEkQSdTyl6yIu49L7kw_INW.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Vörnskrifa ou Pierre d’Esprit de Rhond",
+    "uuid": "Compendium.jdr-runeterra.magic.d44c0338d8fe5f08",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1-MD0qt-2sFnki6R6SZyHlKcQ019d5N2M.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Perle Jumelle",
+    "uuid": "Compendium.jdr-runeterra.magic.af6e6762c744e2fc",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Sceau Noir et Pages de Grimoir des Âmes de Mejai",
+    "uuid": "Compendium.jdr-runeterra.magic.ecbdc89d61373513",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Sifflet d’Orrkumgäal",
+    "uuid": "Compendium.jdr-runeterra.magic.6eb8f665f9bc1569",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Personnalisé",
+    "uuid": "Compendium.jdr-runeterra.magic.c6ff50cbb65a24c2",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Elémentaire (Magie Élémentaire/Enchanteur) voir Magies",
+    "uuid": "Compendium.jdr-runeterra.magic.2d63113e6b2776dc",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Runique (Pierres Runiques/Runes/Enchanteur) voir Magies",
+    "uuid": "Compendium.jdr-runeterra.magic.045e40935b2b811f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Hémomancie (Rituel Hémomancie/Enchanteur Alchimiste/Nécromancie)",
+    "uuid": "Compendium.jdr-runeterra.magic.379451215506a939",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Lien Animal (Spirituelle/Chamanique)",
+    "uuid": "Compendium.jdr-runeterra.magic.a55604e054336c12",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Ursidé (Magie Spirituelle/Chamanique/Rituel Ursidé/Valhir)",
+    "uuid": "Compendium.jdr-runeterra.magic.6f0a3002d2c57f61",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1SGpPsigRAoXWIIFikaBJphQ4cLjnVQUd.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Aquasymbiose (Magie Spirituelle/Chamanique)",
+    "uuid": "Compendium.jdr-runeterra.magic.25fbde38de6d8775",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Hextech (Craft Hextech/Module Hextech)",
+    "uuid": "Compendium.jdr-runeterra.magic.0a0343aa70df9af9",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/10aro9-K9rBm-sB3rppkxsvTgGUOu_bnT.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Chemtech (Craft Chemtech/Alchimiste)",
+    "uuid": "Compendium.jdr-runeterra.magic.efd7bc4be3778a8d",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Spirituel (",
+    "uuid": "Compendium.jdr-runeterra.magic.4f7c5f7182d4d9f2",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/14B4S-OOZrbfKOSnQppQnF8ynLAb6YMcW.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Céleste (",
+    "uuid": "Compendium.jdr-runeterra.magic.c7312892acd508e7",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Sang de l’Immortel (Sang Tryndamere)",
+    "uuid": "Compendium.jdr-runeterra.magic.f859573a1b11defb",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/194qkuUgCh8Pdd5H8BRutzHNBXdnb9A6e.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Elixir du Sublimé (Glande Arpeka/Anivia)",
+    "uuid": "Compendium.jdr-runeterra.magic.828dfbd5eb2466d2",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Perle Jumelle ()",
+    "uuid": "Compendium.jdr-runeterra.magic.12c0e6b9867bc151",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Perle de Vargh’Heggen (Magie Spirituelle/Course-Heggen)",
+    "uuid": "Compendium.jdr-runeterra.magic.54d6d09161203ab2",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1JKi8ovmZfixTJ5OLxuL242OqO7Pqldw4.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Bénédiction d’Ildhaurg (Oracle Tribu Renaissante/Ildhaurg)",
+    "uuid": "Compendium.jdr-runeterra.magic.7486353efbdf4ac0",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Bénédiction d’Anivia (Oracle Avarosan/Anivia)",
+    "uuid": "Compendium.jdr-runeterra.magic.e53000f36fabb740",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Bénédiction de la Soeur-Phoque (Fourrure Soeur-Phoque/Soeur-Phoque)",
+    "uuid": "Compendium.jdr-runeterra.magic.72fde3dfdb61b960",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Volontée de Valhir (Grand Ursidé/Volibear)",
+    "uuid": "Compendium.jdr-runeterra.magic.c84a6ed7c8032201",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rétribution de Rhond (Vörnskrifa/Rhond)",
+    "uuid": "Compendium.jdr-runeterra.magic.5883ffc105a330f5",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Flamme Perpétuelle (Feu de l’Âtre/Ornn)",
+    "uuid": "Compendium.jdr-runeterra.magic.293438eaebc31c9a",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Glace Pure (Arpeka des Glace/Anivia)",
+    "uuid": "Compendium.jdr-runeterra.magic.283591f913f831dc",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1BKGkCyod1cPVKDnpcCK3IDoxLiRPMy0V.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Glace Noire (Lissandra)",
+    "uuid": "Compendium.jdr-runeterra.magic.f1838cbe5ddd9533",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/19w-4LP7pBSjQlTgDp-W1OyfagCKzhB2s.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tellurique (Rune Primordiale/Ryze)",
+    "uuid": "Compendium.jdr-runeterra.magic.d17d8ff2bfc24785",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rituel des Esprits (Nécromancie/Chroxure Liquide)",
+    "uuid": "Compendium.jdr-runeterra.magic.6ebd116d3d4b4935",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Amour Momentané (Magie Spirituelle/Vesani)",
+    "uuid": "Compendium.jdr-runeterra.magic.e71a674247a26402",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Révélation d’Intentions (Magie Spirituelle/Onn’Vana)",
+    "uuid": "Compendium.jdr-runeterra.magic.af6314cbbbdfa7d1",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Transformation en Grü (Spirituelle/Hématomancie) Cheddar par Fromages aux 6 Âmes",
+    "uuid": "Compendium.jdr-runeterra.magic.24712fc536e094ef",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Le Pacte (Hémomancie/Hématomancie) Otis et Dragvirr",
+    "uuid": "Compendium.jdr-runeterra.magic.a7c58cb3b8c35d06",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Amaretsu (Spirituel/Langage) Laïda (voir Amaretsu)",
+    "uuid": "Compendium.jdr-runeterra.magic.3e322a86110dc5c3",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1qMiMe_gNT_br9laFtaIlCwRxpQQBESDF.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Oknuün (Spirituel/Langage/Nécromancie) Grimoire Oknuün par Ott",
+    "uuid": "Compendium.jdr-runeterra.magic.a81ff593883866da",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1-hxMrPMadGa9iFX9Bne-rRbsSH_YfMMF.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune Aléatoire / Avancée / Complexe  15/35/65 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.9398636cb2932444",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune Neutre / Avancée / Complexe  10/20/40 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.e99203cd2a058431",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune de Feu  10 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.3c8356de172d2942",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1qj2lVhE1ENEyKZ-42S2k8fgonjFcqU8M.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune de Glace / Avancée / Complexe  10 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.0ab555ce679b3353",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune de Vent / Avancée / Complexe  12 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.c5e8f0ae9470f257",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune de Foudre 12 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.ddd085937d31647f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune de Roche / Avancée / Complexe 10 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.f87e508fc18954fd",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune d’Ombre Avancée 40 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.6461d778be37e189",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune de Nature Avancée 20 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.2927b7801d5d3789",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune de Foudre Avancée (Plasma) / Complexe 25 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.6765a0ac2718e18c",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune de Feu Avancée (Magma) 25 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.9dfc7bc540462550",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune de Métal Avancée 35 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.0e706075c672c33e",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune de Son Avancée 35 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.0b87044135172cc3",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune de Temps Avancée 40 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.5f659083b812ab24",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune d’Attraction Avancée 30 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.fc14133db8732171",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune de Feu Complexe (Fusion) 45 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.50dec04162d3437b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune de Sang Complexe 60 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.ae8d839fbf5c3cd0",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune de Son Complexe 65 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.d39495b0104c7ce7",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune de Vision Spirituelle Complexe 75 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.21263f799ea40b9b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune de Temps Complexe 90 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.ff2cbeae4b1d1123",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune de Glace Pure 00 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.172ba0304843c942",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune de Création Unique 00 Or",
+    "uuid": "Compendium.jdr-runeterra.magic.6d439bfed5f1a1a5",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune Tellurique de Précision Inestimable",
+    "uuid": "Compendium.jdr-runeterra.magic.e62a542a219143bc",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune Tellurique de Domination Inestimable",
+    "uuid": "Compendium.jdr-runeterra.magic.e938963992a3ab37",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune Tellurique de Sorcellerie Inestimable",
+    "uuid": "Compendium.jdr-runeterra.magic.2b9bd68fe8d87108",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rune Tellurique de Résolution Inestimable",
+    "uuid": "Compendium.jdr-runeterra.magic.6b0b69133460fac4",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Chapeau Prise-Melon",
+    "uuid": "Compendium.jdr-runeterra.magic.f3fbcb88e00d38c0",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1LiiC381dO7ydqTRuExCSwtrpsvdvaTw_.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Pinceau-tonome",
+    "uuid": "Compendium.jdr-runeterra.magic.8cc395677937937e",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Orêveur",
+    "uuid": "Compendium.jdr-runeterra.magic.d1d802147d67b956",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Les Alliances Maudites",
+    "uuid": "Compendium.jdr-runeterra.magic.dab8a3bdae420c67",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "L'Écharpatoire",
+    "uuid": "Compendium.jdr-runeterra.magic.2927b263d17ba1c6",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Bonbon Blabla x4",
+    "uuid": "Compendium.jdr-runeterra.magic.93b50707d0cf228b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "L’Aspirardeur",
+    "uuid": "Compendium.jdr-runeterra.magic.1c45a63bfac478b0",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Poro Péteur (Familier)",
+    "uuid": "Compendium.jdr-runeterra.magic.afc1b4e097495114",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Pousse-Pustule",
+    "uuid": "Compendium.jdr-runeterra.magic.641f3c5ead1efe0f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Bidule qui Grince",
+    "uuid": "Compendium.jdr-runeterra.magic.c94fa56896ab6c5f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Les Comptes de Mauprésent",
+    "uuid": "Compendium.jdr-runeterra.magic.e938fef4cc6926bb",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Poudre de Plat-palais",
+    "uuid": "Compendium.jdr-runeterra.magic.b8af90c493967174",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Peluche Renforego x2",
+    "uuid": "Compendium.jdr-runeterra.magic.30185bdfcb440e43",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1rBBbqV5O_xFqbAYKTK11_8-8S0k6JSG8.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Sac-à-pattes",
+    "uuid": "Compendium.jdr-runeterra.magic.321e259bf07d5678",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1xIay_rj4tQYZC88OIJItRGdt899qDRJL.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Anti-Miroir",
+    "uuid": "Compendium.jdr-runeterra.magic.628643f2993f5083",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1-gVNceAUtTnMgq61-zMEhG5rS_0Ah7hp.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Sbire Mage (Familier)",
+    "uuid": "Compendium.jdr-runeterra.magic.7373107ee3d6522f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1pxYsUai2Ekk4ilaresN57PJrdhgJjOGP.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Les Bablebûches x(1D20)",
+    "uuid": "Compendium.jdr-runeterra.magic.771df475f2103e93",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/11pp9n6h6qV4Eicwr0EVsZblkM5h_Dm8z.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Les Identinocles",
+    "uuid": "Compendium.jdr-runeterra.magic.7195f6e803c72351",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Flûte Auto-magique",
+    "uuid": "Compendium.jdr-runeterra.magic.51bbc89d87d02e39",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/16NcIWMHFjhu44mO7UnK_ii_7zvMC02hd.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Machine à Idées (1 Or = 1 Idée)",
+    "uuid": "Compendium.jdr-runeterra.magic.f678a4e96138c5d2",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Miroir Yordle (Gratuit)",
+    "uuid": "Compendium.jdr-runeterra.magic.384f11f17efa0619",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "L’Échange Sacrificiels (Unique)",
+    "uuid": "Compendium.jdr-runeterra.magic.03208cad00787b13",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Le Savoir Réciproque (Illimité",
+    "uuid": "Compendium.jdr-runeterra.magic.4bcd897c5d2ce907",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Démon de la Malchance (1x /joueur)",
+    "uuid": "Compendium.jdr-runeterra.magic.0843954d301d3d1d",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "La Caravane de Virgule (Rare)",
+    "uuid": "Compendium.jdr-runeterra.magic.4f2454ff8797d07b",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/drive/1CuTMF2y_ZvhGIG3TGeiaCuj2pmJMSRj8.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rhume (Virale)",
+    "uuid": "Compendium.jdr-runeterra.magic.75d56b45f8293505",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Rhume (Magique)",
+    "uuid": "Compendium.jdr-runeterra.magic.075bfa969e64e8a4",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Sueur-Écarlate “Riðssviti Ytkit” (Bactérienne)",
+    "uuid": "Compendium.jdr-runeterra.magic.1b384d155dd3f8d5",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Intoxication (Bactérienne)",
+    "uuid": "Compendium.jdr-runeterra.magic.2f79ec8af11d9967",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Puce Goyuzi (Bactérienne)",
+    "uuid": "Compendium.jdr-runeterra.magic.2220b12ce0e2efaa",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Brevervancine (Magique)",
+    "uuid": "Compendium.jdr-runeterra.magic.0e38f95f59ec1975",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Ylfruüg (Bactérienne)",
+    "uuid": "Compendium.jdr-runeterra.magic.5849b2bd5c19330f",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Balguerüdd (Magique)",
+    "uuid": "Compendium.jdr-runeterra.magic.3b2ae1568fd94eb8",
+    "type": "Item",
+    "img": "systems/jdr-runeterra/assets/icons/item.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "AIGLE DE L’AUGURE",
+    "uuid": "Compendium.jdr-runeterra.bestiary.c48a6cdb5c3e1c78",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1ZXZGkbBL1PDu3DvzHeYTltDk6-5i1_b3.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "BAORGÜK",
+    "uuid": "Compendium.jdr-runeterra.bestiary.618a0d62fc0f625e",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/117ZMinon2DPyoeMXiKeN094NLrpdp438.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "BRIBUCQ",
+    "uuid": "Compendium.jdr-runeterra.bestiary.c16410d58dd35d95",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/11yGR6P9L05Qb6y6XIVcWxbTXDLIDBIYu.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "DRÜVASK",
+    "uuid": "Compendium.jdr-runeterra.bestiary.db0fee4d97ae743f",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/11Rjd1WhiP1M0CTOBiBzRjMUimOaLBN5E.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "ELNÜK",
+    "uuid": "Compendium.jdr-runeterra.bestiary.d730130ba6301714",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1gRfh6kak-fcNaIDQWL1Q6Ns7_wXbSLYj.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "ERBLENT",
+    "uuid": "Compendium.jdr-runeterra.bestiary.c7e4888926f0841f",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/159zT20ExB8CFr5Z6Egl62YtOPJkzMUFz.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "FAUCON PLUME-ACIER",
+    "uuid": "Compendium.jdr-runeterra.bestiary.392f239e52e9bf63",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/13c5ivJjFrdj0iU8NcF8tApn_HkktxiFx.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "GEKODO",
+    "uuid": "Compendium.jdr-runeterra.bestiary.b07aefc28e438977",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/157ziGFwDcgeF1b1Nylaib4b1pWBzROGq.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "HUGMUNN",
+    "uuid": "Compendium.jdr-runeterra.bestiary.00f32368cc87cf40",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1uv3I9Vg0RVMSeMCjmZZt58yRytvRBZW3.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "HYSTEGRIFFE MARIN",
+    "uuid": "Compendium.jdr-runeterra.bestiary.73aca7eed5802430",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1549M-X7DD0Ngm_Kw3ycB2p302AKqkF0A.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "HYVE BOVINE",
+    "uuid": "Compendium.jdr-runeterra.bestiary.beb9deec51c28b7d",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/12AIUhCz2gPMN8zsYZyhAEMAhlgaCC4Sp.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "IBIR",
+    "uuid": "Compendium.jdr-runeterra.bestiary.db351624a48a2fac",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1oxYMgp9Poa35n3oLxtLknUrVTzo0p9-7.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LOUP GIVRECROC",
+    "uuid": "Compendium.jdr-runeterra.bestiary.9754bdb766da3767",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1mvub_Rs9x29vM_FpE5O-eYZXTw4ycPid.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "MOUFLON GÉANT DES MONTAGNES",
+    "uuid": "Compendium.jdr-runeterra.bestiary.a15b9dee1677902f",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1ftimgyJwn_7rwEq8wrtiKpkvUpH7laE2.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "PINCE-REQUIN",
+    "uuid": "Compendium.jdr-runeterra.bestiary.46336f8d989a3d8f",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/11TQoCDODQzcZcx9_1VGzVSkohVadKHGW.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "PORO",
+    "uuid": "Compendium.jdr-runeterra.bestiary.4cdc712de19ecde5",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/18s3Ggvpqr7vOesablO2B0Q-MtLngilwt.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "UGVAR",
+    "uuid": "Compendium.jdr-runeterra.bestiary.8554218a01f0b6a4",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/13gzkIhwEgY35P0mCHwCfRPd31ZBC8Ysw.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "VERS DES GLACIERS “ÍSORMR”",
+    "uuid": "Compendium.jdr-runeterra.bestiary.be43629f8b13ebd9",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1x15DRKnlzl0DNX04vZgksKh6pVp9XDwj.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "YADULSKI (CHIEN DES NEIGES)",
+    "uuid": "Compendium.jdr-runeterra.bestiary.62ff77107215b484",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/15Krjm3VcA1tJETEQ7N59ZIVYBYDSs9FD.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "ABEILLE D’ODMÜND",
+    "uuid": "Compendium.jdr-runeterra.bestiary.c2f07a48992f6014",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1_ssZB_TutD7CFDuD7qJbL11VyYhHO-F8.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "ABRAVIF DES NEIGES",
+    "uuid": "Compendium.jdr-runeterra.bestiary.e229635267b89850",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/133YNobh4FLRHVB_4L8UHOF_gPKK08vsc.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "ARPEKA BÉBÉ",
+    "uuid": "Compendium.jdr-runeterra.bestiary.9665e7630faa9a8b",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/12IY2fd12FVN8ybuAMckpEkqgTCRPp5Vu.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "ARPEKA D’EAU DOUCE",
+    "uuid": "Compendium.jdr-runeterra.bestiary.1ee2d945be13a04f",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/12M6_jGMm2ZiKj89fqvYH00cbfp07DLFJ.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "ARPEKA DES MERS",
+    "uuid": "Compendium.jdr-runeterra.bestiary.b6e18697c7868486",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/12dbMC7yaUc4Es1KgnWKiDAVSrigYCitR.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "BASILIC DES MONTAGNES",
+    "uuid": "Compendium.jdr-runeterra.bestiary.10967f156a142889",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1nbcEg6qM9qUOR69X5vNtioGdeC3LbwNQ.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "SPNETYRR",
+    "uuid": "Compendium.jdr-runeterra.bestiary.3c634948b2894bb4",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1_te0c-Jt1osy8xCFuf2mmwm05X4fjPxf.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "DORDÜMND",
+    "uuid": "Compendium.jdr-runeterra.bestiary.6c530e335555a399",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1Xh_CF93pEs5nI-Q4DNRlQfIBz3LoM09u.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "TREVNSKAALD",
+    "uuid": "Compendium.jdr-runeterra.bestiary.2a8d7979de47e5e2",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1wmPAoAfmTRXxs5M84BBpcSdH8mHD_BoD.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "BUU FISH",
+    "uuid": "Compendium.jdr-runeterra.bestiary.5e423e7a3baf7863",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/11qEf_DlkZVmgrNWa2KFYspSMUKeuWo7o.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "CROQUIN AFFAMÉ",
+    "uuid": "Compendium.jdr-runeterra.bestiary.fa1cbe14c1b75ff8",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/130ruXFDZ_BBdSn0hZaXHx80GX56oRtfB.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "DRÜVASK ROYAL",
+    "uuid": "Compendium.jdr-runeterra.bestiary.57fe8904b86f26b5",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/13b9xWiugIRlfrQDeT7-yMNpDqaVW6hKU.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "FÉLICE COURANT",
+    "uuid": "Compendium.jdr-runeterra.bestiary.1cfdfc7c6c17ea97",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/11o4ollKiWqbucbbUFjwNpaUa_Myg2y9D.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "FÉLICE AMPHIBIE",
+    "uuid": "Compendium.jdr-runeterra.bestiary.17a3161476afee89",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/11e5pBCBc7Vro3Ob3Sfv9lqLOXs9BePQu.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "FÉLICE AQUALITE",
+    "uuid": "Compendium.jdr-runeterra.bestiary.aa2f699f24b71cb4",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/122U57YYhPUCeflaxd-GH9HfK7PqCM7y6.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "FÉLICE CORNU",
+    "uuid": "Compendium.jdr-runeterra.bestiary.9712312399e15aca",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/11in7ser1yMS8mr00u0AIgMpjlstZx-BO.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "FÉLICE SYLVAIN",
+    "uuid": "Compendium.jdr-runeterra.bestiary.84c093e03aaeb578",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1wxSK3oc9c1LSxA7GZwv_y1xNcl13qMx6.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "FÉLICE DRACONIS",
+    "uuid": "Compendium.jdr-runeterra.bestiary.b3226c0ec06f843f",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1wyI9HrIYn41hn7OmvBrVb6bVrQveNCXQ.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "FÉLICE ROYAL",
+    "uuid": "Compendium.jdr-runeterra.bestiary.666624e33dd2b7ae",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/11bhbrDz5soHSjaBivWxmkhv8cMxk35oe.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "GIVREHARPIE - (GIVREHARPIE ARGENTÉ)",
+    "uuid": "Compendium.jdr-runeterra.bestiary.7881acdffd47566a",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/12q4tqol6m3Udt7CDuBPPdmD-a7abTj0l.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "PV",
+    "uuid": "Compendium.jdr-runeterra.bestiary.59622d84a62d8d06",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/icons/creature.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "GOYUZI ♂️ - GOYUZI ♀️",
+    "uuid": "Compendium.jdr-runeterra.bestiary.bf8d81b03f1bae99",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1m2AtQK4Sj4KlUeWS-GsbazogEhWGRF2B.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "GRELLFEEN",
+    "uuid": "Compendium.jdr-runeterra.bestiary.ab550128bd634816",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/13-qc5AmYmol90a4gv9DykUWPOgJ9t8ZL.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "GRIFFEUR - GRIFFEUR ALPHA",
+    "uuid": "Compendium.jdr-runeterra.bestiary.cb3cbdb0ae4cd730",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1RQNdCkUnWZ8WjLyM0NMv54fTYLBVCo0l.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "GRIFFON",
+    "uuid": "Compendium.jdr-runeterra.bestiary.b69a927f81614953",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1IL-o8KVDix8cLPPQ2P0VN3KPGGWoZsxZ.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "GRIFFON FURIEUX",
+    "uuid": "Compendium.jdr-runeterra.bestiary.3a614ef19f272d00",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/18svxhOglAQ7BszvG_cQg1Z2fxE330E3C.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "GRIFFON (BÉBÉ)",
+    "uuid": "Compendium.jdr-runeterra.bestiary.ffbecb7320ca5251",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1IL-o8KVDix8cLPPQ2P0VN3KPGGWoZsxZ.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "HRIMDYR",
+    "uuid": "Compendium.jdr-runeterra.bestiary.6218ba61086cef6e",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1nbpxDJoNi4e69qm6FQoTuQhk2GtJM-9Q.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "HYVE BOVINE DES NEIGES",
+    "uuid": "Compendium.jdr-runeterra.bestiary.15bd4996db15a10d",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/10wDGbCarsOQwamUYaH8yJVNsvzrhfWDU.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "HYVE BOVINE ROYALE",
+    "uuid": "Compendium.jdr-runeterra.bestiary.46a868ac707e5433",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/12AIUhCz2gPMN8zsYZyhAEMAhlgaCC4Sp.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "JERN - JERN BLANC",
+    "uuid": "Compendium.jdr-runeterra.bestiary.464567875b60292b",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/15Aj-HGfEGa6Tr6isQvEj1hhwjYm6rKRK.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LOUP GIVREPELAGE",
+    "uuid": "Compendium.jdr-runeterra.bestiary.e1026238a3189084",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/icons/creature.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "NARVAL DORÉ",
+    "uuid": "Compendium.jdr-runeterra.bestiary.7688272480ebae89",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/147VknAJQQx3dD9_HhvLP8GMvBd8zPgTx.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "NAVILLON",
+    "uuid": "Compendium.jdr-runeterra.bestiary.0eaa0f0b7fab7a19",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/14dVpwAT3Pso9QOcmQ9ibxTqbfdj9j3Eg.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "PEKO",
+    "uuid": "Compendium.jdr-runeterra.bestiary.42d7d55265ac6ea4",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1ZiwKGM2KEvem133Wg98qrQr-GlwU5amO.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "PHOQUE NAIN DES GLACES",
+    "uuid": "Compendium.jdr-runeterra.bestiary.f7e465c159ccd39d",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/13zQNcuFV_CqDJqX1pfkurmCHIP4tOfJY.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "POROMITE",
+    "uuid": "Compendium.jdr-runeterra.bestiary.1b9932ea5be8d483",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/13r8OaavFnikUAZHxLxitS6xYNsjLHIg_.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "ROOYE DES NEIGES",
+    "uuid": "Compendium.jdr-runeterra.bestiary.92361a6c4a8fc9b3",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/13P6ZUyKeeE21Ts1ZIuQ3_5Tk4u0bPgMB.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "SAURIEN DES GLACES",
+    "uuid": "Compendium.jdr-runeterra.bestiary.bdf32df5a3e94d58",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1TvKrkfdZPJDQzhVbxngCHrsqxC5FgLOL.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "STRIGISERRE DES NEIGES",
+    "uuid": "Compendium.jdr-runeterra.bestiary.ceba304452c520d3",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1sCBJ91BxR7RTsx2P7CMj8A4KbvXoVyWn.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "UGVAR ROYAL",
+    "uuid": "Compendium.jdr-runeterra.bestiary.58c8b41830047bd7",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/13gzkIhwEgY35P0mCHwCfRPd31ZBC8Ysw.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "YÉTI",
+    "uuid": "Compendium.jdr-runeterra.bestiary.b2bbb54bed4cddcf",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/140WdKZpEa9-6cjnK1RzY32f0wMO--xH1.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "ÉCLAT PERLÉ BLEU DU GRAND-NORD",
+    "uuid": "Compendium.jdr-runeterra.bestiary.360c47e577ed5eec",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/195jtfJRWkGxsyq3k9lEEuHjUHO2L0qB8.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "ORÜK ROC À BEC",
+    "uuid": "Compendium.jdr-runeterra.bestiary.9fc706453b422cbf",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1s0BWAUYdCkkdu8BHwiMVclIhqwHo6ygu.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "DRÈVAIN COURONNÉ",
+    "uuid": "Compendium.jdr-runeterra.bestiary.f26b4be1ef1c5933",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/19-U3HTymzul-Yrwf6pbwV3FXajQ8ouSW.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "NORDIQUE COMMUN",
+    "uuid": "Compendium.jdr-runeterra.bestiary.30320452a992c8df",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1hRrbf8oUkVh-CZydpJ8MThfPW-n0seqp.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "KRILL GRAZIER À CORNES",
+    "uuid": "Compendium.jdr-runeterra.bestiary.343f8a2131c78f06",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1hf14lWhT7uhSsmqTNMtv8R5dK31hW_kD.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "ÉCLAT PERLÉ ALBINOS",
+    "uuid": "Compendium.jdr-runeterra.bestiary.5f494634dd4a589d",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/icons/creature.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "BOADIR À LA GLACE NOIRE",
+    "uuid": "Compendium.jdr-runeterra.bestiary.7bd15de223fdafce",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/19w-4LP7pBSjQlTgDp-W1OyfagCKzhB2s.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "ARPEKA DES GLACES",
+    "uuid": "Compendium.jdr-runeterra.bestiary.1981a249bd7782b1",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/12K-hJqm-PP4tJCchkNQtkyR7tby1jqqB.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "CERF ROYALE SUBLIMÉ",
+    "uuid": "Compendium.jdr-runeterra.bestiary.41afd33fffc467a5",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1p5KScwdX6h1m18TeJYL_lN9qsTRKUstB.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "GRUE ORNÉE MAJESTUEUSE “ONN’VANA”",
+    "uuid": "Compendium.jdr-runeterra.bestiary.32c729254cdee2e7",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/148114sWaTkTEBnulc9w5hlKxzrZeTOCP.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "HYVE CORNUE SPIRITUELLE",
+    "uuid": "Compendium.jdr-runeterra.bestiary.1f4fa22cac817474",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/14B4S-OOZrbfKOSnQppQnF8ynLAb6YMcW.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LES IMMORTELLES",
+    "uuid": "Compendium.jdr-runeterra.bestiary.9db24899e0c736d4",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/icons/creature.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "VARGH’HEGGEN",
+    "uuid": "Compendium.jdr-runeterra.bestiary.da50d917c23a01c7",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/14axGPGzJDI3tvNPiE-f9689C9jO0aXmm.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "NAVILLON DES TEMPÊTES",
+    "uuid": "Compendium.jdr-runeterra.bestiary.ce31de5c79972030",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/14dVpwAT3Pso9QOcmQ9ibxTqbfdj9j3Eg.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "OROK’ULTH",
+    "uuid": "Compendium.jdr-runeterra.bestiary.fa2383545402a420",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/12ERtcgcjT_NEsRsxEnkBiimO5CUFej-C.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "OWLTAKAN",
+    "uuid": "Compendium.jdr-runeterra.bestiary.5582f8f4eee3d48a",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/14cY0V485X2QZqJPXtyj9NbLcunLBieQH.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "TWILIT PROTECTEUR",
+    "uuid": "Compendium.jdr-runeterra.bestiary.edea7becf976e740",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1r93i7Pho1hHEYoC60tEbCjJ1em_lzJ5W.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "ASTROLIMIER (TARGON)",
+    "uuid": "Compendium.jdr-runeterra.bestiary.b56134a1a82faac4",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/14mbUn0Qlq_jT1t90ypU-_mjwbXRERml1.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "CHAPAMENTA (IONIA)",
+    "uuid": "Compendium.jdr-runeterra.bestiary.08bad3fc9e853437",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1fNdRz-NfV_0bXpDqtSAzZOwscKZFwgBU.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "TARAMNIEL - TARAMNIEL ROYALE (VALORAN)",
+    "uuid": "Compendium.jdr-runeterra.bestiary.9eddeba52e48dd56",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1VJQmZG9K1dYsMBGydgnPV8M1DhcHX4dF.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LYNCAO CORNU (VALORAN)",
+    "uuid": "Compendium.jdr-runeterra.bestiary.ef4deb0cb91e6243",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1IIq8T8plFYgLgQnQv1bdtVT2Rob4YATm.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "MOMOICÆN (VALORAN)",
+    "uuid": "Compendium.jdr-runeterra.bestiary.c86d075eb146bc44",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1IKqVrXrIaBYorySLCclvl20xpG9e8SYT.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "OÇILLE DE SKAAN (SHURIMA)",
+    "uuid": "Compendium.jdr-runeterra.bestiary.e734c069be5a90e6",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1kRHX0nhzg23cobZ6YBK86YrwtlnN8zX7.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "ROOYE DES SABLES (SHURIMA)",
+    "uuid": "Compendium.jdr-runeterra.bestiary.34f315d8c3e7506d",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/13Q5cMAI3KtTsmwZNSAH1SGBrCJuUS9g0.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "SAUTE-NUAGE (IONIA)",
+    "uuid": "Compendium.jdr-runeterra.bestiary.4b8e7ea7d1d58e26",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/drive/1nUzJ9uGWoZM2squX8hS2Mkos0lX_LB6c.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "AIGLE / FAUCON",
+    "uuid": "Compendium.jdr-runeterra.bestiary.ec503cd772a30c5b",
+    "type": "Actor",
+    "img": "systems/jdr-runeterra/assets/icons/creature.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "GUÜRDARL",
+    "uuid": "Compendium.jdr-runeterra.atlas.806bbc6ae44d904f",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/11RKlSnjKFfvEg3PId7uv4vF2z_nb2Dpb.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Port de Guürdarl",
+    "uuid": "Compendium.jdr-runeterra.atlas.d8bbdda155aa4391",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "FROSTHELD",
+    "uuid": "Compendium.jdr-runeterra.atlas.ccb89216bf8f9b34",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1GLZ5VOzbAdK1yplWSaIXeUi3Hj3T65tI.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Auberge de Typhon (Auberge)",
+    "uuid": "Compendium.jdr-runeterra.atlas.e46795f6571f38af",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1HdzPEAjILGzbNfSqJY8sDTR5jfcP_nBN.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Cathédrale d’Anivia",
+    "uuid": "Compendium.jdr-runeterra.atlas.c84545b66db51a3d",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Port de Frostheld",
+    "uuid": "Compendium.jdr-runeterra.atlas.12788d904a08bf33",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1y_7pJHU0_Jna2331UZoP2rwQW09eZq1E.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Grand Marché de Frostheld",
+    "uuid": "Compendium.jdr-runeterra.atlas.1657512f5f77beb2",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Salle du Conseil",
+    "uuid": "Compendium.jdr-runeterra.atlas.4d14f6e42fb5b4ef",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1zfEOFBfXXyijXVD8tJUeRE0MfI3Koaw-.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Forge des Frères Guldor",
+    "uuid": "Compendium.jdr-runeterra.atlas.536fa9f7e5826360",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "PLAINES DORÉES",
+    "uuid": "Compendium.jdr-runeterra.atlas.11f2b0bf4c4e2fc1",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1zt_fx6b5Np_kMBe7AeHvN67PI_KiuotC.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Repère d’Odvïr",
+    "uuid": "Compendium.jdr-runeterra.atlas.81304e453244f1a5",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1DFLZSu_WSymTiIBrxjgpa3ptHQ41ZJiF.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "CREUX DE VALAR",
+    "uuid": "Compendium.jdr-runeterra.atlas.b167247b05dfa013",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1UhUaEzvpiCf-vOMRz-danz-MMTp_-2rW.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Au Bribucq Bourré (Auberge)",
+    "uuid": "Compendium.jdr-runeterra.atlas.0f126c963c4e31c7",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1GqBqv9mwDYsPj_pYgEPlGRRfzazhBmnB.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Galdraläg (École Légendaire de Musimage)",
+    "uuid": "Compendium.jdr-runeterra.atlas.7129a277e64f95b8",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1RHj7T86wVIDuTwTBVXL5tK4j16_Cz2CU.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Palais d’Algar",
+    "uuid": "Compendium.jdr-runeterra.atlas.0dffeaa2e9c0d36e",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1HE-dLANXcwUl9KOvzgmRJasgRFWhCsn_.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Port du Creux",
+    "uuid": "Compendium.jdr-runeterra.atlas.55baf917485d09d9",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "CHAÎNES D’ODMÜND",
+    "uuid": "Compendium.jdr-runeterra.atlas.c6243a7e130f9176",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1KXkj3auVPkpQh_a6lVMxFbs_R7Wfwr63.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "FAILLE DE BORRVOK",
+    "uuid": "Compendium.jdr-runeterra.atlas.acdfb0fc24dec162",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/105D6J8438rD5h6mwCxFdnkkBo2WV8qI8.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Borrvok’Vael (Village Ouest)",
+    "uuid": "Compendium.jdr-runeterra.atlas.0e9df0f5747e1fdf",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1OHT4mhSlHTkrwupYY3lHRHNG5LL47AFK.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Borrvok’Kjal (Village Est)",
+    "uuid": "Compendium.jdr-runeterra.atlas.afb52fb5ae376097",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1OHT4mhSlHTkrwupYY3lHRHNG5LL47AFK.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "FYORD’AL KURGËN",
+    "uuid": "Compendium.jdr-runeterra.atlas.2cac30e6424ab489",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/15b_dBM61ScE9b7Pvq-dgV6OyYFJkjIkN.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "L’Antre du Mouflon (Auberge)",
+    "uuid": "Compendium.jdr-runeterra.atlas.b6933c45615b3f8d",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "L’Alchimisterie de Yolenda",
+    "uuid": "Compendium.jdr-runeterra.atlas.56e10ddcf564bf3a",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Forge de Yësnir",
+    "uuid": "Compendium.jdr-runeterra.atlas.661779ab2d5a5702",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1vOEYhLN20jzlKtG2GHMn2l3jGve_YDUo.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Tour de l’Assemblée",
+    "uuid": "Compendium.jdr-runeterra.atlas.163220a5fb1c13ea",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "RAKELSTAKE (VILLAGE)",
+    "uuid": "Compendium.jdr-runeterra.atlas.56e0ee729b014dcd",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1FzFa9buP5-k8ujXLjELTkhGauS2LtRp3.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "La Chouette Éméchée (Auberge)",
+    "uuid": "Compendium.jdr-runeterra.atlas.4b6c35603a40cd0f",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1AH4KOUBo5JjXguIJ763_4gngYxu0nX7I.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Helling Derril (École des Guildes)",
+    "uuid": "Compendium.jdr-runeterra.atlas.9bab5c97a09a8334",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Le Réseau (Guilde des Voleurs)",
+    "uuid": "Compendium.jdr-runeterra.atlas.e9642fa77a242b10",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1jo0WCv6kFE5s7Gjv0cX-y1NFcyI9O3WK.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "L’Enchantarium d’Ulfric (Alchimiste/Enchanteur)",
+    "uuid": "Compendium.jdr-runeterra.atlas.1326cfedc7bde876",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Fiske & Kindra (Forge)",
+    "uuid": "Compendium.jdr-runeterra.atlas.9e8de2c822c6b583",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/13vim4Hk8pEFQmN-x_4UVSPJjxJfVUFtF.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "L’Enclos d’Edna (Garde et Dressage de Bêtes)",
+    "uuid": "Compendium.jdr-runeterra.atlas.c30674f4f65512e2",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Quartier du Marché",
+    "uuid": "Compendium.jdr-runeterra.atlas.8c3d5bfc714f3acb",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1B7zg1LAcmaEhpjfk90ZLJQkOQYMX96ZQ.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Caserne Avarosan",
+    "uuid": "Compendium.jdr-runeterra.atlas.821d3f215f8098b5",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1H-rYUlIfHmd6ggO5tNwBR4wSd-I_Zj9r.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Le Gouffre (Taverne Secrète - Voleur)",
+    "uuid": "Compendium.jdr-runeterra.atlas.d413497362d26245",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1AJfnBq_aX5UeT2IXK3DdxNUX_0VqVrVH.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "RAKELSTAKE (TRÔNE)",
+    "uuid": "Compendium.jdr-runeterra.atlas.4570ebacbe795f9b",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1FzFa9buP5-k8ujXLjELTkhGauS2LtRp3.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Le Permafrost (Auberge)",
+    "uuid": "Compendium.jdr-runeterra.atlas.f3da388ef53b4947",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Le Quartier du Troc",
+    "uuid": "Compendium.jdr-runeterra.atlas.2ab8e0cd9abaa3b1",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "La Salle du Trône",
+    "uuid": "Compendium.jdr-runeterra.atlas.e997049c796cba7b",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1dyFCl0ETS2N5RiMdHGF-LFJHtqeuN5sU.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Le Temple des Sublimés",
+    "uuid": "Compendium.jdr-runeterra.atlas.1a6a784c660c75cc",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1HBTHwdDFT8hZpmSxjMOqoFikzqK9vvLv.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Grande Allée d’Avarosa",
+    "uuid": "Compendium.jdr-runeterra.atlas.e23f2ff3c934f437",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/10Xrfah7zp7PUJ0nGUVOges_KgXunKo8a.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "La Forge de Joana",
+    "uuid": "Compendium.jdr-runeterra.atlas.e9f01a27b1ed3bd0",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1SpHXkLLduTsI17pBjPOznjgNOpH8THlt.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "PORT DE RYGANN",
+    "uuid": "Compendium.jdr-runeterra.atlas.7186f751c556201a",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1w-s_6pM6NvSz6c_7oVbQQLSysb6VYhBO.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "GLASERPORT",
+    "uuid": "Compendium.jdr-runeterra.atlas.469c3cd4c8d95eb5",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1A46tDHF7xaH0LnTqMmRyCp9UlmxSlSXN.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "OLBUKRN",
+    "uuid": "Compendium.jdr-runeterra.atlas.a151428593826c84",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1fn8sOYyaDLwLTJ97jbHUSFuG4_y0UsNp.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Le Canal d’Olbukrn",
+    "uuid": "Compendium.jdr-runeterra.atlas.3c3c1f3f7f3ef47e",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "VATHCAER",
+    "uuid": "Compendium.jdr-runeterra.atlas.9c75bf5fad6e1dcb",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/13j6m1sPe7C8sLaLTR13x4qKS-Xy-Y3pO.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Le Vathcaer",
+    "uuid": "Compendium.jdr-runeterra.atlas.b7fb49ba3d07c853",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1ls81VIu-Grwa8SfIXFCl729LyDHVXxD8.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Le Quchar",
+    "uuid": "Compendium.jdr-runeterra.atlas.4986c1e877664e8c",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Yadulsk",
+    "uuid": "Compendium.jdr-runeterra.atlas.a9b6e38b3fef44d0",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/15Krjm3VcA1tJETEQ7N59ZIVYBYDSs9FD.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "L’Île du Qaccfar",
+    "uuid": "Compendium.jdr-runeterra.atlas.c7a80cecf005ddcc",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "NALJAÄG",
+    "uuid": "Compendium.jdr-runeterra.atlas.1e547276b21d7646",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Auberge Au Milieu de Nulle Part",
+    "uuid": "Compendium.jdr-runeterra.atlas.d202c589920e258c",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1NMaRH-k-4YXbOxNTxsBvqirOxsmyqQaO.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LES PLAINES OUBLIÉES",
+    "uuid": "Compendium.jdr-runeterra.atlas.30c1ef49eff546a4",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1wVafo8CZiVMOIhrbiOR5eVpZMRDvgNzF.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "GÜK’NARRHAE",
+    "uuid": "Compendium.jdr-runeterra.atlas.ef4aa9b1c203467e",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1uq1i5Su7LCIjFLECR3ZmJ3xJWtFii0KJ.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "URTIS",
+    "uuid": "Compendium.jdr-runeterra.atlas.4479e953bf21d000",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/16yHS3JRK7z7WGbaKuYJGY0pb204pgFdz.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "DA’ARVONG",
+    "uuid": "Compendium.jdr-runeterra.atlas.65f08995dbb74aef",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/170KhR2MiSEYenCkHHTKj4vQZ9xGZHIUw.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "GHULGIVRE",
+    "uuid": "Compendium.jdr-runeterra.atlas.69b06fcfbd1cd584",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "RAMSHARA",
+    "uuid": "Compendium.jdr-runeterra.atlas.352e9c4d24159500",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "VILLAGES TROLLS",
+    "uuid": "Compendium.jdr-runeterra.atlas.feb1359da2682832",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "TRAJET SUD",
+    "uuid": "Compendium.jdr-runeterra.atlas.83a11c0774010f1f",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "TRAJET OUEST",
+    "uuid": "Compendium.jdr-runeterra.atlas.51d3f21a7bf077de",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "TRAJET EST",
+    "uuid": "Compendium.jdr-runeterra.atlas.c6be0869372f3e6a",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "TRAJET NORD",
+    "uuid": "Compendium.jdr-runeterra.atlas.73207beed4bff6cf",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Bain Chaud Naturel",
+    "uuid": "Compendium.jdr-runeterra.atlas.327b8af619c8904f",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/place.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Sceau de la tempête",
+    "uuid": "Compendium.jdr-runeterra.atlas.b126e6b82bc82d40",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/drive/1mfYCu-6xT7ICWXPglqeASqo9dcM3yzsl.webp",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Économie — prix, recettes et fournitures",
+    "uuid": "Compendium.jdr-runeterra.rules.6fda2b8252b6d5ea",
+    "type": "JournalEntry",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LES ATTRIBUTS",
+    "uuid": "Compendium.jdr-runeterra.rules.4ec3581dca1a16d5",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/magic.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "CRÉATION PERSONNAGE",
+    "uuid": "Compendium.jdr-runeterra.rules.41df7cf2c8a94806",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/magic.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "MAGIE ET TECHNOLOGIE",
+    "uuid": "Compendium.jdr-runeterra.rules.3668f12e7495d53c",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/magic.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LE SYSTÈME",
+    "uuid": "Compendium.jdr-runeterra.rules.5e477082a92cb988",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/magic.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "ÉVOLUTION DU PERSONNAGE",
+    "uuid": "Compendium.jdr-runeterra.rules.b3871be8df3c37ea",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/magic.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LES DÉGÂTS",
+    "uuid": "Compendium.jdr-runeterra.rules.8cb427d6c3a01a7b",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/magic.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LES SOINS",
+    "uuid": "Compendium.jdr-runeterra.rules.f1c9d6f969493f20",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/magic.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LES EFFETS",
+    "uuid": "Compendium.jdr-runeterra.rules.08390b72d7167010",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/magic.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LA SURVIE",
+    "uuid": "Compendium.jdr-runeterra.rules.7e312489c9e2629c",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/magic.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LE COMBAT",
+    "uuid": "Compendium.jdr-runeterra.rules.34d366c906d37934",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/magic.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "LES RÉSISTANCES",
+    "uuid": "Compendium.jdr-runeterra.rules.281e9096241aeb40",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/magic.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "CONSOMMABLES",
+    "uuid": "Compendium.jdr-runeterra.rules.7bce065fd88ba0b5",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/magic.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "ÉQUIPEMENT",
+    "uuid": "Compendium.jdr-runeterra.rules.b0525b164a14bc2d",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/magic.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "MÉTIERS",
+    "uuid": "Compendium.jdr-runeterra.rules.bfe636a9bcf46852",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/magic.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "GRADES ET ORDRE DE GRADE",
+    "uuid": "Compendium.jdr-runeterra.rules.d2b79f894a13d170",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/magic.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "MONTURES, FAMILIERS ET VÉHICULES",
+    "uuid": "Compendium.jdr-runeterra.rules.f9a43f4c71ae00b7",
+    "type": "JournalEntry",
+    "img": "systems/jdr-runeterra/assets/icons/magic.svg",
+    "systemVersion": "0.8.0"
+  },
+  {
+    "name": "Prise en main & arbitrages",
+    "uuid": "Compendium.jdr-runeterra.rules.83ca68be6227af2f",
+    "type": "JournalEntry",
+    "systemVersion": "0.8.0"
+  }
+]
